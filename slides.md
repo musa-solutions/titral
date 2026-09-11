@@ -1,7 +1,7 @@
 ---
 title: 'Titral — La souveraineté IA, prouvée par les données'
-info: 'Candidature Innovact · Reims, septembre 2026 · Murilo Vasconcelos Andrade & Thiago Sabetta'
-author: 'Murilo Vasconcelos Andrade & Thiago Sabetta'
+info: 'Innovact · Reims, septembre 2026 · Murilo Vasconcelos Andrade & Thiago Sabetta'
+author: 'Murilo Vasconcelos & Thiago Sabetta'
 keywords:
   - 'IA générative'
   - 'souveraineté numérique'
@@ -21,7 +21,7 @@ mermaid:
 
 <div>
 
-<div class="kicker">Candidature Innovact · Reims · Grand Est</div>
+<div class="kicker">Innovact · Reims · Grand Est</div>
 
 <h1 class="text-8xl font-semibold tracking-tight mt-8">Titral</h1>
 
@@ -33,8 +33,8 @@ Nous benchmarkons les modèles d'IA sur les <span class="text-zinc-100">données
 
 <div class="flex items-end justify-between">
 <div class="text-sm space-y-1">
-<div><span class="text-zinc-100 font-medium">Murilo Vasconcelos Andrade</span> <span class="text-zinc-500">— CEO</span></div>
-<div><span class="text-zinc-100 font-medium">Thiago Sabetta</span> <span class="text-zinc-500">— CTO</span></div>
+<div><span class="text-zinc-100 font-medium">Murilo Vasconcelos Andrade</span> <span class="text-zinc-500"></span></div>
+<div><span class="text-zinc-100 font-medium">Thiago Sabetta</span> <span class="text-zinc-500"></span></div>
 </div>
 <div class="text-right text-xs text-zinc-500 leading-relaxed">
 Reims · Septembre 2026
@@ -49,7 +49,7 @@ Reims · Septembre 2026
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">02 · Problème</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">Une dépendance massive, prouvée par personne</h2>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Une dépendance massive, jamais mesurée</h2>
 
 <div class="grid grid-cols-3 gap-3 mt-6">
 
@@ -319,7 +319,7 @@ Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acte
 
 <div class="grid grid-cols-2 gap-3 mt-5">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-5">
-<div class="text-lg font-medium text-zinc-100">Murilo Vasconcelos Andrade</div>
+<div class="text-lg font-medium text-zinc-100">Murilo Vasconcelos</div>
 <div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase">CEO · Go-to-market · Clients</div>
 <div class="text-sm text-zinc-400 mt-2.5 space-y-1 leading-snug">
 <div>Fondateur de Studiare — <span class="text-zinc-100 font-medium">acquis par Kroton en 2015</span></div>
