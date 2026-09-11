@@ -23,12 +23,17 @@ directement depuis la présentation en ligne.
 
 ## Sources des données chiffrées
 
-- Menlo Ventures, *LLM Market Update* (déc. 2025) — concentration de la dépense LLM entreprise
-- IDC, *Worldwide AI & GenAI Spending Guide* (avr. 2026) — dépense IA européenne 2029
-- RAIL (avr. 2026) — état de préparation AI Act
-- Règlements (UE) 2022/2554 (DORA) et 2024/1689 (AI Act)
-- Communiqué Bercy (nov. 2025) — accord France-Allemagne Mistral × SAP
-- Quest for Change / Innovact — chiffres du réseau 2025
+👉 **Détail complet, nuances et caveats : `FINDINGS.md`** — synthèse de recherche exa/tavily (2025-2026).
+
+Résumé :
+
+- Menlo Ventures, *State of GenAI in the Enterprise* (déc. 2025, confirmé 2026) — concentration 88 %, dépense GenAI 37 Md$, 11 % seulement changent de fournisseur
+- IDC EMEA IT Market (mai 2026) — 319 Md$ de dépense IA EMEA 2026 · FutureScape EMEA — 60 % clouds souverains
+- IDC Worldwide AI & GenAI Spending Guide (avr. 2026) — 290 Md$ Europe 2029, banque 12,5 %, santé +39,7 %/an
+- Vision Compliance (avr. 2026) — 78 % sans action AI Act · Omnibus 2026 : haut risque → déc. 2027, transparence août 2026
+- Règlement (UE) 2022/2554 (DORA) — en vigueur, 22 000+ entités, sanctions 10 % CA
+- LinkedIns fondateurs + aio.com.br — équipe (Studiare→Kroton 2015, CEA, CFM, AIO 50 000+ étudiants)
+- Quest for Change / Innovact — 300 startups, 114 M€ levés 2025
 
 Les chiffres spécifiques à l'entreprise (pricing, traction) sont volontairement
 qualitatifs : à compléter avec les données réelles avant présentation.
