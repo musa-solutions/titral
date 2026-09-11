@@ -94,7 +94,7 @@ Changer sans preuve chiffrée, c'est le risque qualité. Ne pas changer, c'est l
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">03 · Proposition de valeur</div>
-<h2 class="text-3xl font-semibold tracking-tight mt-2">Ce que vous pouvez migrer, vers quoi, à quel risque — prouvé sur votre production</h2>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Ce que vous pouvez migrer — preuve à l'appui</h2>
 
 <div class="mt-3 text-sm text-zinc-200 leading-snug border-l-2 border-zinc-500 pl-4">
 Le risque qualité et le risque réglementaire, levés par la <span class="text-zinc-100 font-medium">même preuve</span> : vos données de production.
