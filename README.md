@@ -1,7 +1,9 @@
 # Titral — Pitch deck Innovact (Slidev)
 
-Pitch deck de 10 slides suivant la méthodologie Guy Kawasaki, en français,
-destiné au comité de sélection de l'incubateur Innovact (Reims / Grand Est).
+Pitch deck de 6 slides en français, destiné au comité de sélection de
+l'incubateur Innovact (Reims / Grand Est). Quatre slides supplémentaires
+(Business model, Go-to-market, Projections, Statut/Jalons) sont commentées
+dans `slides.md` et peuvent être réactivées en retirant les blocs `<!-- -->`.
 
 Design : fond noir pur (`bg-black`), typographie Inter (zinc-100 / zinc-400),
 cartes minimalistes `border border-zinc-800 bg-zinc-950/60 rounded-xl`.

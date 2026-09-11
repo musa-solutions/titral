@@ -26,7 +26,7 @@ mermaid:
 <h1 class="text-8xl font-semibold tracking-tight mt-8">Titral</h1>
 
 <p class="text-2xl text-zinc-400 mt-8 max-w-4xl leading-snug">
-Nous benchmarkons les modèles d'IA sur les <span class="text-zinc-100">données de production réelles</span> de nos clients : nous quantifions leur dépendance aux fournisseurs et prouvons vers quoi ils peuvent migrer <span class="text-zinc-100">sans perte de qualité ni de conformité</span>.
+<span class="text-zinc-100">Titral, du <em>titrage</em></span> — doser une solution pour en mesurer précisément la concentration. Nous titrons les modèles d'IA sur vos <span class="text-zinc-100">données de production réelles</span> : dépendance quantifiée, et migration prouvée <span class="text-zinc-100">sans perte de qualité ni de conformité</span>.
 </p>
 
 </div>
@@ -41,7 +41,7 @@ Reims · Septembre 2026
 </div>
 </div>
 
-<div class="deck-footer">01 / 10</div>
+<div class="deck-footer">01 / 06</div>
 </div>
 
 ---
@@ -86,7 +86,7 @@ Changer sans preuve chiffrée, c'est le risque qualité. Ne pas changer, c'est l
 </div>
 
 <div class="mt-auto pt-2 text-xs text-zinc-600">Sources : Menlo Ventures, State of GenAI in the Enterprise (déc. 2025, confirmé 2026) · Vision Compliance (avr. 2026) · règlements (UE) 2022/2554 et 2024/1689, Omnibus 2026</div>
-<div class="deck-footer">02 / 10</div>
+<div class="deck-footer">02 / 06</div>
 </div>
 
 ---
@@ -126,7 +126,7 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 <span class="font-mono text-xs text-zinc-500">03</span><div class="leading-snug"><span class="text-zinc-200 font-medium">Décider</span> <span class="text-zinc-400">— un rapport de migration opposable</span></div>
 </div>
 
-<div class="mt-auto grid grid-cols-2 gap-3">
+<div class="mt-auto pt-6 grid grid-cols-2 gap-3">
 <div class="border border-zinc-800 rounded-xl p-3 leading-snug">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Sans Titral</div>
 <div class="text-[13px] text-zinc-500 mt-0.5">Dépendance subie · conformité par assertion</div>
@@ -136,7 +136,7 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 <div class="text-[13px] text-zinc-200 mt-0.5">Dépendance chiffrée · conformité par preuve</div>
 </div>
 </div>
-<div class="deck-footer">03 / 10</div>
+<div class="deck-footer">03 / 06</div>
 </div>
 
 ---
@@ -144,11 +144,11 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">04 · Sous le capot</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">Rejouer votre production, arbitrer par tâche : la fiabilité d'un exhaustif, à une fraction du coût</h2>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Un rejeu exhaustif, à une fraction du coût</h2>
 
 ```mermaid {theme:'base', themeVariables:{primaryColor:'#0a0a0b', primaryTextColor:'#fafafa', primaryBorderColor:'#3f3f46', lineColor:'#71717a', secondaryColor:'#111113', tertiaryColor:'#09090b', mainBkg:'#0a0a0b', nodeBorder:'#3f3f46', clusterBkg:'#000000', edgeLabelBackground:'#000000', fontSize:'16px'}}
 flowchart LR
-  W[Workloads de production<br/>SDK léger · logs existants] --> S[Échantillonnage bayésien<br/>les sessions les plus informatives]
+  W[Workloads de production<br/>SDK léger · logs existants] --> S[Échantillonnage OED<br/>les sessions les plus informatives]
   S --> R[Rejeu multi-fournisseurs<br/>dont modèles souverains]
   R --> M[Benchmarks par tâche<br/>qualité · coût · latence]
   M --> P[Verdict de migration<br/>par application]
@@ -157,27 +157,28 @@ flowchart LR
 <div class="grid grid-cols-3 gap-3 mt-3">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-sm font-medium text-zinc-100">01 · Rejeu de production</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Vos workloads réels, captés à la source — la seule base d'évaluation qui prédit ce qui se passera dans <span class="text-zinc-200">votre</span> production, pas dans un lab</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Vos workloads réels, captés à la source — la seule base d'évaluation qui prédit ce qui se passera dans <span class="text-zinc-200">votre</span> production, pas en laboratoire</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-sm font-medium text-zinc-100">02 · Échantillonnage OED</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">6 ans de R&D en Optimal Experiment Design : sélectionner les sessions les plus informatives — la fiabilité d'un rejeu exhaustif, sans payer chaque combinaison fournisseur × modèle</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Des années de R&D en Optimal Experiment Design : sélectionner les sessions les plus informatives — un verdict fiable sur <span class="text-zinc-200">tout le périmètre</span>, sans payer chaque combinaison fournisseur × modèle</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="text-sm font-medium text-zinc-100">03 · Benchmarks par tâche</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Chaque usage — RAG, extraction, synthèse, code… — obtient son propre verdict : quelles applications migrent, vers quoi, à quel risque. Pas un score global inactionnable</div>
+<div class="text-sm font-medium text-zinc-100">03 · Benchmarks par tâche et modèle</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Chaque usage — RAG, extraction, synthèse, code… — obtient son propre verdict : quelles applications migrent, vers quoi, à quel risque. Pas un score global qui n'engage rien</div>
 </div>
 </div>
 
 <div class="mt-3 text-base text-zinc-100 leading-snug">
-Assez économique pour être rejoué en continu : <span class="text-zinc-400">la migration devient un pilotage, pas un pari unique.</span>
+Assez économique pour être rejoué en continu : <span class="text-zinc-400">la migration devient un pilotage, pas un audit ponctuel.</span>
 </div>
 
-<div class="deck-footer">04 / 10</div>
+<div class="deck-footer">04 / 06</div>
 </div>
 
 ---
 
+<!-- Slides retirées du deck : 05 · Business model · 06 · Go-to-market
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">05 · Business model</div>
@@ -213,8 +214,6 @@ Assez économique pour être rejoué en continu : <span class="text-zinc-400">la
 <div class="deck-footer">05 / 10</div>
 </div>
 
----
-
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">06 · Go-to-market</div>
@@ -245,17 +244,17 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="deck-footer">06 / 10</div>
 </div>
 
----
+-->
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">07 · Analyse concurrentielle</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">Personne ne teste vos données de production</h2>
+<div class="kicker">05 · Analyse concurrentielle</div>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Seuls à quantifier la résilience des workflows AI</h2>
 
 <div class="grid grid-cols-12 gap-6 mt-4">
 
 <div class="col-span-7">
-<div class="relative h-[270px] border border-zinc-800 rounded-xl bg-zinc-950/40">
+<div class="relative h-[256px] border border-zinc-800 rounded-xl bg-zinc-950/40">
 <div class="absolute top-0 right-0 w-1/2 h-1/2 bg-zinc-900/50 rounded-br-xl"></div>
 <div class="absolute top-1/2 left-0 w-full border-t border-zinc-700"></div>
 <div class="absolute top-0 left-1/2 h-full border-l border-zinc-700"></div>
@@ -277,7 +276,7 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="text-xs text-zinc-300">Observabilité LLM<br><span class="text-zinc-500">LangSmith · Langfuse · Helicone</span></div>
 </div>
 
-<div class="absolute flex items-center gap-2" style="left:68%;top:28%;transform:translateY(-50%)">
+<div class="absolute flex flex-row-reverse items-center gap-2" style="right:22%;top:20%;transform:translateY(-50%)">
 <div class="w-3 h-3 rounded-full bg-zinc-100 shrink-0" style="box-shadow:0 0 0 5px rgba(244,244,245,0.15)"></div>
 <div class="text-sm text-zinc-100 font-medium">Titral<br><span class="text-xs text-zinc-400 font-normal">rejeu OED · continu · chiffré</span></div>
 </div>
@@ -311,35 +310,36 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="mt-3 text-base text-zinc-100 leading-snug">
 Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acteur qui rejoue vos workloads réels contre des alternatives souveraines pour arbitrer la migration.
 </div>
-<div class="deck-footer">07 / 10</div>
+<div class="deck-footer">05 / 06</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">08 · Équipe</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">6 ans d'OED, 10 mois dans le problème</h2>
+<div class="kicker">06 · Équipe</div>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Notre Équipe</h2>
 
 <div class="grid grid-cols-2 gap-3 mt-5">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-5">
 <div class="text-lg font-medium text-zinc-100">Murilo Vasconcelos</div>
-<div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase">CEO · Go-to-market · Clients</div>
+<div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase"></div>
 <div class="text-sm text-zinc-400 mt-2.5 space-y-1 leading-snug">
-<div>Fondateur de Studiare — <span class="text-zinc-100 font-medium">acquis par Kroton en 2015</span></div>
-<div>Ex-quant : Morgan Stanley · Santander · Banco BBM</div>
-<div>École polytechnique · DEA El Karoui (Paris VI)</div>
-<div>Or OBM · argent IMC · ACM ICPC ×3</div>
+<div>Fondateur Studiare — <span class="text-zinc-100 font-medium">acquis par Kroton en 2015</span> & Fondateur AIO 2020 </div>
+<div>Quant : Morgan Stanley · Santander · Banco BBM</div>
+<div>Or en Olympiade de Maths Brésil · Argent  International Mathematical Competition</div>
+<div>École Polytechnique · DEA El Karoui</div>
 </div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-5">
 <div class="text-lg font-medium text-zinc-100">Thiago Sabetta</div>
-<div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase">CTO · R&D · Méthodologie</div>
+<div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase"></div>
 <div class="text-sm text-zinc-400 mt-2.5 space-y-1 leading-snug">
-<div>Co-fondateur &amp; CTO d'AIO — <span class="text-zinc-100 font-medium">50 000+ étudiants</span> en IA pédagogique</div>
-<div>Chercheur CEA Saclay — publication American Physical Society</div>
-<div>Data chez CFM · Eng. Manager Zefir</div>
-<div>École polytechnique · USP</div>
+<div>Co-fondateur &amp; CTO AIO <span class="text-zinc-100 font-medium"></span> </div>
+<div></div>
+<div>Data Engineer  CFM · AI/Data Manager  Zefir</div>
+<div>Conseil IT Asset Management</div>
+<div>École Polytechnique ·  Physique Statistique · Paris XI CEA Saclay</div>
 </div>
 </div>
 </div>
@@ -347,17 +347,16 @@ Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acte
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4 mt-3">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Preuves d'exécution</div>
 <div class="grid grid-cols-3 gap-4 mt-1.5">
-<div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">AIO (2020)</span> : une entreprise d'IA pédagogique déjà construite ensemble — 50 000+ étudiants au Brésil</div>
-<div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">Studiare → Kroton (2015)</span> : une première acquisition réussie</div>
-<div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">10 derniers mois</span> : briques OED opérationnelles sur cas réels, marchés adjacents identifiés (upsell, pivot)</div>
+<div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">Studiare → Kroton (2015)</span> : un des premiers exits en Éducation au Brésil</div>
+<div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">AIO (2020)</span> : une entreprise d'IA pédagogique déjà construite ensemble — 70 000+ étudiants au Brésil</div>
+<div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">2026</span> : briques opérationnelles construites sur des cas réels dans le cadre d'un projet Google Foundation</div>
 </div>
 </div>
 
-<div class="deck-footer">08 / 10</div>
+<div class="deck-footer">06 / 06</div>
 </div>
 
----
-
+<!-- Slides retirées du deck : 09 · Projections &amp; métriques clés · 10 · Statut, jalons &amp; Innovact
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">09 · Projections &amp; métriques clés</div>
@@ -397,8 +396,6 @@ Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acte
 <div class="deck-footer">09 / 10</div>
 </div>
 
----
-
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">10 · Statut, jalons &amp; Innovact</div>
@@ -433,4 +430,5 @@ La transparence IA devient obligatoire en août 2026, le haut risque en 2027 —
 </div>
 <div class="deck-footer">10 / 10</div>
 </div>
+-->
 
