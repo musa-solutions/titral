@@ -272,25 +272,35 @@ Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acte
 <div class="kicker">08 · Équipe</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">6 ans d'OED, 10 mois dans le problème</h2>
 
-<div class="grid grid-cols-2 gap-3 mt-6">
+<div class="grid grid-cols-2 gap-3 mt-5">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-5">
 <div class="text-lg font-medium text-zinc-100">Murilo Vasconcelos Andrade</div>
 <div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase">CEO · Go-to-market · Clients</div>
-<div class="text-sm text-zinc-400 mt-2.5 leading-snug">6 ans en IA appliquée, focalisée sur l'Optimal Experiment Design. Entrepreneur formé au Brésil, installé à Reims depuis 3 ans — clients, partenaires et financement.</div>
+<div class="text-sm text-zinc-400 mt-2.5 space-y-1 leading-snug">
+<div>Fondateur de Studiare — <span class="text-zinc-100 font-medium">acquis par Kroton en 2015</span></div>
+<div>Ex-quant : Morgan Stanley · Santander · Banco BBM</div>
+<div>École polytechnique · DEA El Karoui (Paris VI)</div>
+<div>Or OBM · argent IMC · ACM ICPC ×3</div>
+</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-5">
 <div class="text-lg font-medium text-zinc-100">Thiago Sabetta</div>
 <div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase">CTO · R&D · Méthodologie</div>
-<div class="text-sm text-zinc-400 mt-2.5 leading-snug">6 ans d'OED. A conçu sur les 10 derniers mois, face à des besoins réels, les solutions ad hoc de comparaison et de migration de modèles LLM qui préfigurent la plateforme.</div>
+<div class="text-sm text-zinc-400 mt-2.5 space-y-1 leading-snug">
+<div>Co-fondateur &amp; CTO d'AIO — <span class="text-zinc-100 font-medium">50 000+ étudiants</span> en IA pédagogique</div>
+<div>Chercheur CEA Saclay — publication American Physical Society</div>
+<div>Data chez CFM · Eng. Manager Zefir</div>
+<div>École polytechnique · USP</div>
+</div>
 </div>
 </div>
 
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4 mt-3">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Preuves d'exécution</div>
-<div class="grid grid-cols-3 gap-6 mt-2">
-<div class="text-sm text-zinc-300 leading-snug">Briques méthodologiques <span class="text-zinc-100 font-medium">déjà opérationnelles</span> sur des cas réels</div>
-<div class="text-sm text-zinc-300 leading-snug">Recherche de marché + entretiens : <span class="text-zinc-100 font-medium">offre affinée</span>, marchés adjacents identifiés (upsell, pivot)</div>
-<div class="text-sm text-zinc-300 leading-snug">Une barrière qui repose sur <span class="text-zinc-100 font-medium">la combinaison d'expertises</span> et la méthodologie pour la déployer chez d'autres clients</div>
+<div class="grid grid-cols-3 gap-4 mt-1.5">
+<div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">AIO (2020)</span> : une entreprise d'IA pédagogique déjà construite ensemble — 50 000+ étudiants au Brésil</div>
+<div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">Studiare → Kroton (2015)</span> : une première acquisition réussie</div>
+<div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">10 derniers mois</span> : briques OED opérationnelles sur cas réels, marchés adjacents identifiés (upsell, pivot)</div>
 </div>
 </div>
 
