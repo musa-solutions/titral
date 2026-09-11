@@ -1,4 +1,4 @@
-# Clairaut — Pitch deck Innovact (Slidev)
+# Titral — Pitch deck Innovact (Slidev)
 
 Pitch deck de 10 slides suivant la méthodologie Guy Kawasaki, en français,
 destiné au comité de sélection de l'incubateur Innovact (Reims / Grand Est).
