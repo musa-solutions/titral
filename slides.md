@@ -1,5 +1,5 @@
 ---
-title: 'Clairaut — La souveraineté IA, prouvée par les données'
+title: 'Titral — La souveraineté IA, prouvée par les données'
 info: 'Candidature Innovact · Reims, septembre 2026 · Murilo Vasconcelos Andrade & Thiago Sabetta'
 author: 'Murilo Vasconcelos Andrade & Thiago Sabetta'
 keywords:
@@ -23,7 +23,7 @@ mermaid:
 
 <div class="kicker">Candidature Innovact · Reims · Grand Est</div>
 
-<h1 class="text-8xl font-semibold tracking-tight mt-8">Clairaut</h1>
+<h1 class="text-8xl font-semibold tracking-tight mt-8">Titral</h1>
 
 <p class="text-2xl text-zinc-400 mt-8 max-w-4xl leading-snug">
 Nous benchmarkons les modèles d'IA sur les <span class="text-zinc-100">données de production réelles</span> de nos clients : nous quantifions leur dépendance aux fournisseurs et prouvons vers quoi ils peuvent migrer <span class="text-zinc-100">sans perte de qualité ni de conformité</span>.
@@ -128,11 +128,11 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 
 <div class="mt-auto grid grid-cols-2 gap-3">
 <div class="border border-zinc-800 rounded-xl p-3 leading-snug">
-<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Sans Clairaut</div>
+<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Sans Titral</div>
 <div class="text-[13px] text-zinc-500 mt-0.5">Dépendance subie · conformité par assertion · prix non négocié</div>
 </div>
 <div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-3 leading-snug">
-<div class="text-xs text-zinc-100 font-medium tracking-widest uppercase">Avec Clairaut</div>
+<div class="text-xs text-zinc-100 font-medium tracking-widest uppercase">Avec Titral</div>
 <div class="text-[13px] text-zinc-200 mt-0.5">Dépendance chiffrée · conformité par preuve · prix négocié</div>
 </div>
 </div>
@@ -143,13 +143,12 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">04 · La magie sous-jacente</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">Optimal Experiment Design : des métriques fiables, à une fraction du coût</h2>
+<div class="kicker">04 · Sous le capot</div>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Optimal Experiment Design : la fiabilité d'un rejeu exhaustif, à une fraction du coût</h2>
 
-```mermaid {theme:'base', themeVariables:{primaryColor:'#0a0a0b', primaryTextColor:'#fafafa', primaryBorderColor:'#3f3f46', lineColor:'#71717a', secondaryColor:'#111113', tertiaryColor:'#09090b', mainBkg:'#0a0a0b', nodeBorder:'#3f3f46', clusterBkg:'#000000', edgeLabelBackground:'#000000', fontSize:'13px'}}
+```mermaid {theme:'base', themeVariables:{primaryColor:'#0a0a0b', primaryTextColor:'#fafafa', primaryBorderColor:'#3f3f46', lineColor:'#71717a', secondaryColor:'#111113', tertiaryColor:'#09090b', mainBkg:'#0a0a0b', nodeBorder:'#3f3f46', clusterBkg:'#000000', edgeLabelBackground:'#000000', fontSize:'16px'}}
 flowchart LR
-  W[Workloads<br/>de production] --> C[Capture<br/>SDK léger · logs]
-  C --> S[Échantillonnage bayésien<br/>sélection des sessions<br/>les plus informatives]
+  W[Workloads de production<br/>SDK léger · logs existants] --> S[Échantillonnage bayésien<br/>les sessions les plus informatives]
   S --> R[Rejeu multi-fournisseurs<br/>dont modèles souverains]
   R --> M[Métriques fiables<br/>qualité · coût · latence]
   M --> P[Rapport de migration<br/>décision chiffrée]
@@ -158,15 +157,15 @@ flowchart LR
 <div class="grid grid-cols-3 gap-3 mt-3">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-sm font-medium text-zinc-100">Barrière d'entrée</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">6 ans de R&D en OED : la combinaison rare statistique expérimentale × infrastructure LLM, dans une seule équipe</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">6 ans de R&D en OED : statistique expérimentale et infrastructure LLM réunies dans une seule équipe — une combinaison rare à répliquer</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-sm font-medium text-zinc-100">Économie structurelle</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Fiabilité sur tout le périmètre de production, sans multiplier les coûts par chaque combinaison fournisseur × modèle</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Des métriques fiables sur tout le périmètre de production, sans payer pour chaque combinaison fournisseur × modèle</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-sm font-medium text-zinc-100">Continu, pas ponctuel</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">L'audit devient assez économique pour être répété : un pilotage dans le temps, pas une photographie annuelle</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Le benchmark devient assez économique pour être répété : un pilotage dans la durée, pas une photographie annuelle</div>
 </div>
 </div>
 
@@ -276,7 +275,7 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 
 <div class="absolute flex items-center gap-2" style="left:68%;top:28%;transform:translateY(-50%)">
 <div class="w-3 h-3 rounded-full bg-zinc-100 shrink-0" style="box-shadow:0 0 0 5px rgba(244,244,245,0.15)"></div>
-<div class="text-sm text-zinc-100 font-medium">Clairaut<br><span class="text-xs text-zinc-400 font-normal">rejeu OED · continu · chiffré</span></div>
+<div class="text-sm text-zinc-100 font-medium">Titral<br><span class="text-xs text-zinc-400 font-normal">rejeu OED · continu · chiffré</span></div>
 </div>
 </div>
 <div class="flex justify-between mt-2 text-[10px] font-mono text-zinc-500 uppercase tracking-widest">
@@ -297,7 +296,7 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="text-xs text-zinc-400"><span class="text-zinc-100">Audits conseil</span> — verdicts manuels sur jeux de tests représentatifs : coûteux, à refaire chaque fois</div>
 </div>
 <div class="border border-zinc-700 bg-zinc-900/60 rounded-lg px-3.5 py-2">
-<div class="text-xs text-zinc-200"><span class="text-zinc-100 font-medium">Clairaut</span> — vos workloads rejoués contre vos alternatives : verdict de migration fiable, continu, économique (OED)</div>
+<div class="text-xs text-zinc-200"><span class="text-zinc-100 font-medium">Titral</span> — vos workloads rejoués contre vos alternatives : verdict de migration fiable, continu, économique (OED)</div>
 </div>
 </div>
 <div class="text-xs text-zinc-500 mt-3 leading-snug">Les <span class="text-zinc-400">gateways souverains</span> (Orq, Soverana, OpenRouter) réduisent le coût du changement d'API — sans dire vers quoi migrer. <span class="text-zinc-400">Partenaires, pas concurrents.</span></div>
@@ -431,38 +430,3 @@ La souveraineté IA devient une obligation légale au 2 août 2026. <span class=
 <div class="deck-footer">10 / 10</div>
 </div>
 
-<style>
-@import '@fontsource-variable/inter';
-@import '@fontsource-variable/jetbrains-mono';
-
-* {
-  font-family: 'Inter Variable', ui-sans-serif, system-ui, sans-serif;
-  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
-}
-
-.kicker {
-  font-family: 'JetBrains Mono Variable', monospace;
-  font-size: 11px;
-  letter-spacing: 0.32em;
-  text-transform: uppercase;
-  color: #71717a;
-}
-
-.deck-footer {
-  position: absolute;
-  bottom: 1.3rem;
-  right: 3.5rem;
-  font-family: 'JetBrains Mono Variable', monospace;
-  font-size: 10px;
-  letter-spacing: 0.25em;
-  color: #52525b;
-}
-
-.font-mono {
-  font-family: 'JetBrains Mono Variable', monospace;
-}
-
-.mermaid svg {
-  max-height: 250px;
-}
-</style>

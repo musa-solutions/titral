@@ -1,0 +1,33 @@
+@import '@fontsource-variable/inter';
+@import '@fontsource-variable/jetbrains-mono';
+
+* {
+  font-family: 'Inter Variable', ui-sans-serif, system-ui, sans-serif;
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+}
+
+.kicker {
+  font-family: 'JetBrains Mono Variable', monospace;
+  font-size: 11px;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: #71717a;
+}
+
+.deck-footer {
+  position: absolute;
+  bottom: 1.3rem;
+  right: 3.5rem;
+  font-family: 'JetBrains Mono Variable', monospace;
+  font-size: 10px;
+  letter-spacing: 0.25em;
+  color: #52525b;
+}
+
+.font-mono {
+  font-family: 'JetBrains Mono Variable', monospace;
+}
+
+.mermaid svg {
+  max-height: 250px;
+}
