@@ -1,6 +1,8 @@
 // Overflow verification for the built Slidev deck (history routing).
 // Serves dist/ over HTTP, visits each slide, and measures whether any
 // visible element extends beyond the slide's bounding box.
+// NOTE: slides 05-06 (Business model, Go-to-market) and 09-10 (Projections,
+// Statut/Innovact) are commented out in slides.md — only 6 slides are live.
 import http from 'node:http'
 import fs from 'node:fs'
 import path from 'node:path'
@@ -30,7 +32,7 @@ const errors = []
 page.on('pageerror', e => { if (!/Wake Lock/.test(e.message)) errors.push(`pageerror: ${e.message}`) })
 page.on('console', m => { if (m.type() === 'error' && !/Failed to patch FloatingVue/.test(m.text())) errors.push(`console: ${m.text()}`) })
 
-const NUM_SLIDES = 10
+const NUM_SLIDES = 6
 const report = []
 
 for (let i = 1; i <= NUM_SLIDES; i++) {
