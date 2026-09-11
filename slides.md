@@ -94,34 +94,47 @@ Changer sans preuve chiffrée, c'est le risque qualité. Ne pas changer, c'est l
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">03 · Proposition de valeur</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">La migrabilité, prouvée sur votre production</h2>
+<h2 class="text-3xl font-semibold tracking-tight mt-2">Ce que vous pouvez migrer, vers quoi, à quel risque — prouvé sur votre production</h2>
 
-<div class="grid grid-cols-3 gap-3 mt-6">
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="font-mono text-xs text-zinc-500">01</div>
-<div class="text-lg font-medium mt-1.5">Observer</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Capture des workloads réels par un SDK léger ou l'ingestion des logs existants — zéro jeu de tests artificiel</div>
-</div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="font-mono text-xs text-zinc-500">02</div>
-<div class="text-lg font-medium mt-1.5">Rejouer</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Un échantillon informé est rejoué sur les fournisseurs et modèles alternatifs — dont européens et souverains</div>
-</div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="font-mono text-xs text-zinc-500">03</div>
-<div class="text-lg font-medium mt-1.5">Décider</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Quelles applications peuvent migrer, vers quoi, avec quel impact qualité et quel gain financier</div>
-</div>
+<div class="mt-3 text-sm text-zinc-200 leading-snug border-l-2 border-zinc-500 pl-4">
+Le risque qualité et le risque réglementaire, levés par la <span class="text-zinc-100 font-medium">même preuve</span> : vos données de production.
 </div>
 
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4 mt-3 grid grid-cols-3 gap-6">
-<div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">Un plan de migration</span> fondé sur vos usages réels, pas sur un classement générique</div>
-<div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">Un dossier d'évidence</span> aligné sur les exigences DORA et AI Act</div>
-<div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">Un levier de négociation</span> chiffré face à chaque fournisseur</div>
+<div class="grid grid-cols-3 gap-3 mt-3">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3.5">
+<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">DSI · Data</div>
+<div class="text-base font-medium text-zinc-100 mt-0.5">Plan de migration chiffré</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug">Quelles applications migrer, vers quels modèles — dont européens et souverains — avec quel impact qualité, coût et latence. Fondé sur vos usages réels, pas sur un classement générique.</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3.5">
+<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Risques · Conformité</div>
+<div class="text-base font-medium text-zinc-100 mt-0.5">Dossier d'évidence</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug">La maîtrise de la dépendance <span class="text-zinc-100">prouvée par des chiffres</span>, alignée sur les exigences DORA et AI Act — opposable au régulateur, pas une déclaration d'intention.</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3.5">
+<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Achats · Finance</div>
+<div class="text-base font-medium text-zinc-100 mt-0.5">Levier de négociation</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug">Chaque fournisseur remis en concurrence sur des données issues de votre production : le chiffrage qui arrête de subir les prix.</div>
+</div>
 </div>
 
-<div class="mt-auto text-xl text-zinc-100 leading-snug pt-3">
-De la souveraineté comme incantation politique <span class="text-zinc-500">→</span> la souveraineté comme décision d'ingénierie, chiffrée sur vos données.
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-4 py-2 mt-2 flex items-center gap-3 text-[13px]">
+<span class="font-mono text-xs text-zinc-500">01</span><div class="leading-snug"><span class="text-zinc-200 font-medium">Observer</span> <span class="text-zinc-400">— workloads réels : SDK léger ou logs existants</span></div>
+<span class="text-zinc-600">→</span>
+<span class="font-mono text-xs text-zinc-500">02</span><div class="leading-snug"><span class="text-zinc-200 font-medium">Rejouer</span> <span class="text-zinc-400">— un échantillon informé sur les fournisseurs alternatifs</span></div>
+<span class="text-zinc-600">→</span>
+<span class="font-mono text-xs text-zinc-500">03</span><div class="leading-snug"><span class="text-zinc-200 font-medium">Décider</span> <span class="text-zinc-400">— un rapport de migration opposable</span></div>
+</div>
+
+<div class="mt-auto grid grid-cols-2 gap-3">
+<div class="border border-zinc-800 rounded-xl p-3 leading-snug">
+<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Sans Clairaut</div>
+<div class="text-[13px] text-zinc-500 mt-0.5">Dépendance subie · conformité par assertion · prix non négocié</div>
+</div>
+<div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-3 leading-snug">
+<div class="text-xs text-zinc-100 font-medium tracking-widest uppercase">Avec Clairaut</div>
+<div class="text-[13px] text-zinc-200 mt-0.5">Dépendance chiffrée · conformité par preuve · prix négocié</div>
+</div>
 </div>
 <div class="deck-footer">03 / 10</div>
 </div>
@@ -236,25 +249,60 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="kicker">07 · Analyse concurrentielle</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Personne ne teste vos données de production</h2>
 
-<div class="mt-5 border border-zinc-800 rounded-xl overflow-hidden">
-<table class="w-full text-[13px]">
-<thead>
-<tr class="text-zinc-500 text-xs uppercase tracking-widest">
-<th class="text-left px-3 py-2.5 font-medium"> </th>
-<th class="text-left px-3 py-2.5 font-medium">Leaderboards publics<div class="text-zinc-600 normal-case tracking-normal font-normal mt-0.5">LMSYS · HELM · MMLU</div></th>
-<th class="text-left px-3 py-2.5 font-medium">Observabilité LLM<div class="text-zinc-600 normal-case tracking-normal font-normal mt-0.5">Langfuse · LangSmith · Galileo</div></th>
-<th class="text-left px-3 py-2.5 font-medium">Audits conseil<div class="text-zinc-600 normal-case tracking-normal font-normal mt-0.5">Big 4 · ESN</div></th>
-<th class="text-left px-3 py-2.5 font-medium text-zinc-100 bg-zinc-900/80">Clairaut</th>
-</tr>
-</thead>
-<tbody class="text-zinc-400">
-<tr class="border-t border-zinc-800"><td class="px-3 py-1 text-zinc-500">Base d'évaluation</td><td class="px-3 py-1">Jeux de tests génériques</td><td class="px-3 py-1">Traces de production… du client seul</td><td class="px-3 py-1">Entretiens, échantillons manuels</td><td class="px-3 py-1 text-zinc-100 bg-zinc-900/80">Production rejointe sur alternatives</td></tr>
-<tr class="border-t border-zinc-800"><td class="px-3 py-1 text-zinc-500">Question traitée</td><td class="px-3 py-1">Quel modèle est le meilleur&nbsp;?</td><td class="px-3 py-1">Mes modèles marchent-ils&nbsp;?</td><td class="px-3 py-1">Sommes-nous conformes aujourd'hui&nbsp;?</td><td class="px-3 py-1 text-zinc-100 bg-zinc-900/80">Peut-on migrer, vers quoi, à quel coût&nbsp;?</td></tr>
-<tr class="border-t border-zinc-800"><td class="px-3 py-1 text-zinc-500">Fréquence</td><td class="px-3 py-1">Continue, mais hors-sol</td><td class="px-3 py-1">Continue, côté dev</td><td class="px-3 py-1">Ponctuelle, non reproductible</td><td class="px-3 py-1 text-zinc-100 bg-zinc-900/80">Continue, orientée décision</td></tr>
-<tr class="border-t border-zinc-800"><td class="px-3 py-1 text-zinc-500">Coût du verdict</td><td class="px-3 py-1">Nul, mais inutilisable en interne</td><td class="px-3 py-1">Croît avec le volume rejoint</td><td class="px-3 py-1">Très élevé, à refaire à chaque fois</td><td class="px-3 py-1 text-zinc-100 bg-zinc-900/80">Maîtrisé par l'échantillonnage OED</td></tr>
-<tr class="border-t border-zinc-800"><td class="px-3 py-1 text-zinc-500">Conformité</td><td class="px-3 py-1">Non</td><td class="px-3 py-1">Non</td><td class="px-3 py-1">Oui, mais manuel</td><td class="px-3 py-1 text-zinc-100 bg-zinc-900/80">Native — DORA / AI Act</td></tr>
-</tbody>
-</table>
+<div class="grid grid-cols-12 gap-6 mt-4">
+
+<div class="col-span-7">
+<div class="relative h-[270px] border border-zinc-800 rounded-xl bg-zinc-950/40">
+<div class="absolute top-0 right-0 w-1/2 h-1/2 bg-zinc-900/50 rounded-br-xl"></div>
+<div class="absolute top-1/2 left-0 w-full border-t border-zinc-700"></div>
+<div class="absolute top-0 left-1/2 h-full border-l border-zinc-700"></div>
+<div class="absolute top-2.5 left-3 text-[10px] font-mono text-zinc-500 uppercase tracking-widest">Verdict actionnable</div>
+<div class="absolute bottom-2.5 left-3 text-[10px] font-mono text-zinc-500 uppercase tracking-widest">Photographie descriptive</div>
+
+<div class="absolute flex items-center gap-2" style="left:26%;top:30%;transform:translateY(-50%)">
+<div class="w-2.5 h-2.5 rounded-full bg-zinc-400 shrink-0"></div>
+<div class="text-xs text-zinc-300">Audits conseil<br><span class="text-zinc-500">manuel · ponctuel · coûteux</span></div>
+</div>
+
+<div class="absolute flex items-center gap-2" style="left:22%;top:72%;transform:translateY(-50%)">
+<div class="w-2.5 h-2.5 rounded-full bg-zinc-400 shrink-0"></div>
+<div class="text-xs text-zinc-300">Leaderboards publics<br><span class="text-zinc-500">LMSYS · HELM · MMLU</span></div>
+</div>
+
+<div class="absolute flex items-center gap-2" style="left:66%;top:72%;transform:translateY(-50%)">
+<div class="w-2.5 h-2.5 rounded-full bg-zinc-400 shrink-0"></div>
+<div class="text-xs text-zinc-300">Observabilité LLM<br><span class="text-zinc-500">LangSmith · Langfuse · Helicone</span></div>
+</div>
+
+<div class="absolute flex items-center gap-2" style="left:68%;top:28%;transform:translateY(-50%)">
+<div class="w-3 h-3 rounded-full bg-zinc-100 shrink-0" style="box-shadow:0 0 0 5px rgba(244,244,245,0.15)"></div>
+<div class="text-sm text-zinc-100 font-medium">Clairaut<br><span class="text-xs text-zinc-400 font-normal">rejeu OED · continu · chiffré</span></div>
+</div>
+</div>
+<div class="flex justify-between mt-2 text-[10px] font-mono text-zinc-500 uppercase tracking-widest">
+<div>Données génériques / représentatives</div>
+<div>Vos workloads de production réels</div>
+</div>
+</div>
+
+<div class="col-span-5 flex flex-col">
+<div class="space-y-2">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-lg px-3.5 py-2">
+<div class="text-xs text-zinc-400"><span class="text-zinc-100">Leaderboards publics</span> — classements continus mais hors-sol : aucune donnée entreprise, aucun arbitrage</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-lg px-3.5 py-2">
+<div class="text-xs text-zinc-400"><span class="text-zinc-100">Observabilité LLM</span> — rejouent vos traces pour détecter des régressions, jamais pour arbitrer un fournisseur</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-lg px-3.5 py-2">
+<div class="text-xs text-zinc-400"><span class="text-zinc-100">Audits conseil</span> — verdicts manuels sur jeux de tests représentatifs : coûteux, à refaire chaque fois</div>
+</div>
+<div class="border border-zinc-700 bg-zinc-900/60 rounded-lg px-3.5 py-2">
+<div class="text-xs text-zinc-200"><span class="text-zinc-100 font-medium">Clairaut</span> — vos workloads rejoués contre vos alternatives : verdict de migration fiable, continu, économique (OED)</div>
+</div>
+</div>
+<div class="text-xs text-zinc-500 mt-3 leading-snug">Les <span class="text-zinc-400">gateways souverains</span> (Orq, Soverana, OpenRouter) réduisent le coût du changement d'API — sans dire vers quoi migrer. <span class="text-zinc-400">Partenaires, pas concurrents.</span></div>
+</div>
+
 </div>
 
 <div class="mt-3 text-base text-zinc-100 leading-snug">
