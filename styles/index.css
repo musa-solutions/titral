@@ -28,6 +28,10 @@
   font-family: 'JetBrains Mono Variable', monospace;
 }
 
+.slidev-page {
+  background-color: #000;
+}
+
 .mermaid svg {
   max-height: 250px;
 }
