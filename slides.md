@@ -157,7 +157,7 @@ flowchart LR
 <div class="grid grid-cols-3 gap-3 mt-3">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-sm font-medium text-zinc-100">01 · Rejeu de production</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Vos workloads réels, captés à la source — la seule base d'évaluation qui prédit ce qui se passera dans <span class="text-zinc-200">votre</span> production, pas en laboratoire</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Vos workloads réels, anonymisés, captés à la source — la seule base d'évaluation qui prédit ce qui se passera dans <span class="text-zinc-200">votre</span> production, pas en laboratoire</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-sm font-medium text-zinc-100">02 · Échantillonnage OED</div>
@@ -261,7 +261,7 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="absolute top-2.5 left-3 text-[10px] font-mono text-zinc-500 uppercase tracking-widest">Verdict actionnable</div>
 <div class="absolute bottom-2.5 left-3 text-[10px] font-mono text-zinc-500 uppercase tracking-widest">Photographie descriptive</div>
 
-<div class="absolute flex items-center gap-2" style="left:26%;top:30%;transform:translateY(-50%)">
+<div class="absolute flex items-center gap-2" style="left:21%;top:30%;transform:translateY(-50%)">
 <div class="w-2.5 h-2.5 rounded-full bg-zinc-400 shrink-0"></div>
 <div class="text-xs text-zinc-300">Audits conseil<br><span class="text-zinc-500">manuel · ponctuel · coûteux</span></div>
 </div>
@@ -276,7 +276,7 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="text-xs text-zinc-300">Observabilité LLM<br><span class="text-zinc-500">LangSmith · Langfuse · Helicone</span></div>
 </div>
 
-<div class="absolute flex flex-row-reverse items-center gap-2" style="right:22%;top:20%;transform:translateY(-50%)">
+<div class="absolute flex flex-row-reverse items-center gap-2" style="right:3%;top:20%;transform:translateY(-50%)">
 <div class="w-3 h-3 rounded-full bg-zinc-100 shrink-0" style="box-shadow:0 0 0 5px rgba(244,244,245,0.15)"></div>
 <div class="text-sm text-zinc-100 font-medium">Titral<br><span class="text-xs text-zinc-400 font-normal">rejeu OED · continu · chiffré</span></div>
 </div>
