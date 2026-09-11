@@ -49,7 +49,7 @@ Reims · Septembre 2026
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">02 · Problème</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">Une dépendance massive, jamais mesurée</h2>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Une dépendance massive - vendor lock 2.0</h2>
 
 <div class="grid grid-cols-3 gap-3 mt-6">
 
@@ -59,13 +59,13 @@ Reims · Septembre 2026
 </div>
 
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="text-4xl font-semibold tracking-tight">×&nbsp;2 en 6 mois</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">la dépense LLM entreprise a doublé : 3,5 → 8,4&nbsp;Md$ au S1 2025. La dépendance s'installe dans la production</div>
+<div class="text-4xl font-semibold tracking-tight">37&nbsp;Md$</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">d'IA générative dépensés par les entreprises en 2025 (×3,2) — et seuls 11&nbsp;% ont changé de fournisseur : la dépendance s'installe</div>
 </div>
 
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-4xl font-semibold tracking-tight">78&nbsp;%</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">des organisations sans action significative de mise en conformité AI Act, à quelques mois du 2 août 2026</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">des organisations sans action significative de mise en conformité AI Act — alors que la transparence (art. 50) s'applique dès août 2026</div>
 </div>
 
 </div>
@@ -76,16 +76,16 @@ Reims · Septembre 2026
 <div class="text-sm text-zinc-300 mt-1 leading-snug">22 000+ entités financières doivent piloter leur risque tiers ICT — sanctions jusqu'à <span class="text-zinc-100">10&nbsp;% du CA mondial</span></div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">AI Act · 2 août 2026</div>
-<div class="text-sm text-zinc-300 mt-1 leading-snug">obligations des systèmes à haut risque + pouvoirs de contrôle de l'AI Office : la résilience IA devient une <span class="text-zinc-100">preuve à produire</span></div>
+<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">AI Act · Omnibus 2026</div>
+<div class="text-sm text-zinc-300 mt-1 leading-snug">transparence dès août 2026, haut risque reporté à fin 2027 — mais DORA, elle, <span class="text-zinc-100">s'applique déjà</span> : la preuve de maîtrise reste exigée</div>
 </div>
 </div>
 
-<div class="mt-4 text-base text-zinc-100 leading-snug">
+<div class="mt-3 text-base text-zinc-100 leading-snug">
 Changer sans preuve chiffrée, c'est le risque qualité. Ne pas changer, c'est le risque réglementaire. <span class="text-zinc-400">Les benchmarks génériques ne répondent à aucune des deux.</span>
 </div>
 
-<div class="mt-auto pt-2 text-xs text-zinc-600">Sources : Menlo Ventures, LLM Market Update (déc. 2025) · RAIL (avr. 2026) · règlements (UE) 2022/2554 et 2024/1689</div>
+<div class="mt-auto pt-2 text-xs text-zinc-600">Sources : Menlo Ventures, State of GenAI in the Enterprise (déc. 2025, confirmé 2026) · Vision Compliance (avr. 2026) · règlements (UE) 2022/2554 et 2024/1689, Omnibus 2026</div>
 <div class="deck-footer">02 / 10</div>
 </div>
 
@@ -227,7 +227,7 @@ flowchart LR
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-sm font-medium text-zinc-100">Canal partenariats</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Cabinets de conseil et de conformité, clouds souverains, intégrateurs — et l'écosystème French Tech du Grand Est. L'accord France-Allemagne Mistral × SAP (nov. 2025) institutionnalise la migration souveraine</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Cabinets de conseil et de conformité, intégrateurs, clouds souverains — et l'écosystème French Tech du Grand Est. IDC : 60&nbsp;% des organisations EMEA n'associeront que des clouds souverains d'ici deux ans</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-sm font-medium text-zinc-100">Boucle d'acquisition</div>
@@ -363,8 +363,8 @@ Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acte
 
 <div class="col-span-3 grid grid-rows-3 gap-3">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4 flex items-center gap-4">
-<div class="text-3xl font-semibold tracking-tight whitespace-nowrap">290&nbsp;Md$</div>
-<div class="text-sm text-zinc-400 leading-snug">de dépense IA européenne en 2029, TCAC de 33,7&nbsp;% sur 2025-2029 (IDC)</div>
+<div class="text-3xl font-semibold tracking-tight whitespace-nowrap">319&nbsp;Md$</div>
+<div class="text-sm text-zinc-400 leading-snug">de dépense IA en EMEA en 2026 (+19,2&nbsp;%), trois fois plus vite que l'informatique — vers 290&nbsp;Md$ en Europe dès 2029 (IDC)</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4 flex items-center gap-4">
 <div class="text-3xl font-semibold tracking-tight whitespace-nowrap">12,5&nbsp;%</div>
@@ -389,7 +389,7 @@ Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acte
 
 </div>
 
-<div class="mt-auto pt-2 text-xs text-zinc-600">Source : IDC Worldwide AI &amp; GenAI Spending Guide (avr. 2026)</div>
+<div class="mt-auto pt-2 text-xs text-zinc-600">Sources : IDC EMEA IT Market (mai 2026) · IDC Worldwide AI &amp; GenAI Spending Guide (avr. 2026) · IDC FutureScape EMEA 2026</div>
 <div class="deck-footer">09 / 10</div>
 </div>
 
@@ -425,7 +425,7 @@ Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acte
 </div>
 
 <div class="mt-4 text-xl text-zinc-100 leading-snug">
-La souveraineté IA devient une obligation légale au 2 août 2026. <span class="text-zinc-400">Nous la transformons en marché — depuis Reims.</span>
+La transparence IA devient obligatoire en août 2026, le haut risque en 2027 — et DORA lie déjà la finance. <span class="text-zinc-400">Nous transformons ces échéances en marché — depuis Reims.</span>
 </div>
 <div class="deck-footer">10 / 10</div>
 </div>
