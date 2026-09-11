@@ -94,7 +94,7 @@ Changer sans preuve chiffrée, c'est le risque qualité. Ne pas changer, c'est l
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">03 · Proposition de valeur</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">Ce que vous pouvez migrer — preuve à l'appui</h2>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Certifiez votre indépendance en IA</h2>
 
 <div class="mt-3 text-sm text-zinc-200 leading-snug border-l-2 border-zinc-500 pl-4">
 Le risque qualité et le risque réglementaire, levés par la <span class="text-zinc-100 font-medium">même preuve</span> : vos données de production.
@@ -129,11 +129,11 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 <div class="mt-auto grid grid-cols-2 gap-3">
 <div class="border border-zinc-800 rounded-xl p-3 leading-snug">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Sans Titral</div>
-<div class="text-[13px] text-zinc-500 mt-0.5">Dépendance subie · conformité par assertion · prix non négocié</div>
+<div class="text-[13px] text-zinc-500 mt-0.5">Dépendance subie · conformité par assertion</div>
 </div>
 <div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-3 leading-snug">
 <div class="text-xs text-zinc-100 font-medium tracking-widest uppercase">Avec Titral</div>
-<div class="text-[13px] text-zinc-200 mt-0.5">Dépendance chiffrée · conformité par preuve · prix négocié</div>
+<div class="text-[13px] text-zinc-200 mt-0.5">Dépendance chiffrée · conformité par preuve</div>
 </div>
 </div>
 <div class="deck-footer">03 / 10</div>
@@ -144,29 +144,33 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">04 · Sous le capot</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">Optimal Experiment Design : la fiabilité d'un rejeu exhaustif, à une fraction du coût</h2>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Rejouer votre production, arbitrer par tâche : la fiabilité d'un exhaustif, à une fraction du coût</h2>
 
 ```mermaid {theme:'base', themeVariables:{primaryColor:'#0a0a0b', primaryTextColor:'#fafafa', primaryBorderColor:'#3f3f46', lineColor:'#71717a', secondaryColor:'#111113', tertiaryColor:'#09090b', mainBkg:'#0a0a0b', nodeBorder:'#3f3f46', clusterBkg:'#000000', edgeLabelBackground:'#000000', fontSize:'16px'}}
 flowchart LR
   W[Workloads de production<br/>SDK léger · logs existants] --> S[Échantillonnage bayésien<br/>les sessions les plus informatives]
   S --> R[Rejeu multi-fournisseurs<br/>dont modèles souverains]
-  R --> M[Métriques fiables<br/>qualité · coût · latence]
-  M --> P[Rapport de migration<br/>décision chiffrée]
+  R --> M[Benchmarks par tâche<br/>qualité · coût · latence]
+  M --> P[Verdict de migration<br/>par application]
 ```
 
 <div class="grid grid-cols-3 gap-3 mt-3">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="text-sm font-medium text-zinc-100">Barrière d'entrée</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">6 ans de R&D en OED : statistique expérimentale et infrastructure LLM réunies dans une seule équipe — une combinaison rare à répliquer</div>
+<div class="text-sm font-medium text-zinc-100">01 · Rejeu de production</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Vos workloads réels, captés à la source — la seule base d'évaluation qui prédit ce qui se passera dans <span class="text-zinc-200">votre</span> production, pas dans un lab</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="text-sm font-medium text-zinc-100">Économie structurelle</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Des métriques fiables sur tout le périmètre de production, sans payer pour chaque combinaison fournisseur × modèle</div>
+<div class="text-sm font-medium text-zinc-100">02 · Échantillonnage OED</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">6 ans de R&D en Optimal Experiment Design : sélectionner les sessions les plus informatives — la fiabilité d'un rejeu exhaustif, sans payer chaque combinaison fournisseur × modèle</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="text-sm font-medium text-zinc-100">Continu, pas ponctuel</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Le benchmark devient assez économique pour être répété : un pilotage dans la durée, pas une photographie annuelle</div>
+<div class="text-sm font-medium text-zinc-100">03 · Benchmarks par tâche</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Chaque usage — RAG, extraction, synthèse, code… — obtient son propre verdict : quelles applications migrent, vers quoi, à quel risque. Pas un score global inactionnable</div>
 </div>
+</div>
+
+<div class="mt-3 text-base text-zinc-100 leading-snug">
+Assez économique pour être rejoué en continu : <span class="text-zinc-400">la migration devient un pilotage, pas un pari unique.</span>
 </div>
 
 <div class="deck-footer">04 / 10</div>
