@@ -26,7 +26,7 @@ mermaid:
 <h1 class="text-8xl font-semibold tracking-tight mt-8">Titral</h1>
 
 <p class="text-2xl text-zinc-400 mt-8 max-w-4xl leading-snug">
-<span class="text-zinc-100">Titral, du <em>titrage</em></span> — doser une solution pour en mesurer précisément la concentration. Nous titrons les modèles d'IA sur vos <span class="text-zinc-100">données de production réelles</span> : dépendance quantifiée, et migration prouvée <span class="text-zinc-100">sans perte de qualité ni de conformité</span>.
+Nous benchmarkons les modèles d'IA sur les <span class="text-zinc-100">données de production réelles</span> de nos clients : nous quantifions leur dépendance aux fournisseurs et prouvons vers quoi ils peuvent migrer <span class="text-zinc-100">sans perte de qualité ni de conformité</span>.
 </p>
 
 </div>
@@ -144,7 +144,7 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">04 · Sous le capot</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">Un rejeu exhaustif, à une fraction du coût</h2>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Création et éxecution des simulations réalistes des workflows IA</h2>
 
 ```mermaid {theme:'base', themeVariables:{primaryColor:'#0a0a0b', primaryTextColor:'#fafafa', primaryBorderColor:'#3f3f46', lineColor:'#71717a', secondaryColor:'#111113', tertiaryColor:'#09090b', mainBkg:'#0a0a0b', nodeBorder:'#3f3f46', clusterBkg:'#000000', edgeLabelBackground:'#000000', fontSize:'16px'}}
 flowchart LR
@@ -249,7 +249,7 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">05 · Analyse concurrentielle</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">Seuls à quantifier la résilience des workflows AI</h2>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Seuls à quantifier la résilience des workflows IA</h2>
 
 <div class="grid grid-cols-12 gap-6 mt-4">
 
