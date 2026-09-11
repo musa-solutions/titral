@@ -35,11 +35,9 @@ Nous benchmarkons les modèles d'IA sur les <span class="text-zinc-100">données
 <div class="text-sm space-y-1">
 <div><span class="text-zinc-100 font-medium">Murilo Vasconcelos Andrade</span> <span class="text-zinc-500">— CEO</span></div>
 <div><span class="text-zinc-100 font-medium">Thiago Sabetta</span> <span class="text-zinc-500">— CTO</span></div>
-<div class="text-xs text-zinc-600 pt-2 font-mono">linkedin.com/in/murilovasconcelos · linkedin.com/in/thiago-sabetta</div>
 </div>
 <div class="text-right text-xs text-zinc-500 leading-relaxed">
-Reims · Septembre 2026<br>
-<span class="text-zinc-600">L'assurance-vie de vos modèles d'IA</span>
+Reims · Septembre 2026
 </div>
 </div>
 
