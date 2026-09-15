@@ -85,7 +85,7 @@ Reims · Septembre 2026
 Changer sans preuve chiffrée, c'est le risque qualité. Ne pas changer, c'est le risque réglementaire. <span class="text-zinc-400">Les benchmarks génériques ne répondent à aucune des deux.</span>
 </div>
 
-<div class="mt-auto pt-2 text-xs text-zinc-600">Sources : Menlo Ventures, State of GenAI in the Enterprise (déc. 2025, confirmé 2026) · Vision Compliance (avr. 2026) · règlements (UE) 2022/2554 et 2024/1689, Omnibus 2026</div>
+<div class="mt-auto pt-2 text-[10px] text-zinc-600">Sources : Menlo Ventures, State of GenAI in the Enterprise (déc. 2025, confirmé 2026) · Vision Compliance (avr. 2026) · règlements (UE) 2022/2554 et 2024/1689, Omnibus 2026</div>
 <div class="deck-footer">02 / 07</div>
 </div>
 
@@ -449,7 +449,7 @@ Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acte
 
 </div>
 
-<div class="mt-auto pt-2 text-xs text-zinc-600">Sources : IDC EMEA IT Market (mai 2026) · IDC Worldwide AI &amp; GenAI Spending Guide (avr. 2026) · IDC FutureScape EMEA 2026</div>
+<div class="mt-auto pt-2 text-[10px] text-zinc-600">Sources : IDC EMEA IT Market (mai 2026) · IDC Worldwide AI &amp; GenAI Spending Guide (avr. 2026) · IDC FutureScape EMEA 2026</div>
 <div class="deck-footer">09 / 10</div>
 </div>
 
