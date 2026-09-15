@@ -4,3 +4,5 @@ shots/
 .agent-state.json
 .pi/
 *.log
+.worktrees/
+.mstack/
