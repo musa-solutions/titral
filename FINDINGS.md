@@ -97,7 +97,7 @@ Sources : menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterpr
 ## 6. Équipe (LinkedIn + aio.com.br, vérifiés)
 
 **Murilo Vasconcelos Andrade — CEO**
-- Fondateur & CEO d'AIO (Brésil, 2020) — edtech IA : 50 000+ étudiants, +60 % d'efficacité d'étude revendiquée
+- Fondateur & CEO d'AIO (Brésil, 2020) — edtech IA : 70 000+ étudiants (aio.com.br, 2026), +60 % d'efficacité d'étude revendiquée
 - Fondateur de **Studiare** (adaptive learning), **acquise par Kroton en 2015**
 - Ex-quant : Morgan Stanley (Londres), Santander (Madrid), Banco BBM (Rio) ; CTO de plusieurs startups
 - École polytechnique (maths appliquées) · DEA El Karoui, Paris VI (mention bien) · IME (Brésil)
@@ -105,7 +105,7 @@ Sources : menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterpr
 - Reims depuis 3 ans
 
 **Thiago Sabetta — CTO**
-- Co-fondateur & CTO d'AIO — 50 000+ étudiants
+- Co-fondateur & CTO d'AIO — 70 000+ étudiants (aio.com.br, 2026)
 - Chercheur CEA Saclay — publication *Nonequilibrium steady states in the quantum XXZ spin chain* (American Physical Society)
 - Data chez Capital Fund Management (CFM) · Toucan Toco · Engineering Manager Zefir · Consultant Elée
 - École polytechnique · USP

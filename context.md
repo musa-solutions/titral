@@ -16,7 +16,7 @@ La cible initiale est constituée des entreprises européennes qui dépendent d�
 ## Team
 
 Murilo Vasconcelos Andrade ( linkedin.com/in/murilovasconcelos )
-- Fondateur & CEO d'AIO (Brésil, 2020) — edtech d'IA : plus de 50 000 étudiants, recommandations d'apprentissage en temps réel (+60 % d'efficacité revendiquée)
+- Fondateur & CEO d'AIO (Brésil, 2020) — edtech d'IA : plus de 70 000 étudiants, recommandations d'apprentissage en temps réel (+60 % d'efficacité revendiquée)
 - Fondateur de Studiare (adaptive learning), acquise par Kroton en 2015 — première sortie réussie
 - Ancien quant : Morgan Stanley (Londres), Santander (Madrid), Banco BBM (Rio) ; CTO de plusieurs startups
 - École polytechnique (maths appliquées) · DEA El Karoui, Université Paris VI (mention bien) · IME (Brésil)
@@ -29,7 +29,7 @@ Thiago Sabetta ( https://www.linkedin.com/in/thiago-sabetta/ )
 - Data chez Capital Fund Management (CFM) · Data Specialist Toucan Toco · Engineering Manager Zefir · Consultant Elée
 - École polytechnique · USP (São Paulo)
 
-Preuves d'exécution conjointes : les deux fondateurs ont déjà construit et dirigé ensemble AIO, une entreprise d'IA pédagogique opérant à l'échelle (50 000+ étudiants), après une première acquisition réussie (Studiare → Kroton, 2015).
+Preuves d'exécution conjointes : les deux fondateurs ont déjà construit et dirigé ensemble AIO, une entreprise d'IA pédagogique opérant à l'échelle (70 000+ étudiants), après une première acquisition réussie (Studiare → Kroton, 2015).
 
 ## Précision complementaires 
 

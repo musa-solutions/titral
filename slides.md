@@ -34,8 +34,8 @@ Titral teste et prouve la capacité des entreprises à <span class="text-zinc-10
 
 <div class="flex items-end justify-between">
 <div class="text-sm space-y-1">
-<div><span class="text-zinc-100 font-medium">Murilo Vasconcelos Andrade</span> <span class="text-zinc-500"></span></div>
-<div><span class="text-zinc-100 font-medium">Thiago Sabetta</span> <span class="text-zinc-500"></span></div>
+<div><span class="text-zinc-100 font-medium">Murilo Vasconcelos Andrade</span> <span class="text-zinc-500">· Fondateur &amp; CEO</span></div>
+<div><span class="text-zinc-100 font-medium">Thiago Sabetta</span> <span class="text-zinc-500">· Co-fondateur &amp; CTO</span></div>
 </div>
 <div class="text-right text-xs text-zinc-500 leading-relaxed">
 Reims · Septembre 2026
@@ -104,24 +104,8 @@ Reims · Septembre 2026
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3.5">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Expansion</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug"><span class="text-zinc-300">≈&nbsp;22&nbsp;000 entités financières</span> dans l'écosystème DORA, puis toute entreprise pour laquelle l'IA devient une infrastructure critique</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug"><span class="text-zinc-300">Entités financières de l'écosystème DORA</span> (cf. slide 02), puis toute entreprise pour laquelle l'IA devient une infrastructure critique</div>
 </div>
-</div>
-
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-4 py-1.5 mt-2.5 flex items-center gap-3 text-[13px] flex-wrap">
-<span class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Ce qui déclenche l'achat</span>
-<span class="text-zinc-300">RFP</span><span class="text-zinc-600">·</span>
-<span class="text-zinc-300">questionnaire fournisseur</span><span class="text-zinc-600">·</span>
-<span class="text-zinc-300">audit</span><span class="text-zinc-600">·</span>
-<span class="text-zinc-300">exigence DORA</span><span class="text-zinc-600">·</span>
-<span class="text-zinc-300">hausse de prix</span><span class="text-zinc-600">·</span>
-<span class="text-zinc-300">dépréciation d'un modèle</span><span class="text-zinc-600">·</span>
-<span class="text-zinc-300">exigence de souveraineté</span>
-</div>
-
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-4 py-2 mt-2 flex items-center gap-4 text-[13px]">
-<div class="leading-snug text-zinc-300">À <span class="text-zinc-100 font-medium">20&nbsp;k€ d'ACV moyen</span>, 500 clients représentent <span class="text-zinc-100 font-medium">10&nbsp;M€ d'ARR</span> — moins de 0,5&nbsp;% du bassin européen déjà utilisateur d'IA.</div>
-<div class="text-zinc-500 leading-snug">Pricing et conversion : <span class="text-zinc-400">hypothèses à valider en customer discovery</span></div>
 </div>
 
 <div class="mt-auto text-[10px] text-zinc-600">Sources : Eurostat, statistiques structurelles 2024 · Eurostat, usage de l'IA 2025 (KS-01-26-009) · règlement (UE) 2022/2554</div>
@@ -163,9 +147,9 @@ Reims · Septembre 2026
 <div class="text-xs text-zinc-400 mt-0.5 leading-snug">secteurs régulés : finance (DORA) + santé + fournisseurs du public — ≈&nbsp;13&nbsp;% du TAM UE (est. Titral)</div>
 </div>
 <div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-3">
-<div class="text-[11px] text-zinc-100 font-medium tracking-widest uppercase">SOM · 2-3 ans</div>
-<div class="text-base font-semibold text-zinc-100 mt-0.5">0,5–1&nbsp;M€ ARR</div>
-<div class="text-xs text-zinc-300 mt-0.5 leading-snug">15–20 comptes × 30–40&nbsp;k€/an — &lt;1&nbsp;% de pénétration du SAM · sous un audit-conseil manuel</div>
+<div class="text-[11px] text-zinc-100 font-medium tracking-widest uppercase">SOM · 2–3 ans</div>
+<div class="text-base font-semibold text-zinc-100 mt-0.5">≈&nbsp;500&nbsp;k€ ARR</div>
+<div class="text-xs text-zinc-300 mt-0.5 leading-snug">20–30 comptes × 15–30&nbsp;k€/an — &lt;1&nbsp;% de pénétration du SAM · sous un audit-conseil manuel</div>
 </div>
 </div>
 
@@ -262,7 +246,7 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 </div>
 </div>
 
-<div class="mt-2 text-xs text-zinc-500 leading-snug">Rapport illustratif. Pourquoi c'est économiquement viable : le test exhaustif croît en workloads × modèles × scénarios — l'échantillonnage OED sélectionne les tests les plus informatifs (détail en annexe).</div>
+<div class="mt-2 text-xs text-zinc-500 leading-snug">Rapport illustratif. La viabilité économique repose sur l'échantillonnage OED — sélectionner les tests les plus informatifs (détail en annexe).</div>
 <div class="deck-footer">05 / 14</div>
 </div>
 
@@ -379,7 +363,7 @@ Le risque de comblement le plus probable : l'observabilité LLM ou un gateway so
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Land</div>
 <div class="text-base font-medium text-zinc-100 mt-1">Titral AI Exit Test</div>
-<div class="text-[13px] text-zinc-400 mt-1.5 leading-snug">Une application · une dépendance · 2-3 stacks alternatives → rapport comparatif + plan de sortie exécutable</div>
+<div class="text-[13px] text-zinc-400 mt-1.5 leading-snug">Une application · une dépendance · 2–3 stacks alternatives → rapport comparatif + plan de sortie exécutable</div>
 <div class="text-sm text-zinc-100 mt-2">Hypothèse : 3–10&nbsp;k€ one-shot</div>
 <div class="text-[13px] text-zinc-500 mt-1 leading-snug">Déclencheur type : « notre client, notre régulateur ou nos achats demandent la preuve »</div>
 </div>
@@ -463,7 +447,6 @@ Chaque RFP régulé, chaque revue DORA, chaque changement de prix <span class="t
 <div class="text-sm text-zinc-400 mt-2 space-y-1.5 leading-snug">
 <div><span class="text-zinc-100 font-medium">Méthodologie OED et pipeline de rejeu opérationnels</span> — 10 mois de construction sur des cas réels</div>
 <div><span class="text-zinc-100 font-medium">Briques testées sur des workloads IA en production</span> — dans le cadre d'un projet Google Foundation</div>
-<div><span class="text-zinc-100 font-medium">Équipe ayant déjà opéré l'IA en production</span> — AIO : 70 000+ étudiants, recommandations temps réel</div>
 </div>
 </div>
 <div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-4">
@@ -471,7 +454,7 @@ Chaque RFP régulé, chaque revue DORA, chaque changement de prix <span class="t
 <div class="text-sm text-zinc-300 mt-2 space-y-1.5 leading-snug">
 <div><span class="text-zinc-100 font-medium">0 client payant</span> — stade early, assumé</div>
 <div><span class="text-zinc-100 font-medium">En conversation avec des clients potentiels</span> — le problème est observé en direct chez des clients, sur des systèmes en production</div>
-<div><span class="text-zinc-100 font-medium">Customer discovery = jalon immédiat</span> — objectif : 2-3 design partners rémunérés</div>
+<div><span class="text-zinc-100 font-medium">Customer discovery = jalon immédiat</span> — objectif : design partners rémunérés</div>
 </div>
 </div>
 </div>
@@ -492,19 +475,19 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 <div class="grid grid-cols-4 gap-3 mt-5">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Aujourd'hui</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">0 client payant · customer discovery en cours · pricing en validation avec les design partners</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Pré-revenu · customer discovery en cours · pricing en validation avec les design partners</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Année 1</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">5-10 exit tests payants (3-10&nbsp;k€) · SDK en production · premier rapport « sortie prouvée » publiable</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">5–10 exit tests payants (3–10&nbsp;k€) · SDK en production · premier rapport « sortie prouvée » publiable</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Année 2</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Continuous Exit Assurance commercialisée · 20-30 clients × 15-30&nbsp;k€ → <span class="text-zinc-100">≈&nbsp;500&nbsp;k€ ARR</span></div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Continuous Exit Assurance commercialisée · 20–30 clients × 15–30&nbsp;k€ → <span class="text-zinc-100">≈&nbsp;500&nbsp;k€ ARR</span></div>
 </div>
 <div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-4">
 <div class="text-xs text-zinc-100 font-medium tracking-widest uppercase">Année 3+ · ambition</div>
-<div class="text-sm text-zinc-300 mt-1.5 leading-snug">Portefeuilles entreprise 50-100&nbsp;k€+ · <span class="text-zinc-100 font-medium">500 clients × 20&nbsp;k€ = 10&nbsp;M€ d'ARR</span> — &lt;&nbsp;0,5&nbsp;% du bassin européen</div>
+<div class="text-sm text-zinc-300 mt-1.5 leading-snug">Portefeuilles entreprise 50–100&nbsp;k€+ · <span class="text-zinc-100 font-medium">500 clients × 20&nbsp;k€ = 10&nbsp;M€ d'ARR</span> — &lt;&nbsp;0,5&nbsp;% du bassin européen</div>
 </div>
 </div>
 
@@ -520,7 +503,7 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 </div>
 </div>
 
-<div class="mt-auto pt-2 text-xs text-zinc-600">Trajectoire et pricing : hypothèses à valider en customer discovery. Base de marché : Eurostat 2024-2025.</div>
+<div class="mt-auto pt-2 text-xs text-zinc-600">Trajectoire hypothétique — statut des prix détaillé slide 09. Base de marché : Eurostat 2024-2025.</div>
 <div class="deck-footer">12 / 14</div>
 </div>
 
@@ -529,41 +512,41 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">13 · Équipe</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">Notre Équipe</h2>
+<h2 class="text-4xl font-semibold tracking-tight mt-1">Une équipe qui a déjà construit et opéré l'IA en production</h2>
 
-<div class="grid grid-cols-2 gap-3 mt-5">
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-5">
+<div class="grid grid-cols-2 gap-3 mt-3">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-lg font-medium text-zinc-100">Murilo Vasconcelos</div>
-<div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase"></div>
-<div class="text-sm text-zinc-400 mt-2.5 space-y-1 leading-snug">
-<div>Fondateur Studiare — <span class="text-zinc-100 font-medium">acquis par Kroton en 2015</span> & Fondateur AIO 2020 </div>
+<div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase">Fondateur &amp; CEO</div>
+<div class="text-sm text-zinc-400 mt-2 space-y-0.5 leading-snug">
+<div>Fondateur Studiare — <span class="text-zinc-100 font-medium">acquis par Kroton en 2015</span> · Fondateur &amp; CEO AIO (2020)</div>
 <div>Quant : Morgan Stanley · Santander · Banco BBM</div>
-<div>Or en Olympiade de Maths Brésil · Argent  International Mathematical Competition</div>
+<div>Or à l'Olympiade brésilienne de maths · Argent à l'IMC — compétition mondiale universitaire</div>
 <div>École Polytechnique · DEA El Karoui</div>
 </div>
 </div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-5">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-lg font-medium text-zinc-100">Thiago Sabetta</div>
-<div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase"></div>
-<div class="text-sm text-zinc-400 mt-2.5 space-y-1 leading-snug">
-<div>Co-fondateur &amp; CTO AIO <span class="text-zinc-100 font-medium"></span> </div>
-<div></div>
-<div>Data Engineer  CFM · AI/Data Manager  Zefir</div>
+<div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase">Co-fondateur &amp; CTO</div>
+<div class="text-sm text-zinc-400 mt-2 space-y-0.5 leading-snug">
+<div>Co-fondateur &amp; CTO AIO</div>
+<div>Data CFM · Data Specialist Toucan Toco · Engineering Manager Zefir</div>
 <div>Conseil IT Asset Management</div>
-<div>École Polytechnique ·  Physique Statistique · Paris XI CEA Saclay</div>
+<div>École Polytechnique · Chercheur CEA Saclay — physique statistique (Paris XI)</div>
 </div>
 </div>
 </div>
 
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4 mt-3">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4 mt-2">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Preuves d'exécution</div>
-<div class="grid grid-cols-3 gap-4 mt-1.5">
+<div class="grid grid-cols-3 gap-4 mt-1">
 <div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">Studiare → Kroton (2015)</span> : un des premiers exits en Éducation au Brésil</div>
 <div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">AIO (2020)</span> : une entreprise d'IA pédagogique déjà construite ensemble — 70 000+ étudiants au Brésil</div>
 <div class="text-sm text-zinc-300 leading-snug"><span class="text-zinc-100 font-medium">2026</span> : briques opérationnelles construites sur des cas réels dans le cadre d'un projet Google Foundation</div>
 </div>
 </div>
 
+<div class="mt-2 text-[10px] text-zinc-600">Sources : LinkedIn des fondateurs · aio.com.br</div>
 <div class="deck-footer">13 / 14</div>
 </div>
 
@@ -577,8 +560,8 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 <div class="grid grid-cols-2 gap-3 mt-5">
 
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Statut actuel</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Méthodologie OED validée sur 10 mois de cas réels · pipeline de rejeu et de métriques opérationnel · SDK d'intégration en industrialisation · conversations commerciales en cours</div>
+<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Ancrage Reims</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Fondateur installé à Reims depuis trois ans · repeat entrepreneurs : une entreprise d'IA déjà construite et opérée ensemble, une acquisition réussie (Studiare → Kroton)</div>
 </div>
 
 <div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-4">
@@ -587,8 +570,8 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 </div>
 
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Jalons 6-12 mois</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug"><span class="text-zinc-100 font-medium">J+6</span> — 2-3 design partners rémunérés (éditeurs SaaS + secteurs régulés)<br><span class="text-zinc-100 font-medium">J+9</span> — SDK en production ; premier rapport « sortie prouvée » publiable<br><span class="text-zinc-100 font-medium">J+12</span> — Continuous Exit Assurance commercialisée ; tour pré-seed</div>
+<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Jalons 6–12 mois</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug"><span class="text-zinc-100 font-medium">J+6</span> — 2–3 design partners rémunérés (éditeurs SaaS + secteurs régulés)<br><span class="text-zinc-100 font-medium">J+9</span> — SDK en production ; premier rapport « sortie prouvée » publiable<br><span class="text-zinc-100 font-medium">J+12</span> — Continuous Exit Assurance commercialisée ; tour pré-seed</div>
 </div>
 
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
@@ -599,7 +582,7 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 </div>
 
 <div class="mt-4 text-xl text-zinc-100 leading-snug">
-DORA exige déjà des sorties testées, l'IA Act arrive. <span class="text-zinc-400">Nous transformons ces échéances en marché — depuis Reims.</span>
+DORA exige déjà des sorties testées, l'AI Act arrive. <span class="text-zinc-400">Nous transformons ces échéances en marché — depuis Reims.</span>
 </div>
 <div class="deck-footer">14 / 14</div>
 </div>
