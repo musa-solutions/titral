@@ -7,3 +7,4 @@ shots/
 .worktrees/
 .mstack/
 shot-*.mjs
+.playwright-mcp/
