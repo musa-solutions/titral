@@ -52,8 +52,31 @@ Sources : menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterpr
 - 22 000+ entités financières (banques, assurances, payment institutions, crypto)
 - Art. 28 : pilotage du risque tiers ICT obligatoire, avec preuve documentée (un questionnaire fournisseur ne suffit pas)
 - 19 « Critical Third-Party Providers » désignés (oct. 2025), supervision directe des ESA
-- Sanctions jusqu'à 10 % du CA mondial annuel
+- ⚠️ **Correction (v2 du deck)** : DORA ne prévoit PAS de sanction générique « 10 % du CA mondial ». Pour les fournisseurs ICT tiers critiques, l'art. 35 prévoit des astreintes jusqu'à **1 % du chiffre d'affaires journalier moyen mondial par jour** (max 6 mois). L'application au niveau des États membres suit une autre structure (ACPR/AMF : jusqu'à 10 M€). Ne plus citer de montant d'amende dans le deck : l'argument fort est l'obligation elle-même — des stratégies de sortie « suffisamment testées » (art. 28)
 - **DORA = le levier contraignant de court terme** (l'Omnibus ayant affaibli l'urgence AI Act)
+
+## 3bis. Sources « AI Exit Readiness » (v2 du deck — vérifiées 2026-09)
+
+**Insee Première n° 2120, « Les TIC dans les entreprises en 2025 » (paru 2026)** :
+- **58 %** des entreprises françaises de 250 salariés ou plus utilisent au moins une technologie d'IA (18 % toutes tailles confondues, 10 salariés+)
+- Source : insee.fr/fr/statistiques/9025878
+
+**IBM Institute for Business Value, « The Calculus of AI Sovereignty » (17 juin 2026, 1 000 cadres dirigeants)** :
+- **71 %** disent qu'il serait difficile de changer leur principal fournisseur ou modèle d'IA
+- **91 %** ne comprennent pas entièrement leurs dépendances IA (fournisseurs, modèles, infrastructure)
+- 68 % : exigences de résidence des données / souveraineté difficiles à satisfaire
+- 81 % : une panne fournisseur de 7 jours causerait une disruption sévère ou critique ; en moyenne 6 disruptions IA sur les 2 dernières années (hausse de prix, restrictions, dépréciations, dégradation)
+- Source : newsroom.ibm.com/2026-06-17-…
+
+**Eurostat — taille des entreprises (SBS 2024, publiées déc. 2025)** :
+- **≈ 251 000** entreprises moyennes (50-249) et **≈ 55 000** grandes entreprises (249+) dans l'économie UE
+- Source : ec.europa.eu/eurostat (news 9 déc. 2025)
+
+**Eurostat — usage de l'IA 2025 (KS-01-26-009)** :
+- **30,4 %** des entreprises moyennes et **55,0 %** des grandes entreprises de l'UE utilisent l'IA (17 % petites, 20 % toutes)
+- ⇒ Ordre de grandeur : 251 k × 30,4 % ≈ 76 k + 55 k × 55 % ≈ 30 k → **≈ 100 000 entreprises moyennes/grandes UE utilisatrices d'IA** (millésimes 2024/2025, à présenter comme ordre de grandeur)
+
+**Concurrents supplémentaires (slide Concurrence v2)** : gateways (LiteLLM, Portkey, Orq, OpenRouter) · evals/observabilité (Langfuse, Braintrust, Giskard, LangSmith) · GRC/gouvernance IA (OneTrust, ServiceNow, ModelOp, Credo) · cloud exit/résilience — aucune brique ne teste la substituabilité comportementale IA sur workloads réels + ne produit un plan de sortie exécutable
 
 ## 4. Paysage concurrentiel (validation des axes du 2×2)
 
@@ -117,11 +140,11 @@ Recherche complémentaire exa (2026-09-15) pour la slide Marché.
 - **Banque** : 776 entités sous supervision ACPR fin 2022 (411 établissements de crédit + 147 sociétés de financement + 132 entreprises d'investissement + 62 établissements de paiement + 24 monnaie électronique) — ACPR, *Les chiffres du marché français de la banque et de l'assurance*
 - **Assurance** : 639 organismes ACPR en 2024 (248 sociétés d'assurance + 305 mutuelles + 32 institutions de prévoyance + 28 réassureurs) — ZoomAssurance/ACPR
 - **Gestion d'actifs** : ~640 sociétés de gestion captées par DORA (94 % des 681 SGP) — présentation ACPR/AMF Forum Fintech 2025
-- **DORA** : 21 catégories, 22 000+ entités financières dans l'UE, en vigueur depuis le 17/01/2025 — sanctions ACPR/AMF jusqu'à 10 M€, UE jusqu'à 10 % du CA
+- **DORA** : 21 catégories, 22 000+ entités financières dans l'UE, en vigueur depuis le 17/01/2025 — sanctions ACPR/AMF jusqu'à 10 M€ ; ⚠️ pas de « 10 % du CA » générique dans DORA (voir correction § 3)
 - ⇒ SAM France « secteurs régulés » ≈ **200 M€** — estimation Titral : ~15 % du marché UE (la France ~2e base conformité), sur la base des ~2 000 entités financières DORA + santé + fournisseurs du public.
 
 **SOM (estimation Titral, à valider) :** 15–20 comptes régulés × 30–40 k€/an → **0,5–1 M€ ARR** à 2-3 ans. Ancrage : offres observabilité entreprise ~2,5 k$/mois (Langfuse/LangSmith/Braintrust).
 
-**Segments (slide 05) :** banque = 12,5 % du marché IA européen 2026 (IDC) ; santé TCAC 39,7 % (IDC) ; assurance exposée DORA (10 % CA de sanctions).
+**Segments (v2 : deck recentré exit readiness — chiffres IDC conservés en réserve) :** banque = 12,5 % du marché IA européen 2026 (IDC) ; santé TCAC 39,7 % (IDC) ; assurance exposée DORA.
 
 ⚠️ **Caveats :** TAM, SAM et SOM sont des **estimations top-down** construites par Titral sur sources publiques (bornées haut par les études citées). Elles sont libellées « estimations Titral » sur la slide et doivent être affinées avec les données réelles (pricing, pipeline) avant les tours de levée.
