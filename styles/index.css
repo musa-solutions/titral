@@ -1,17 +1,149 @@
 @import '@fontsource-variable/inter';
 @import '@fontsource-variable/jetbrains-mono';
 
+:root {
+  --accent: #c4a570;
+  --accent-soft: rgba(196, 165, 112, 0.22);
+  --hair: rgba(255, 255, 255, 0.11);
+  --hair-soft: rgba(255, 255, 255, 0.07);
+
+  /* Four text roles, and only four. Emphasis inside body copy is carried by
+     weight (font-medium) plus --ink, never by inventing a new grey. */
+  --ink: #fafafa;    /* headings, figures, emphasised words */
+  --ink-2: #b4b4bd;  /* body copy */
+  --ink-3: #82828c;  /* labels, captions, secondary meta */
+  --ink-4: #55555e;  /* sources, page numbers */
+}
+
 * {
   font-family: 'Inter Variable', ui-sans-serif, system-ui, sans-serif;
   font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
 }
 
+/* The deck paints its own dark surface rather than relying on Slidev's dark
+   mode, so colorSchema can stay light and the presenter/UI chrome isn't black.
+   The soft top-left vignette reads far more refined than flat #000, which
+   flattens every hairline border on a projector. */
+.slidev-page {
+  color: #fafafa;
+  background-color: #000;
+  background-image: radial-gradient(115% 105% at 12% -10%, #1c1c21 0%, #101013 38%, #08080a 72%, #000 100%);
+}
+
+.slidev-slide-content {
+  background-color: #000;
+}
+
+/* Slidev's default layout is height:auto, so the `h-full` wrapper each slide
+   uses collapsed to its content height and every `mt-auto` was a no-op — which
+   is why content bunched at the top and left a dead band at the bottom. */
+.slidev-layout {
+  height: 100%;
+}
+
+/* The closing statement that ends most slides. */
+.lead {
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--ink);
+  text-wrap: pretty;
+}
+
 .kicker {
   font-family: 'JetBrains Mono Variable', monospace;
-  font-size: 11px;
-  letter-spacing: 0.32em;
+  font-size: 10.5px;
+  letter-spacing: 0.3em;
   text-transform: uppercase;
-  color: #71717a;
+  color: #8a8a94;
+}
+
+.kicker::before {
+  content: '';
+  display: inline-block;
+  width: 15px;
+  height: 1px;
+  background: var(--accent);
+  vertical-align: middle;
+  margin-right: 11px;
+  margin-bottom: 2px;
+}
+
+/* Centralised slide title: smaller and tighter than before so long headlines
+   stop stealing the vertical space the body needs. */
+.h-title {
+  font-size: 29px;
+  font-weight: 600;
+  letter-spacing: -0.021em;
+  line-height: 1.16;
+  color: #fafafa;
+  max-width: 52rem;
+  margin-top: 0.5rem;
+  text-wrap: balance;
+}
+
+.eyebrow {
+  font-size: 10.5px;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #8a8a94;
+}
+
+.eyebrow-hl {
+  color: var(--accent);
+}
+
+/* Cards get a whisper of gradient fill so they read as surfaces with depth
+   rather than empty outlines floating on black. */
+.card {
+  border: 1px solid var(--hair-soft);
+  border-radius: 2px;
+  background-image: linear-gradient(176deg, rgba(255, 255, 255, 0.042), rgba(255, 255, 255, 0.006));
+}
+
+.card-hl {
+  border-color: var(--accent-soft);
+  background-image: linear-gradient(176deg, rgba(196, 165, 112, 0.1), rgba(196, 165, 112, 0.015));
+  box-shadow: inset 0 1px 0 0 rgba(196, 165, 112, 0.1);
+}
+
+/* Thin proportional bar used to give figures a visual magnitude. */
+.meter {
+  height: 3px;
+  background: rgba(255, 255, 255, 0.08);
+  overflow: hidden;
+}
+
+.meter > i {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent), #e6d6b4);
+}
+
+.meter-dim > i {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Every headline figure in the deck is the same size, so slides read as one
+   family instead of each inventing its own display type. */
+.stat {
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.025em;
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Declared after .stat so `class="stat accent"` actually reads as gold —
+   equal specificity means source order decides. */
+.accent {
+  color: var(--accent);
+}
+
+.num {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
 }
 
 .deck-footer {
@@ -21,15 +153,11 @@
   font-family: 'JetBrains Mono Variable', monospace;
   font-size: 10px;
   letter-spacing: 0.25em;
-  color: #52525b;
+  color: #4b4b53;
 }
 
 .font-mono {
   font-family: 'JetBrains Mono Variable', monospace;
-}
-
-.slidev-page {
-  background-color: #000;
 }
 
 .mermaid svg {
