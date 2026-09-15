@@ -41,7 +41,7 @@ Reims · Septembre 2026
 </div>
 </div>
 
-<div class="deck-footer">01 / 07</div>
+<div class="deck-footer">01 / 08</div>
 </div>
 
 ---
@@ -73,7 +73,7 @@ Reims · Septembre 2026
 <div class="grid grid-cols-2 gap-3 mt-3">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">DORA · en vigueur depuis janv. 2025</div>
-<div class="text-sm text-zinc-300 mt-1 leading-snug">22 000+ entités financières doivent piloter leur risque tiers ICT — sanctions jusqu'à <span class="text-zinc-100">10&nbsp;% du CA mondial</span></div>
+<div class="text-sm text-zinc-300 mt-1 leading-snug">22 000+ entités financières doivent piloter leur risque tiers ICT — sous peine d'astreintes DORA (art. 35) pour <span class="text-zinc-100">les fournisseurs critiques</span></div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">AI Act · Omnibus 2026</div>
@@ -86,7 +86,7 @@ Changer sans preuve chiffrée, c'est le risque qualité. Ne pas changer, c'est l
 </div>
 
 <div class="mt-auto pt-2 text-[10px] text-zinc-600">Sources : Menlo Ventures, State of GenAI in the Enterprise (déc. 2025, confirmé 2026) · Vision Compliance (avr. 2026) · règlements (UE) 2022/2554 et 2024/1689, Omnibus 2026</div>
-<div class="deck-footer">02 / 07</div>
+<div class="deck-footer">02 / 08</div>
 </div>
 
 ---
@@ -136,7 +136,7 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 <div class="text-[13px] text-zinc-200 mt-0.5">Dépendance chiffrée · conformité par preuve</div>
 </div>
 </div>
-<div class="deck-footer">03 / 07</div>
+<div class="deck-footer">03 / 08</div>
 </div>
 
 ---
@@ -173,7 +173,7 @@ flowchart LR
 Assez économique pour être rejoué en continu : <span class="text-zinc-400">la migration devient un pilotage, pas un audit ponctuel.</span>
 </div>
 
-<div class="deck-footer">04 / 07</div>
+<div class="deck-footer">04 / 08</div>
 </div>
 
 ---
@@ -202,7 +202,7 @@ Assez économique pour être rejoué en continu : <span class="text-zinc-400">la
 <div class="grid grid-cols-2 gap-3 mt-3">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Ancrage de prix</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Sous le coût d'un audit-conseil manuel ; indexé sur l'exposition réglementaire (jusqu'à 10&nbsp;% du CA sous DORA) et sur la facture IA. Référence du marché de l'observabilité : offres entreprise à partir de ~2,5&nbsp;k$/mois</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Sous le coût d'un audit-conseil manuel ; indexé sur l'exposition réglementaire (astreintes DORA art. 35, jusqu'à 1&nbsp;%/jour du CA mondial moyen pour les fournisseurs critiques) et sur la facture IA. Référence du marché de l'observabilité : offres entreprise à partir de ~2,5&nbsp;k$/mois</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Mécanisme de vente</div>
@@ -298,7 +298,7 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc
 </div>
 
 <div class="mt-auto pt-2 text-[10px] text-zinc-600">Sources : IDC (avr. 2026) · Dimension Market Research · Gartner · MarketsandMarkets · ACPR/AMF DORA — TAM/SAM/SOM : estimations Titral sur base publique.</div>
-<div class="deck-footer">05 / 07</div>
+<div class="deck-footer">05 / 08</div>
 </div>
 
 ---
@@ -320,7 +320,7 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc
 
 <div class="absolute flex items-center gap-2" style="left:21%;top:30%;transform:translateY(-50%)">
 <div class="w-2.5 h-2.5 rounded-full bg-zinc-400 shrink-0"></div>
-<div class="text-xs text-zinc-300">Audits conseil<br><span class="text-zinc-500">manuel · ponctuel · coûteux</span></div>
+<div class="text-xs text-zinc-300">Audits &amp; conformité<br><span class="text-zinc-500">conseil manuel · Giskard · Kosmoy</span></div>
 </div>
 
 <div class="absolute flex items-center gap-2" style="left:22%;top:72%;transform:translateY(-50%)">
@@ -330,7 +330,7 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc
 
 <div class="absolute flex items-center gap-2" style="left:66%;top:72%;transform:translateY(-50%)">
 <div class="w-2.5 h-2.5 rounded-full bg-zinc-400 shrink-0"></div>
-<div class="text-xs text-zinc-300">Observabilité LLM<br><span class="text-zinc-500">LangSmith · Langfuse · Helicone</span></div>
+<div class="text-xs text-zinc-300">Observabilité &amp; infra<br><span class="text-zinc-500">LangSmith · Langfuse · GuideLLM</span></div>
 </div>
 
 <div class="absolute flex flex-row-reverse items-center gap-2" style="right:3%;top:20%;transform:translateY(-50%)">
@@ -350,31 +350,64 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc
 <div class="text-xs text-zinc-400"><span class="text-zinc-100">Leaderboards publics</span> — classements continus mais hors-sol : aucune donnée entreprise, aucun arbitrage</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-lg px-3.5 py-2">
-<div class="text-xs text-zinc-400"><span class="text-zinc-100">Observabilité LLM</span> — rejouent vos traces pour détecter des régressions, jamais pour arbitrer un fournisseur</div>
+<div class="text-xs text-zinc-400"><span class="text-zinc-100">Observabilité &amp; infra</span> — rejouent vos traces ou votre charge pour détecter des régressions, jamais pour arbitrer un fournisseur</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-lg px-3.5 py-2">
-<div class="text-xs text-zinc-400"><span class="text-zinc-100">Audits conseil</span> — verdicts manuels sur jeux de tests représentatifs : coûteux, à refaire chaque fois</div>
+<div class="text-xs text-zinc-400"><span class="text-zinc-100">Audits &amp; conformité</span> — verdicts manuels ou automatisés sur le modèle en place : sécurisent, ne migrent jamais</div>
 </div>
 <div class="border border-zinc-700 bg-zinc-900/60 rounded-lg px-3.5 py-2">
 <div class="text-xs text-zinc-200"><span class="text-zinc-100 font-medium">Titral</span> — vos workloads rejoués contre vos alternatives : verdict de migration fiable, continu, économique (OED)</div>
 </div>
 </div>
-<div class="text-xs text-zinc-500 mt-3 leading-snug">Les <span class="text-zinc-400">gateways souverains</span> (Orq, Soverana, OpenRouter) réduisent le coût du changement d'API — sans dire vers quoi migrer. <span class="text-zinc-400">Partenaires, pas concurrents.</span></div>
+<div class="text-xs text-zinc-500 mt-3 leading-snug">Les <span class="text-zinc-400">gateways souverains</span> (Orq, Soverana, OpenRouter, LiteLLM) réduisent le coût du changement d'API — sans dire vers quoi migrer. <span class="text-zinc-400">Partenaires, pas concurrents.</span></div>
 </div>
 
 </div>
 
 <div class="mt-3 text-base text-zinc-100 leading-snug">
-Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acteur qui rejoue vos workloads réels contre des alternatives souveraines pour arbitrer la migration.
+Un paysage dense sur la mesure ponctuelle, vide sur l'arbitrage de migration. <span class="text-zinc-400">Pourquoi cette avance est difficile à rattraper — slide suivante.</span>
 </div>
-<div class="deck-footer">06 / 07</div>
+<div class="deck-footer">06 / 08</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">07 · Équipe</div>
+<div class="kicker">07 · Avantage concurrentiel</div>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">La barrière n'est pas le produit, c'est la méthode</h2>
+
+<div class="grid grid-cols-2 gap-3 mt-5">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
+<div class="text-sm font-medium text-zinc-100">Preuve par la production réelle</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Le verdict de migration s'appuie exclusivement sur vos workloads réels et anonymisés — pas sur un jeu de tests générique ou représentatif comme les leaderboards ou les audits conseil</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
+<div class="text-sm font-medium text-zinc-100">Dataset d'évaluation personnalisé</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Pour chaque client, un jeu d'évaluation sur-mesure échantillonné par Optimal Experiment Design (six ans de R&amp;D bayésienne) à partir de ses propres workloads : verdict fiable sur tout le périmètre, sans payer chaque combinaison fournisseur × modèle</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
+<div class="text-sm font-medium text-zinc-100">Conformité opposable</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Un dossier d'évidence chiffré pour les directions Risques/Conformité — DORA art. 28 et transparence AI Act — quand les plateformes AI Act-native sécurisent le modèle en place, jamais la migration</div>
+</div>
+<div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-4">
+<div class="text-sm font-medium text-zinc-100">Arbitrage de la souveraineté</div>
+<div class="text-sm text-zinc-200 mt-1.5 leading-snug">La seule réponse chiffrée à « quelle application migrer, vers quel modèle souverain, pour quel gain » — les gateways disent <span class="text-zinc-400">comment</span> changer, jamais <span class="text-zinc-400">vers quoi</span></div>
+</div>
+</div>
+
+<div class="mt-3 text-base text-zinc-100 leading-snug">
+Le risque de comblement le plus probable : l'observabilité LLM ou un gateway souverain ajoutant une couche de rejeu cross-fournisseur. <span class="text-zinc-400">Notre expertise OED et le track record d'exécution des fondateurs (AIO) restent la barrière — pas la fonctionnalité.</span>
+</div>
+
+<div class="deck-footer">07 / 08</div>
+</div>
+
+---
+
+<div class="h-full flex flex-col px-16 pt-10 pb-10">
+
+<div class="kicker">08 · Équipe</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Notre Équipe</h2>
 
 <div class="grid grid-cols-2 gap-3 mt-5">
@@ -410,7 +443,7 @@ Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acte
 </div>
 </div>
 
-<div class="deck-footer">07 / 07</div>
+<div class="deck-footer">08 / 08</div>
 </div>
 
 <!-- Slides retirées du deck : 09 · Projections &amp; métriques clés · 10 · Statut, jalons &amp; Innovact
