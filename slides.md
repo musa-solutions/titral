@@ -249,51 +249,55 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">05 · Marché</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">La réglementation crée le marché</h2>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Un marché étroit, forcé — et assumé</h2>
 
 <div class="grid grid-cols-3 gap-3 mt-4">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
-<div class="text-3xl font-semibold tracking-tight">290&nbsp;Md$</div>
-<div class="text-[13px] text-zinc-400 mt-1 leading-snug">de dépense IA en Europe en 2029 (TCAC 33,7&nbsp;%) — le parc d'usages à auditer</div>
+<div class="text-3xl font-semibold tracking-tight">≈&nbsp;2&nbsp;000</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug">entités financières FR sous DORA (ACPR + AMF) — notre cible : un achat forcé</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
 <div class="text-3xl font-semibold tracking-tight">10,5&nbsp;Md$</div>
-<div class="text-[13px] text-zinc-400 mt-1 leading-snug">de conformité AI Act en Europe en 2035 (609&nbsp;M$ en 2026, TCAC 37,3&nbsp;%)</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug">de conformité AI Act UE en 2035 — expansion, pas hypothèse de revenus</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
-<div class="text-3xl font-semibold tracking-tight">≈&nbsp;2&nbsp;000</div>
-<div class="text-[13px] text-zinc-400 mt-1 leading-snug">entités financières françaises sous DORA (ACPR + AMF) — notre base de clients</div>
+<div class="text-3xl font-semibold tracking-tight">290&nbsp;Md$</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug">d'IA des entreprises UE en 2029 — la dépense de nos clients, pas notre marché</div>
 </div>
 </div>
 
-<div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase mt-4">Marché adressable · France first</div>
+<div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase mt-3">Marché adressable · France first</div>
 <div class="grid grid-cols-3 gap-3 mt-2">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
 <div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase">TAM · Europe</div>
-<div class="text-base font-semibold text-zinc-100 mt-0.5">≈&nbsp;1,5&nbsp;Md€ → 10&nbsp;Md€</div>
-<div class="text-xs text-zinc-400 mt-0.5 leading-snug">assurance &amp; gouvernance IA (2026→2035, ~35&nbsp;%/an) — Gartner : gouvernance 492&nbsp;M$ → 1&nbsp;Md$ 2030</div>
+<div class="text-base font-semibold text-zinc-100 mt-0.5">≈&nbsp;1,5&nbsp;Md€ → ≈&nbsp;10&nbsp;Md€</div>
+<div class="text-xs text-zinc-400 mt-0.5 leading-snug">assurance &amp; gouvernance IA (2026→2035, ×7) — borné par : conformité AI Act UE 609&nbsp;M$ (DMR) · gouvernance IA 492&nbsp;M$ (Gartner)</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
 <div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase">SAM · France</div>
 <div class="text-base font-semibold text-zinc-100 mt-0.5">≈&nbsp;200&nbsp;M€</div>
-<div class="text-xs text-zinc-400 mt-0.5 leading-snug">secteurs régulés : finance (DORA) + santé + fournisseurs du public — ~15&nbsp;% de l'UE, France +36,9&nbsp;%/an</div>
+<div class="text-xs text-zinc-400 mt-0.5 leading-snug">secteurs régulés : finance (DORA) + santé + fournisseurs du public — ≈&nbsp;13&nbsp;% du TAM UE (est. Titral)</div>
 </div>
 <div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-3">
 <div class="text-[11px] text-zinc-100 font-medium tracking-widest uppercase">SOM · 2-3 ans</div>
 <div class="text-base font-semibold text-zinc-100 mt-0.5">0,5–1&nbsp;M€ ARR</div>
-<div class="text-xs text-zinc-300 mt-0.5 leading-snug">15–20 comptes régulés × 30–40&nbsp;k€/an — ancrage observabilité ~2,5&nbsp;k€/mois</div>
+<div class="text-xs text-zinc-300 mt-0.5 leading-snug">15–20 comptes × 30–40&nbsp;k€/an — &lt;1&nbsp;% de pénétration du SAM · sous un audit-conseil manuel</div>
 </div>
 </div>
 
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-3 py-2 mt-3 flex items-center gap-4 text-xs">
-<span class="text-zinc-400"><span class="text-zinc-100 font-medium">Banque</span> 12,5&nbsp;% du marché IA UE</span>
-<span class="text-zinc-600">·</span>
-<span class="text-zinc-400"><span class="text-zinc-100 font-medium">Santé</span> +39,7&nbsp;%/an</span>
-<span class="text-zinc-600">·</span>
-<span class="text-zinc-400"><span class="text-zinc-100 font-medium">Assurance</span> exposée DORA — 10&nbsp;% CA de sanctions</span>
+<span class="text-zinc-400"><span class="text-zinc-100 font-medium">2026–27</span> DORA · finance — le wedge</span>
+<span class="text-zinc-600">→</span>
+<span class="text-zinc-400"><span class="text-zinc-100 font-medium">2027–29</span> AI Act · transparence puis haut risque</span>
+<span class="text-zinc-600">→</span>
+<span class="text-zinc-400"><span class="text-zinc-100 font-medium">2030+</span> gouvernance &amp; assurance continue (×7)</span>
 </div>
 
-<div class="mt-auto pt-2 text-[11px] text-zinc-600">Sources : IDC EMEA IT Market (mai 2026) · Dimension Market Research (avr. 2026) · Gartner (févr. 2026) · ACPR/AMF DORA. TAM/SAM/SOM : estimations Titral sur base publique.</div>
+<div class="mt-1 text-base text-zinc-100 leading-snug">
+Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc-400">nous avons besoin de 15 comptes qui n'ont plus le choix.</span>
+</div>
+
+<div class="mt-auto pt-2 text-[10px] text-zinc-600">Sources : IDC (avr. 2026) · Dimension Market Research · Gartner · MarketsandMarkets · ACPR/AMF DORA — TAM/SAM/SOM : estimations Titral sur base publique.</div>
 <div class="deck-footer">05 / 07</div>
 </div>
 
