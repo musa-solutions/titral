@@ -82,7 +82,7 @@ Reims · Septembre 2026
 </div>
 </div>
 
-<div class="mt-auto pt-1 text-xs text-zinc-600">Sources : Insee Première n° 2120, données 2025 · IBM Institute for Business Value, <i>The Calculus of AI Sovereignty</i> (juin 2026) · règlement (UE) 2022/2554 (DORA)</div>
+<div class="mt-auto pt-1 text-[10px] text-zinc-600">Sources : Insee Première n° 2120, données 2025 · IBM Institute for Business Value, <i>The Calculus of AI Sovereignty</i> (juin 2026) · règlement (UE) 2022/2554 (DORA)</div>
 <div class="deck-footer">02 / 12</div>
 </div>
 
@@ -124,7 +124,34 @@ Reims · Septembre 2026
 <div class="text-zinc-500 leading-snug">Pricing et conversion : <span class="text-zinc-400">hypothèses à valider en customer discovery</span></div>
 </div>
 
-<div class="mt-auto text-xs text-zinc-600">Sources : Eurostat, statistiques structurelles 2024 · Eurostat, usage de l'IA 2025 (KS-01-26-009) · règlement (UE) 2022/2554</div>
+<div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase mt-2">Marché adressable · France first</div>
+<div class="grid grid-cols-3 gap-2 mt-1">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-2.5">
+<div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase">TAM · Europe</div>
+<div class="text-base font-semibold text-zinc-100 mt-0.5">≈&nbsp;1,5&nbsp;Md€ → ≈&nbsp;10&nbsp;Md€</div>
+<div class="text-xs text-zinc-400 mt-0.5 leading-snug">assurance &amp; gouvernance IA (2026→2035, ×7) — borné par : conformité AI Act UE 609&nbsp;M$ (DMR) · gouvernance IA 492&nbsp;M$ (Gartner)</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-2.5">
+<div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase">SAM · France</div>
+<div class="text-base font-semibold text-zinc-100 mt-0.5">≈&nbsp;200&nbsp;M€</div>
+<div class="text-xs text-zinc-400 mt-0.5 leading-snug">secteurs régulés : finance (DORA) + santé + fournisseurs du public — ≈&nbsp;13&nbsp;% du TAM UE (est. Titral)</div>
+</div>
+<div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-2.5">
+<div class="text-[11px] text-zinc-100 font-medium tracking-widest uppercase">SOM · 2-3 ans</div>
+<div class="text-base font-semibold text-zinc-100 mt-0.5">0,5–1&nbsp;M€ ARR</div>
+<div class="text-xs text-zinc-300 mt-0.5 leading-snug">15–20 comptes × 30–40&nbsp;k€/an — &lt;1&nbsp;% de pénétration du SAM · sous un audit-conseil manuel</div>
+</div>
+</div>
+
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-3 py-1.5 mt-2 flex items-center gap-3 text-xs">
+<span class="text-zinc-400"><span class="text-zinc-100 font-medium">2026–27</span> DORA · finance — le wedge</span>
+<span class="text-zinc-600">→</span>
+<span class="text-zinc-400"><span class="text-zinc-100 font-medium">2027–29</span> AI Act · transparence puis haut risque</span>
+<span class="text-zinc-600">→</span>
+<span class="text-zinc-400"><span class="text-zinc-100 font-medium">2030+</span> gouvernance &amp; assurance continue (×7)</span>
+</div>
+
+<div class="mt-auto text-[10px] text-zinc-600">Sources : Eurostat, statistiques structurelles 2024 · Eurostat, usage de l'IA 2025 (KS-01-26-009) · IDC · Dimension Market Research · Gartner · ACPR/AMF DORA · règlement (UE) 2022/2554 — TAM/SAM/SOM : estimations Titral sur base publique.</div>
 <div class="deck-footer">03 / 12</div>
 </div>
 
@@ -234,7 +261,7 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 <div class="mt-auto text-base text-zinc-100 leading-snug pt-3">
 Hausse de prix, dépréciation de modèles, pannes, réglementation, souveraineté, levier de négociation — <span class="text-zinc-400">tout converge vers la même capacité : une substituabilité testée, pas une déclaration d'intention.</span>
 </div>
-<div class="mt-2 text-xs text-zinc-600">Sources : règlement (UE) 2022/2554 (DORA), art. 28 · règlement (UE) 2024/1689 (AI Act), Omnibus 2026</div>
+<div class="mt-2 text-[10px] text-zinc-600">Sources : règlement (UE) 2022/2554 (DORA), art. 28 · règlement (UE) 2024/1689 (AI Act), Omnibus 2026</div>
 <div class="deck-footer">05 / 12</div>
 </div>
 
