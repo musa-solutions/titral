@@ -42,7 +42,7 @@ Reims · Septembre 2026
 </div>
 </div>
 
-<div class="deck-footer">01 / 14</div>
+<div class="deck-footer">01 / 13</div>
 </div>
 
 ---
@@ -83,7 +83,7 @@ Reims · Septembre 2026
 </div>
 
 <div class="mt-auto pt-1 text-[10px] text-zinc-600">Sources : Insee Première n° 2120, données 2025 · IBM Institute for Business Value, <i>The Calculus of AI Sovereignty</i> (juin 2026) · règlement (UE) 2022/2554 (DORA)</div>
-<div class="deck-footer">02 / 14</div>
+<div class="deck-footer">02 / 13</div>
 </div>
 
 ---
@@ -109,7 +109,7 @@ Reims · Septembre 2026
 </div>
 
 <div class="mt-auto text-[10px] text-zinc-600">Sources : Eurostat, statistiques structurelles 2024 · Eurostat, usage de l'IA 2025 (KS-01-26-009) · règlement (UE) 2022/2554</div>
-<div class="deck-footer">03 / 14</div>
+<div class="deck-footer">03 / 13</div>
 </div>
 
 ---
@@ -166,7 +166,7 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc
 </div>
 
 <div class="mt-auto pt-2 text-[10px] text-zinc-600">Sources : IDC (avr. 2026) · Dimension Market Research · Gartner · MarketsandMarkets · ACPR/AMF DORA — TAM/SAM/SOM : estimations Titral sur base publique.</div>
-<div class="deck-footer">04 / 14</div>
+<div class="deck-footer">04 / 13</div>
 </div>
 
 ---
@@ -247,7 +247,7 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc
 </div>
 </div>
 
-<div class="deck-footer">05 / 14</div>
+<div class="deck-footer">05 / 13</div>
 </div>
 
 ---
@@ -276,7 +276,7 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc
 Hausse de prix, dépréciation de modèles, pannes, réglementation, souveraineté, levier de négociation — <span class="text-zinc-400">tout converge vers la même capacité : une substituabilité testée, pas une déclaration d'intention.</span>
 </div>
 <div class="mt-2 text-[10px] text-zinc-600">Sources : règlement (UE) 2022/2554 (DORA), art. 28 · règlement (UE) 2024/1689 (AI Act), Omnibus 2026</div>
-<div class="deck-footer">06 / 14</div>
+<div class="deck-footer">06 / 13</div>
 </div>
 
 ---
@@ -286,37 +286,66 @@ Hausse de prix, dépréciation de modèles, pannes, réglementation, souverainet
 <div class="kicker">07 · Concurrence</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Une brique encore manquante : prouver la substituabilité</h2>
 
-<div class="grid grid-cols-2 gap-3 mt-4">
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3.5">
-<div class="text-sm font-medium text-zinc-100">Gateways</div>
-<div class="text-[13px] text-zinc-500 mt-0.5">LiteLLM · Portkey · Orq · OpenRouter</div>
-<div class="text-[13px] text-zinc-400 mt-1 leading-snug">Changement d'API facilité — sans dire si le comportement de vos applications reste équivalent</div>
+<div class="grid grid-cols-12 gap-6 mt-3">
+
+<div class="col-span-7">
+<div class="relative h-[216px] border border-zinc-800 rounded-xl bg-zinc-950/40">
+<div class="absolute top-0 right-0 w-1/2 h-1/2 bg-zinc-900/50 rounded-br-xl"></div>
+<div class="absolute top-1/2 left-0 w-full border-t border-zinc-700"></div>
+<div class="absolute top-0 left-1/2 h-full border-l border-zinc-700"></div>
+<div class="absolute top-2.5 left-3 text-[10px] font-mono text-zinc-500 uppercase tracking-widest">Verdict actionnable</div>
+<div class="absolute bottom-2.5 left-3 text-[10px] font-mono text-zinc-500 uppercase tracking-widest">Photographie descriptive</div>
+
+<div class="absolute flex items-center gap-2" style="left:21%;top:30%;transform:translateY(-50%)">
+<div class="w-2.5 h-2.5 rounded-full bg-zinc-400 shrink-0"></div>
+<div class="text-xs text-zinc-300">GRC · audits conformité<br><span class="text-zinc-500">OneTrust · ModelOp · conseil</span></div>
 </div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3.5">
-<div class="text-sm font-medium text-zinc-100">Evals · observabilité</div>
-<div class="text-[13px] text-zinc-500 mt-0.5">Langfuse · Braintrust · Giskard · LangSmith</div>
-<div class="text-[13px] text-zinc-400 mt-1 leading-snug">Mesurent qualité et régressions — pas conçus pour arbitrer une sortie ni produire un plan</div>
+
+<div class="absolute flex items-center gap-2" style="left:22%;top:72%;transform:translateY(-50%)">
+<div class="w-2.5 h-2.5 rounded-full bg-zinc-400 shrink-0"></div>
+<div class="text-xs text-zinc-300">Leaderboards publics<br><span class="text-zinc-500">LMSYS · HELM · MMLU</span></div>
 </div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3.5">
-<div class="text-sm font-medium text-zinc-100">GRC · gouvernance IA</div>
-<div class="text-[13px] text-zinc-500 mt-0.5">OneTrust · ServiceNow · ModelOp · Credo</div>
-<div class="text-[13px] text-zinc-400 mt-1 leading-snug">Documentent et contrôlent le risque — sans le tester sur vos workloads réels</div>
+
+<div class="absolute flex items-center gap-2" style="left:66%;top:72%;transform:translateY(-50%)">
+<div class="w-2.5 h-2.5 rounded-full bg-zinc-400 shrink-0"></div>
+<div class="text-xs text-zinc-300">Evals · observabilité<br><span class="text-zinc-500">Langfuse · Braintrust · LangSmith</span></div>
 </div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3.5">
-<div class="text-sm font-medium text-zinc-100">Cloud exit · résilience</div>
-<div class="text-[13px] text-zinc-500 mt-0.5">Portabilité d'infrastructure</div>
-<div class="text-[13px] text-zinc-400 mt-1 leading-snug">Testent l'infrastructure — pas le comportement des modèles après bascule</div>
+
+<div class="absolute flex flex-row-reverse items-center gap-2" style="right:3%;top:20%;transform:translateY(-50%)">
+<div class="w-3 h-3 rounded-full bg-zinc-100 shrink-0" style="box-shadow:0 0 0 5px rgba(244,244,245,0.15)"></div>
+<div class="text-sm text-zinc-100 font-medium">Titral<br><span class="text-xs text-zinc-400 font-normal">rejeu OED · continu · chiffré</span></div>
+</div>
+</div>
+<div class="flex justify-between mt-2 text-[10px] font-mono text-zinc-500 uppercase tracking-widest">
+<div>Données génériques / représentatives</div>
+<div>Vos workloads de production réels</div>
 </div>
 </div>
 
-<div class="border border-zinc-700 bg-zinc-900/60 rounded-xl px-4 py-2 mt-3">
-<div class="text-sm leading-snug"><span class="text-zinc-100 font-medium">Titral</span> <span class="text-zinc-300">— teste si le comportement IA réel reste substituable, et transforme le résultat en plan de sortie exécutable + preuve continue.</span></div>
+<div class="col-span-5 flex flex-col">
+<div class="space-y-1.5">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-lg px-3.5 py-1.5">
+<div class="text-xs text-zinc-400"><span class="text-zinc-100">Leaderboards publics</span> — classements continus mais hors-sol : aucune donnée entreprise, aucun arbitrage</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-lg px-3.5 py-1.5">
+<div class="text-xs text-zinc-400"><span class="text-zinc-100">Evals · observabilité</span> — mesurent qualité et régressions sur vos traces — jamais pour arbitrer une sortie</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-lg px-3.5 py-1.5">
+<div class="text-xs text-zinc-400"><span class="text-zinc-100">GRC · audits conformité</span> — documentent le risque sur le modèle en place : sécurisent, ne migrent jamais</div>
+</div>
+<div class="border border-zinc-700 bg-zinc-900/60 rounded-lg px-3.5 py-1.5">
+<div class="text-xs text-zinc-200"><span class="text-zinc-100 font-medium">Titral</span> — vos workloads rejoués contre vos alternatives : verdict fiable, continu, économique (OED)</div>
+</div>
+</div>
+<div class="text-xs text-zinc-500 mt-2 leading-snug"><span class="text-zinc-400">Gateways et cloud exit : partenaires, pas concurrents</span> — ils facilitent le changement d'API ou testent l'infrastructure, jamais le comportement des modèles.</div>
 </div>
 
-<div class="mt-1.5 text-sm text-zinc-100 leading-snug">
-La catégorie se forme — gateways, evals, GRC. <span class="text-zinc-400">Notre wedge : opérationaliser la substituabilité IA, en continu, sur les workloads réels.</span>
 </div>
-<div class="deck-footer">07 / 14</div>
+
+<div class="mt-2 text-base text-zinc-100 leading-snug">
+Un paysage dense sur la mesure ponctuelle — <span class="text-zinc-400">vide sur l'arbitrage de migration.</span>
+</div>
+<div class="deck-footer">07 / 13</div>
 </div>
 
 ---
@@ -349,7 +378,7 @@ La catégorie se forme — gateways, evals, GRC. <span class="text-zinc-400">Not
 Le risque de comblement le plus probable : l'observabilité LLM ou un gateway souverain ajoutant une couche de rejeu cross-fournisseur. <span class="text-zinc-400">Notre expertise OED et le track record d'exécution des fondateurs (AIO) restent la barrière — pas la fonctionnalité.</span>
 </div>
 
-<div class="deck-footer">08 / 14</div>
+<div class="deck-footer">08 / 13</div>
 </div>
 
 ---
@@ -386,7 +415,7 @@ Le risque de comblement le plus probable : l'observabilité LLM ou un gateway so
 </div>
 </div>
 
-<div class="deck-footer">09 / 14</div>
+<div class="deck-footer">09 / 13</div>
 </div>
 
 ---
@@ -425,7 +454,7 @@ Le risque de comblement le plus probable : l'observabilité LLM ou un gateway so
 <div class="text-zinc-500 leading-snug">Boucle : exit test → RFP gagné → assurance continue → référence publiable → compte suivant</div>
 </div>
 
-<div class="deck-footer">10 / 14</div>
+<div class="deck-footer">10 / 13</div>
 </div>
 
 ---
@@ -456,62 +485,25 @@ Le risque de comblement le plus probable : l'observabilité LLM ou un gateway so
 <div class="mt-auto text-base text-zinc-100 leading-snug pt-3">
 Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span class="text-zinc-400">hypothèses à valider</span>. Innovact existe précisément pour cette étape : transformer la preuve technologique en preuve commerciale.
 </div>
-<div class="deck-footer">11 / 14</div>
+<div class="deck-footer">11 / 13</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">12 · Économie &amp; ambition</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">De l'exit test au portefeuille : la trajectoire</h2>
-
-<div class="grid grid-cols-4 gap-3 mt-5">
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Aujourd'hui</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Pré-revenu · customer discovery en cours · pricing en validation avec les design partners</div>
-</div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Année 1</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">5–10 exit tests payants (3–10&nbsp;k€) · SDK en production · premier rapport « sortie prouvée » publiable</div>
-</div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Année 2</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Continuous Exit Assurance commercialisée · 20–30 clients × 15–30&nbsp;k€ → <span class="text-zinc-100">≈&nbsp;500&nbsp;k€ ARR</span></div>
-</div>
-<div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-4">
-<div class="text-xs text-zinc-100 font-medium tracking-widest uppercase">Année 3+ · ambition</div>
-<div class="text-sm text-zinc-300 mt-1.5 leading-snug">Portefeuilles entreprise 50–100&nbsp;k€+ · <span class="text-zinc-100 font-medium">500 clients × 20&nbsp;k€ = 10&nbsp;M€ d'ARR</span> — &lt;&nbsp;0,5&nbsp;% du bassin européen</div>
-</div>
-</div>
-
-<div class="grid grid-cols-3 gap-3 mt-3">
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-3.5 py-2">
-<div class="text-[13px] text-zinc-400 leading-snug"><span class="text-zinc-100 font-medium">Moteur</span> — chaque exit test vendu crée un compte ; chaque changement d'écosystème IA relance la souscription</div>
-</div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-3.5 py-2">
-<div class="text-[13px] text-zinc-400 leading-snug"><span class="text-zinc-100 font-medium">Marge</span> — le rejeu OED rend le coût de revient faible : la donnée du client se réutilise à chaque exécution</div>
-</div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-3.5 py-2">
-<div class="text-[13px] text-zinc-400 leading-snug"><span class="text-zinc-100 font-medium">Vision</span> — la couche d'assurance indépendante des dépendances IA d'entreprise</div>
-</div>
-</div>
-
-<div class="mt-auto pt-2 text-xs text-zinc-600">Trajectoire hypothétique — statut des prix détaillé slide 09. Base de marché : Eurostat 2024-2025.</div>
-<div class="deck-footer">12 / 14</div>
-</div>
-
----
-
-<div class="h-full flex flex-col px-16 pt-10 pb-10">
-
-<div class="kicker">13 · Équipe</div>
+<div class="kicker">12 · Équipe</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-1">Une équipe qui a déjà construit et opéré l'IA en production</h2>
 
 <div class="grid grid-cols-2 gap-3 mt-3">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
+<div class="flex items-center gap-3">
+<img src="/images/murilo.jpg" alt="Murilo Vasconcelos" class="w-16 h-16 rounded-full object-cover grayscale border border-zinc-700" />
+<div>
 <div class="text-lg font-medium text-zinc-100">Murilo Vasconcelos</div>
 <div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase">Fondateur &amp; CEO</div>
+</div>
+</div>
 <div class="text-sm text-zinc-400 mt-2 space-y-0.5 leading-snug">
 <div>Fondateur Studiare — <span class="text-zinc-100 font-medium">acquis par Kroton en 2015</span> · Fondateur &amp; CEO AIO (2020)</div>
 <div>Quant : Morgan Stanley · Santander · Banco BBM</div>
@@ -520,8 +512,13 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 </div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
+<div class="flex items-center gap-3">
+<img src="/images/thiago.jpg" alt="Thiago Sabetta" class="w-16 h-16 rounded-full object-cover grayscale border border-zinc-700" />
+<div>
 <div class="text-lg font-medium text-zinc-100">Thiago Sabetta</div>
 <div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase">Co-fondateur &amp; CTO</div>
+</div>
+</div>
 <div class="text-sm text-zinc-400 mt-2 space-y-0.5 leading-snug">
 <div>Co-fondateur &amp; CTO AIO</div>
 <div>Data CFM · Data Specialist Toucan Toco · Engineering Manager Zefir</div>
@@ -541,14 +538,14 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 </div>
 
 <div class="mt-2 text-[10px] text-zinc-600">Sources : LinkedIn des fondateurs · aio.com.br</div>
-<div class="deck-footer">13 / 14</div>
+<div class="deck-footer">12 / 13</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">14 · Pourquoi Innovact</div>
+<div class="kicker">13 · Pourquoi Innovact</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Pourquoi Innovact, pourquoi maintenant</h2>
 
 <div class="grid grid-cols-2 gap-3 mt-5">
@@ -578,7 +575,7 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 <div class="mt-4 text-xl text-zinc-100 leading-snug">
 DORA exige déjà des sorties testées, l'AI Act arrive. <span class="text-zinc-400">Nous transformons ces échéances en marché — depuis Reims.</span>
 </div>
-<div class="deck-footer">14 / 14</div>
+<div class="deck-footer">13 / 13</div>
 </div>
 
 ---
