@@ -623,17 +623,17 @@ Risque de comblement : un acteur de l'observabilité ou un gateway ajoutant le r
 <div class="kicker">11 · Validation</div>
 <h2 class="h-title">Ce qui est prouvé, ce qui reste à prouver</h2>
 
-<div class="grid grid-cols-2 gap-3 mt-5">
-<div class="card p-4">
+<div class="grid grid-cols-2 gap-3.5 mt-6">
+<div class="card p-5">
 <div class="eyebrow">Validation technologique — acquise</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-2 space-y-1.5 leading-snug">
+<div class="text-[13px] text-[var(--ink-2)] mt-3 space-y-2.5 leading-normal">
 <div><span class="text-[var(--ink)] font-medium">Méthodologie OED et pipeline de rejeu opérationnels</span> — 10 mois de construction sur des cas réels</div>
 <div><span class="text-[var(--ink)] font-medium">Briques testées sur des workloads IA en production</span> — projet Google Foundation</div>
 </div>
 </div>
-<div class="card card-hl p-4">
+<div class="card card-hl p-5">
 <div class="eyebrow eyebrow-hl">Validation commerciale — en cours</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-2 space-y-1.5 leading-snug">
+<div class="text-[13px] text-[var(--ink-2)] mt-3 space-y-2.5 leading-normal">
 <div><span class="text-[var(--ink)] font-medium">Pré-revenus</span> — stade early</div>
 <div><span class="text-[var(--ink)] font-medium">Problème observé en direct</span> sur des systèmes IA en production — pas une intuition de marché</div>
 <div><span class="text-[var(--ink)] font-medium">Jalon immédiat et mesurable</span> — 20 entretiens (J+3) → 2–3 design partners rémunérés (J+6)</div>
@@ -641,43 +641,39 @@ Risque de comblement : un acteur de l'observabilité ou un gateway ajoutant le r
 </div>
 </div>
 
-<div class="mt-auto pt-7">
+<div class="mt-auto pt-6 border-t border-[var(--hair-soft)]">
 <div class="eyebrow">Échelle de preuve — où nous en sommes</div>
-<div class="relative mt-5">
+<div class="relative mt-6">
 <div class="absolute left-0 right-0 top-[5px] h-px bg-[var(--hair-soft)]"></div>
 <div class="absolute left-0 top-[5px] h-px bg-[var(--accent)]" style="width:28%"></div>
 <div class="relative grid grid-cols-5 gap-3">
 <div>
 <div class="w-2.5 h-2.5 rounded-full bg-[var(--accent)]"></div>
-<div class="text-[11.5px] text-[var(--ink)] font-medium mt-3 leading-snug">Méthode OED</div>
+<div class="text-[11.5px] text-[var(--ink)] font-medium mt-3.5 leading-snug">Méthode OED</div>
 <div class="text-[10px] text-[var(--ink-3)] mt-0.5">prouvé</div>
 </div>
 <div>
 <div class="w-2.5 h-2.5 rounded-full bg-[var(--accent)]"></div>
-<div class="text-[11.5px] text-[var(--ink)] font-medium mt-3 leading-snug">Problème observé</div>
+<div class="text-[11.5px] text-[var(--ink)] font-medium mt-3.5 leading-snug">Problème observé</div>
 <div class="text-[10px] text-[var(--ink-3)] mt-0.5">prouvé</div>
 </div>
 <div>
 <div class="w-2.5 h-2.5 rounded-full bg-black border border-[var(--accent-soft)]"></div>
-<div class="text-[11.5px] text-[var(--ink-2)] font-medium mt-3 leading-snug">Design partner payant</div>
+<div class="text-[11.5px] text-[var(--ink-2)] font-medium mt-3.5 leading-snug">Design partner payant</div>
 <div class="text-[10px] accent mt-0.5">prochain jalon</div>
 </div>
 <div>
 <div class="w-2.5 h-2.5 rounded-full bg-black border border-[var(--hair)]"></div>
-<div class="text-[11.5px] text-[var(--ink-2)] mt-3 leading-snug">Renouvellement</div>
+<div class="text-[11.5px] text-[var(--ink-2)] mt-3.5 leading-snug">Renouvellement</div>
 <div class="text-[10px] text-[var(--ink-4)] mt-0.5">à prouver</div>
 </div>
 <div>
 <div class="w-2.5 h-2.5 rounded-full bg-black border border-[var(--hair)]"></div>
-<div class="text-[11.5px] text-[var(--ink-2)] mt-3 leading-snug">Répétabilité GTM</div>
+<div class="text-[11.5px] text-[var(--ink-2)] mt-3.5 leading-snug">Répétabilité GTM</div>
 <div class="text-[10px] text-[var(--ink-4)] mt-0.5">à prouver</div>
 </div>
 </div>
 </div>
-</div>
-
-<div class="lead pt-7">
-Nous distinguons les <span class="text-[var(--ink-2)]">faits prouvés</span> des <span class="text-[var(--ink-2)]">hypothèses à valider</span>. Innovact existe précisément pour cette étape : transformer la preuve technologique en preuve commerciale.
 </div>
 <div class="deck-footer">11 / 13</div>
 </div>
