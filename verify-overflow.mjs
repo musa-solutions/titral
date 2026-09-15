@@ -1,7 +1,7 @@
 // Overflow verification for the built Slidev deck (history routing).
 // Serves dist/ over HTTP, visits each slide, and measures whether any
 // visible element extends beyond the slide's bounding box.
-// NOTE: 13 main slides + 1 appendix (OED "Sous le capot") = 14 slides are live.
+// NOTE: 14 main slides + 1 appendix (OED "Sous le capot") = 15 slides are live.
 import http from 'node:http'
 import fs from 'node:fs'
 import path from 'node:path'
@@ -31,7 +31,7 @@ const errors = []
 page.on('pageerror', e => { if (!/Wake Lock/.test(e.message)) errors.push(`pageerror: ${e.message}`) })
 page.on('console', m => { if (m.type() === 'error' && !/Failed to patch FloatingVue/.test(m.text())) errors.push(`console: ${m.text()}`) })
 
-const NUM_SLIDES = 14
+const NUM_SLIDES = 15
 const report = []
 
 for (let i = 1; i <= NUM_SLIDES; i++) {

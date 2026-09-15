@@ -42,7 +42,7 @@ Reims · Septembre 2026
 </div>
 </div>
 
-<div class="deck-footer">01 / 13</div>
+<div class="deck-footer">01 / 14</div>
 </div>
 
 ---
@@ -83,7 +83,7 @@ Reims · Septembre 2026
 </div>
 
 <div class="mt-auto pt-1 text-[10px] text-zinc-600">Sources : Insee Première n° 2120, données 2025 · IBM Institute for Business Value, <i>The Calculus of AI Sovereignty</i> (juin 2026) · règlement (UE) 2022/2554 (DORA)</div>
-<div class="deck-footer">02 / 13</div>
+<div class="deck-footer">02 / 14</div>
 </div>
 
 ---
@@ -124,26 +124,52 @@ Reims · Septembre 2026
 <div class="text-zinc-500 leading-snug">Pricing et conversion : <span class="text-zinc-400">hypothèses à valider en customer discovery</span></div>
 </div>
 
-<div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase mt-2">Marché adressable · France first</div>
-<div class="grid grid-cols-3 gap-2 mt-1">
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-2.5">
+<div class="mt-auto text-[10px] text-zinc-600">Sources : Eurostat, statistiques structurelles 2024 · Eurostat, usage de l'IA 2025 (KS-01-26-009) · règlement (UE) 2022/2554</div>
+<div class="deck-footer">03 / 14</div>
+</div>
+
+---
+
+<div class="h-full flex flex-col px-16 pt-10 pb-10">
+
+<div class="kicker">04 · Marché adressable</div>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Un marché étroit, forcé — et assumé</h2>
+
+<div class="grid grid-cols-3 gap-3 mt-4">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
+<div class="text-3xl font-semibold tracking-tight">≈&nbsp;2&nbsp;000</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug">entités financières FR sous DORA (ACPR + AMF) — notre cible : un achat forcé</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
+<div class="text-3xl font-semibold tracking-tight">10,5&nbsp;Md$</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug">de conformité AI Act UE en 2035 — expansion, pas hypothèse de revenus</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
+<div class="text-3xl font-semibold tracking-tight">290&nbsp;Md$</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug">d'IA des entreprises UE en 2029 — la dépense de nos clients, pas notre marché</div>
+</div>
+</div>
+
+<div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase mt-3">Marché adressable · France first</div>
+<div class="grid grid-cols-3 gap-3 mt-2">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
 <div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase">TAM · Europe</div>
 <div class="text-base font-semibold text-zinc-100 mt-0.5">≈&nbsp;1,5&nbsp;Md€ → ≈&nbsp;10&nbsp;Md€</div>
 <div class="text-xs text-zinc-400 mt-0.5 leading-snug">assurance &amp; gouvernance IA (2026→2035, ×7) — borné par : conformité AI Act UE 609&nbsp;M$ (DMR) · gouvernance IA 492&nbsp;M$ (Gartner)</div>
 </div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-2.5">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
 <div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase">SAM · France</div>
 <div class="text-base font-semibold text-zinc-100 mt-0.5">≈&nbsp;200&nbsp;M€</div>
 <div class="text-xs text-zinc-400 mt-0.5 leading-snug">secteurs régulés : finance (DORA) + santé + fournisseurs du public — ≈&nbsp;13&nbsp;% du TAM UE (est. Titral)</div>
 </div>
-<div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-2.5">
+<div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-3">
 <div class="text-[11px] text-zinc-100 font-medium tracking-widest uppercase">SOM · 2-3 ans</div>
 <div class="text-base font-semibold text-zinc-100 mt-0.5">0,5–1&nbsp;M€ ARR</div>
 <div class="text-xs text-zinc-300 mt-0.5 leading-snug">15–20 comptes × 30–40&nbsp;k€/an — &lt;1&nbsp;% de pénétration du SAM · sous un audit-conseil manuel</div>
 </div>
 </div>
 
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-3 py-1.5 mt-2 flex items-center gap-3 text-xs">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-3 py-2 mt-3 flex items-center gap-4 text-xs">
 <span class="text-zinc-400"><span class="text-zinc-100 font-medium">2026–27</span> DORA · finance — le wedge</span>
 <span class="text-zinc-600">→</span>
 <span class="text-zinc-400"><span class="text-zinc-100 font-medium">2027–29</span> AI Act · transparence puis haut risque</span>
@@ -151,15 +177,19 @@ Reims · Septembre 2026
 <span class="text-zinc-400"><span class="text-zinc-100 font-medium">2030+</span> gouvernance &amp; assurance continue (×7)</span>
 </div>
 
-<div class="mt-auto text-[10px] text-zinc-600">Sources : Eurostat, statistiques structurelles 2024 · Eurostat, usage de l'IA 2025 (KS-01-26-009) · IDC · Dimension Market Research · Gartner · ACPR/AMF DORA · règlement (UE) 2022/2554 — TAM/SAM/SOM : estimations Titral sur base publique.</div>
-<div class="deck-footer">03 / 13</div>
+<div class="mt-1 text-base text-zinc-100 leading-snug">
+Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc-400">nous avons besoin de 15 comptes qui n'ont plus le choix.</span>
+</div>
+
+<div class="mt-auto pt-2 text-[10px] text-zinc-600">Sources : IDC (avr. 2026) · Dimension Market Research · Gartner · MarketsandMarkets · ACPR/AMF DORA — TAM/SAM/SOM : estimations Titral sur base publique.</div>
+<div class="deck-footer">04 / 14</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">04 · Le produit</div>
+<div class="kicker">05 · Le produit</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Testez et prouvez votre capacité de sortie</h2>
 
 <div class="mt-2 text-sm text-zinc-200 leading-snug border-l-2 border-zinc-500 pl-4">
@@ -233,14 +263,14 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 </div>
 
 <div class="mt-2 text-xs text-zinc-500 leading-snug">Rapport illustratif. Pourquoi c'est économiquement viable : le test exhaustif croît en workloads × modèles × scénarios — l'échantillonnage OED sélectionne les tests les plus informatifs (détail en annexe).</div>
-<div class="deck-footer">04 / 13</div>
+<div class="deck-footer">05 / 14</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">05 · Pourquoi maintenant</div>
+<div class="kicker">06 · Pourquoi maintenant</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">DORA impose des sorties prouvées. Le reste amplifie.</h2>
 
 <div class="grid grid-cols-3 gap-3 mt-3">
@@ -262,14 +292,14 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 Hausse de prix, dépréciation de modèles, pannes, réglementation, souveraineté, levier de négociation — <span class="text-zinc-400">tout converge vers la même capacité : une substituabilité testée, pas une déclaration d'intention.</span>
 </div>
 <div class="mt-2 text-[10px] text-zinc-600">Sources : règlement (UE) 2022/2554 (DORA), art. 28 · règlement (UE) 2024/1689 (AI Act), Omnibus 2026</div>
-<div class="deck-footer">05 / 13</div>
+<div class="deck-footer">06 / 14</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">06 · Concurrence</div>
+<div class="kicker">07 · Concurrence</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Une brique encore manquante : prouver la substituabilité</h2>
 
 <div class="grid grid-cols-2 gap-3 mt-4">
@@ -302,14 +332,14 @@ Hausse de prix, dépréciation de modèles, pannes, réglementation, souverainet
 <div class="mt-1.5 text-sm text-zinc-100 leading-snug">
 La catégorie se forme — gateways, evals, GRC. <span class="text-zinc-400">Notre wedge : opérationaliser la substituabilité IA, en continu, sur les workloads réels.</span>
 </div>
-<div class="deck-footer">06 / 13</div>
+<div class="deck-footer">07 / 14</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">07 · Avantage concurrentiel</div>
+<div class="kicker">08 · Avantage concurrentiel</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">La barrière n'est pas le produit, c'est la méthode</h2>
 
 <div class="grid grid-cols-2 gap-3 mt-5">
@@ -335,14 +365,14 @@ La catégorie se forme — gateways, evals, GRC. <span class="text-zinc-400">Not
 Le risque de comblement le plus probable : l'observabilité LLM ou un gateway souverain ajoutant une couche de rejeu cross-fournisseur. <span class="text-zinc-400">Notre expertise OED et le track record d'exécution des fondateurs (AIO) restent la barrière — pas la fonctionnalité.</span>
 </div>
 
-<div class="deck-footer">07 / 13</div>
+<div class="deck-footer">08 / 14</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">08 · Business model</div>
+<div class="kicker">09 · Business model</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Land &amp; expand — de l'exit test à l'assurance continue</h2>
 
 <div class="grid grid-cols-2 gap-3 mt-5">
@@ -375,14 +405,14 @@ Le risque de comblement le plus probable : l'observabilité LLM ou un gateway so
 <div class="mt-auto text-base text-zinc-100 leading-snug pt-3">
 L'exit test ouvre la porte, <span class="text-zinc-400">l'assurance continue la garde ouverte.</span>
 </div>
-<div class="deck-footer">08 / 13</div>
+<div class="deck-footer">09 / 14</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">09 · Go-to-market</div>
+<div class="kicker">10 · Go-to-market</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Un GTM déclenché par les événements, pas par les secteurs</h2>
 
 <div class="grid grid-cols-3 gap-3 mt-4">
@@ -417,14 +447,14 @@ L'exit test ouvre la porte, <span class="text-zinc-400">l'assurance continue la 
 <div class="mt-auto text-sm text-zinc-100 leading-snug pt-2">
 Chaque RFP régulé, chaque revue DORA, chaque changement de prix <span class="text-zinc-400">crée un moment d'achat. Notre travail : y être avec la preuve.</span>
 </div>
-<div class="deck-footer">09 / 13</div>
+<div class="deck-footer">10 / 14</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">10 · Validation</div>
+<div class="kicker">11 · Validation</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Ce qui est prouvé, ce qui reste à prouver</h2>
 
 <div class="grid grid-cols-2 gap-3 mt-5">
@@ -449,14 +479,14 @@ Chaque RFP régulé, chaque revue DORA, chaque changement de prix <span class="t
 <div class="mt-auto text-base text-zinc-100 leading-snug pt-3">
 Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span class="text-zinc-400">hypothèses à valider</span>. Innovact existe précisément pour cette étape : transformer la preuve technologique en preuve commerciale.
 </div>
-<div class="deck-footer">10 / 13</div>
+<div class="deck-footer">11 / 14</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">11 · Économie &amp; ambition</div>
+<div class="kicker">12 · Économie &amp; ambition</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">De l'exit test au portefeuille : la trajectoire</h2>
 
 <div class="grid grid-cols-4 gap-3 mt-5">
@@ -491,14 +521,14 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 </div>
 
 <div class="mt-auto pt-2 text-xs text-zinc-600">Trajectoire et pricing : hypothèses à valider en customer discovery. Base de marché : Eurostat 2024-2025.</div>
-<div class="deck-footer">11 / 13</div>
+<div class="deck-footer">12 / 14</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">12 · Équipe</div>
+<div class="kicker">13 · Équipe</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Notre Équipe</h2>
 
 <div class="grid grid-cols-2 gap-3 mt-5">
@@ -534,14 +564,14 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 </div>
 </div>
 
-<div class="deck-footer">12 / 13</div>
+<div class="deck-footer">13 / 14</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">13 · Pourquoi Innovact</div>
+<div class="kicker">14 · Pourquoi Innovact</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Pourquoi Innovact, pourquoi maintenant</h2>
 
 <div class="grid grid-cols-2 gap-3 mt-5">
@@ -571,7 +601,7 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 <div class="mt-4 text-xl text-zinc-100 leading-snug">
 DORA exige déjà des sorties testées, l'IA Act arrive. <span class="text-zinc-400">Nous transformons ces échéances en marché — depuis Reims.</span>
 </div>
-<div class="deck-footer">13 / 13</div>
+<div class="deck-footer">14 / 14</div>
 </div>
 
 ---
