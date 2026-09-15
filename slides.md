@@ -1,6 +1,7 @@
 ---
 title: 'Titral — Continuous AI Exit Readiness'
-info: 'Innovact · Reims, septembre 2026 · Murilo Vasconcelos Andrade & Thiago Sabetta'
+info: 'Innovact · Reims, septembre 2026 · Murilo Vasconcelos Andrade & Thiago
+  Sabetta'
 author: 'Murilo Vasconcelos & Thiago Sabetta'
 keywords:
   - 'exit readiness'
@@ -29,6 +30,7 @@ mermaid:
 <div class="w-8 h-px bg-[var(--accent)]"></div>
 <h2 class="text-[26px] font-normal tracking-tight text-[var(--ink-2)]">Continuous AI Exit Readiness</h2>
 </div>
+<p class="text-[13px] text-[var(--ink-3)] mt-3.5 pl-12">Titral, du <span class="accent">titrage</span> : mesurer avec précision à partir d'un échantillon minimal.</p>
 
 <p class="text-[15px] text-[var(--ink-2)] mt-7 max-w-3xl leading-relaxed">
 Nous testons et prouvons la capacité d'une entreprise à <span class="text-[var(--ink)]">sortir d'un fournisseur d'IA sans dégrader ses opérations</span>. Sur ses workloads réels : qualité, coût, latence, effort de migration — et un <span class="text-[var(--ink)]">plan de sortie vérifiable</span>.
@@ -38,8 +40,8 @@ Nous testons et prouvons la capacité d'une entreprise à <span class="text-[var
 
 <div class="flex items-end justify-between border-t border-[var(--hair-soft)] pt-4">
 <div class="text-[13px] space-y-1.5">
-<div><span class="text-[var(--ink)] font-medium">Murilo Vasconcelos Andrade</span> <span class="text-[var(--ink-3)]">· Fondateur &amp; CEO</span></div>
-<div><span class="text-[var(--ink)] font-medium">Thiago Sabetta</span> <span class="text-[var(--ink-3)]">· Co-fondateur &amp; CTO</span></div>
+<div><span class="text-[var(--ink)] font-medium">Murilo Vasconcelos Andrade</span> <span class="text-[var(--ink-3)]">· Fondateur</span></div>
+<div><span class="text-[var(--ink)] font-medium">Thiago Sabetta</span> <span class="text-[var(--ink-3)]">· Fondateur</span></div>
 </div>
 <div class="text-right eyebrow">
 Reims · Septembre 2026
@@ -135,8 +137,13 @@ Reims · Septembre 2026
 
 </div>
 
-<div class="mt-5 lead">
+<div class="mt-4 lead">
 Nous n'attaquons pas les 100&nbsp;000 — <span class="text-[var(--ink-2)]">nous attaquons ceux à qui l'on demande déjà la preuve.</span>
+</div>
+
+<div class="mt-3 flex items-baseline gap-4 border-t border-[var(--hair-soft)] pt-2.5">
+<span class="eyebrow shrink-0">Où les trouver</span>
+<span class="text-[11.5px] text-[var(--ink-3)] leading-snug">Forum Fintech ACPR/AMF · France Digitale · plateformes RFP publiques · conférences TPRM / DORA · réseaux CCI</span>
 </div>
 
 <div class="mt-auto pt-2 text-[10px] text-[var(--ink-4)]">Sources : Eurostat, statistiques structurelles 2024 · Eurostat, usage de l'IA 2025 (KS-01-26-009) · règlement (UE) 2022/2554</div>
@@ -150,24 +157,24 @@ Nous n'attaquons pas les 100&nbsp;000 — <span class="text-[var(--ink-2)]">nous
 <div class="kicker">04 · Marché adressable</div>
 <h2 class="h-title">Un marché étroit, forcé — et assumé</h2>
 
-<div class="grid grid-cols-3 gap-5 mt-3">
+<div class="grid grid-cols-3 gap-5 mt-4">
 <div class="border-t border-[var(--hair)] pt-2">
 <div class="stat">≈&nbsp;2&nbsp;000</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">entités financières FR sous DORA (ACPR + AMF) — notre cible : un achat forcé</div>
 </div>
 <div class="border-t border-[var(--hair)] pt-2">
-<div class="stat">10,5&nbsp;Md$</div>
+<div class="stat">≈&nbsp;9,7&nbsp;Md€</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">de conformité AI Act UE en 2035 — expansion, pas hypothèse de revenus</div>
 </div>
 <div class="border-t border-[var(--hair)] pt-2">
-<div class="stat">290&nbsp;Md$</div>
+<div class="stat">≈&nbsp;265&nbsp;Md€</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">d'IA des entreprises UE en 2029 — la dépense de nos clients, pas notre marché</div>
 </div>
 </div>
 
-<div class="eyebrow mt-5">Marché adressable · France first</div>
+<div class="eyebrow mt-7">Marché adressable · France first</div>
 
-<div class="grid grid-cols-[84px_1fr] gap-x-4 gap-y-2.5 mt-3 items-start">
+<div class="grid grid-cols-[84px_1fr] gap-x-4 gap-y-4 mt-4 items-start">
 
 <div class="eyebrow pt-0.5">TAM · Europe</div>
 <div>
@@ -175,7 +182,7 @@ Nous n'attaquons pas les 100&nbsp;000 — <span class="text-[var(--ink-2)]">nous
 <div class="meter meter-dim flex-1"><i style="width:100%"></i></div>
 <span class="text-[13px] font-semibold num text-[var(--ink)] w-[128px] shrink-0 text-right">≈&nbsp;1,5 → 10&nbsp;Md€</span>
 </div>
-<div class="text-[11.5px] text-[var(--ink-3)] mt-1 leading-snug">assurance &amp; gouvernance IA (2026→2035, ×7) — borné par conformité AI Act UE 609&nbsp;M$ (DMR) · gouvernance IA 492&nbsp;M$ (Gartner)</div>
+<div class="text-[11.5px] text-[var(--ink-3)] mt-1 leading-snug">assurance &amp; gouvernance IA (2026→2035, ×7) — borné par conformité AI Act UE ≈&nbsp;560&nbsp;M€ (DMR) · gouvernance IA ≈&nbsp;450&nbsp;M€ (Gartner)</div>
 </div>
 
 <div class="eyebrow pt-0.5">SAM · France</div>
@@ -198,17 +205,13 @@ Nous n'attaquons pas les 100&nbsp;000 — <span class="text-[var(--ink-2)]">nous
 
 </div>
 
-<div class="flex items-stretch divide-x divide-[var(--hair-soft)] mt-3 text-[11.5px]">
+<div class="flex items-stretch divide-x divide-[var(--hair-soft)] mt-5 text-[11.5px]">
 <span class="text-[var(--ink-2)] pr-4"><span class="text-[var(--ink)] font-medium">2026–27</span> DORA · finance — le wedge</span>
 <span class="text-[var(--ink-2)] px-4"><span class="text-[var(--ink)] font-medium">2027–29</span> AI Act · transparence puis haut risque</span>
 <span class="text-[var(--ink-2)] pl-4"><span class="text-[var(--ink)] font-medium">2030+</span> gouvernance &amp; assurance continue (×7)</span>
 </div>
 
-<div class="mt-2 border-l-2 border-[var(--hair)] pl-3 lead">
-Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-[var(--ink-2)]">nous avons besoin de 15 comptes qui n'ont plus le choix.</span>
-</div>
-
-<div class="mt-auto pt-2 text-[10px] text-[var(--ink-4)]">Sources : IDC (avr. 2026) · Dimension Market Research · Gartner · MarketsandMarkets · ACPR/AMF DORA — TAM/SAM/SOM : estimations Titral sur base publique.</div>
+<div class="mt-auto pt-2 text-[10px] text-[var(--ink-4)]">Sources : IDC (avr. 2026) · Dimension Market Research · Gartner · MarketsandMarkets · ACPR/AMF DORA — TAM/SAM/SOM : estimations Titral sur base publique · montants d'origine en USD, convertis à 1&nbsp;$ ≈ 0,92&nbsp;€.</div>
 <div class="deck-footer">04 / 13</div>
 </div>
 
@@ -230,17 +233,16 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-[var
 <th rowspan="2" class="pb-1 pr-3 font-medium text-left align-bottom">Rang</th>
 <th rowspan="2" class="pb-1 pr-5 font-medium text-left align-bottom">Modèle</th>
 <th colspan="3" class="font-medium text-[var(--ink-2)] border-b border-[var(--hair)] pb-1 px-2 text-center">Evals custom — vos workloads</th>
-<th colspan="2" class="font-medium text-[var(--ink-2)] border-b border-[var(--hair)] pb-1 px-2 text-center">Débit &amp; latence</th>
+<th colspan="1" class="font-medium text-[var(--ink-2)] border-b border-[var(--hair)] pb-1 px-2 text-right">Débit</th>
 <th rowspan="2" class="pb-1 px-2.5 font-medium text-right align-bottom">Prix</th>
 <th rowspan="2" class="pb-1 pl-3 font-medium text-left align-bottom">Client&nbsp;Index</th>
 <th rowspan="2" class="pb-1 pl-4 font-medium text-left align-bottom">Verdict</th>
 </tr>
 <tr class="text-[10px] uppercase tracking-[0.14em] text-[var(--ink-3)]">
-<th class="font-medium pt-1.5 px-2 text-right">Exactitude</th>
-<th class="font-medium pt-1.5 px-2 text-right">Conformité</th>
+<th class="font-medium pt-1.5 px-2 text-right">Exact.</th>
+<th class="font-medium pt-1.5 px-2 text-right">Conform.</th>
 <th class="font-medium pt-1.5 px-2 text-right">Régr.&nbsp;crit.</th>
 <th class="font-mono pt-1.5 px-2 text-right">tokens/s</th>
-<th class="font-mono pt-1.5 px-2 text-right">TTFT</th>
 </tr>
 </thead>
 <tbody class="font-mono">
@@ -248,7 +250,7 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-[var
 <td class="py-2 pr-3">réf.</td>
 <td class="pr-5 font-sans whitespace-nowrap">GPT-4.1 <span class="text-[var(--ink-4)]">· OpenAI — actuel</span></td>
 <td class="px-2 text-right">100</td><td class="px-2 text-right">100</td><td class="px-2 text-right">0</td>
-<td class="px-2 text-right">92</td><td class="px-2 text-right">480&nbsp;ms</td>
+<td class="px-2 text-right">92</td>
 <td class="px-2.5 text-right">100</td>
 <td class="pl-3">
 <div class="flex items-center gap-2"><div class="meter meter-dim w-14"><i style="width:100%"></i></div><span class="text-[var(--ink-2)]">100</span></div>
@@ -259,7 +261,7 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-[var
 <td class="py-2 pr-3 text-[var(--ink)]">1</td>
 <td class="pr-5 font-sans text-[var(--ink)] font-medium whitespace-nowrap">Mistral Large · OVHcloud</td>
 <td class="px-2 text-right text-[var(--ink)]">97</td><td class="px-2 text-right text-[var(--ink)]">96</td><td class="px-2 text-right text-[var(--ink)]">1</td>
-<td class="px-2 text-right text-[var(--ink)]">118</td><td class="px-2 text-right text-[var(--ink)]">520&nbsp;ms</td>
+<td class="px-2 text-right text-[var(--ink)]">118</td>
 <td class="px-2.5 text-right text-[var(--ink)]">76</td>
 <td class="pl-3">
 <div class="flex items-center gap-2"><div class="meter w-14"><i style="width:97%"></i></div><span class="text-[var(--ink)] font-semibold">97</span></div>
@@ -270,7 +272,7 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-[var
 <td class="py-2 pr-3">2</td>
 <td class="pr-5 font-sans text-[var(--ink)] whitespace-nowrap">Claude · AWS</td>
 <td class="px-2 text-right">93</td><td class="px-2 text-right">92</td><td class="px-2 text-right">2</td>
-<td class="px-2 text-right">84</td><td class="px-2 text-right">420&nbsp;ms</td>
+<td class="px-2 text-right">84</td>
 <td class="px-2.5 text-right">118</td>
 <td class="pl-3">
 <div class="flex items-center gap-2"><div class="meter meter-dim w-14"><i style="width:93%"></i></div><span class="text-[var(--ink)] font-semibold">93</span></div>
@@ -281,7 +283,7 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-[var
 <td class="py-2 pr-3">3</td>
 <td class="pr-5 font-sans text-[var(--ink)] whitespace-nowrap">Gemini · région UE</td>
 <td class="px-2 text-right">91</td><td class="px-2 text-right">88</td><td class="px-2 text-right">4</td>
-<td class="px-2 text-right">141</td><td class="px-2 text-right">630&nbsp;ms</td>
+<td class="px-2 text-right">141</td>
 <td class="px-2.5 text-right">63</td>
 <td class="pl-3">
 <div class="flex items-center gap-2"><div class="meter meter-dim w-14"><i style="width:91%"></i></div><span class="text-[var(--ink-2)] font-semibold">91</span></div>
@@ -442,26 +444,26 @@ Un paysage dense sur la mesure ponctuelle — <span class="text-[var(--ink-2)]">
 <div class="kicker">08 · Avantage concurrentiel</div>
 <h2 class="h-title">La barrière n'est pas le produit, c'est la méthode</h2>
 
-<div class="grid grid-cols-2 gap-3 mt-5">
-<div class="card p-4">
+<div class="grid grid-cols-2 gap-3.5 mt-6">
+<div class="card p-5">
 <div class="text-[13px] font-medium text-[var(--ink)]">Preuve par la production réelle</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">Le verdict s'appuie exclusivement sur vos workloads réels et anonymisés — pas sur un jeu de tests générique.</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-2 leading-normal">Le verdict s'appuie exclusivement sur vos workloads réels et anonymisés — pas sur un jeu de tests générique.</div>
 </div>
-<div class="card p-4">
+<div class="card p-5">
 <div class="text-[13px] font-medium text-[var(--ink)]">Dataset d'évaluation personnalisé</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">Un jeu d'évaluation sur-mesure échantillonné par Optimal Experiment Design : verdict fiable sur tout le périmètre, sans payer chaque combinaison fournisseur × modèle.</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-2 leading-normal">Un jeu d'évaluation sur-mesure échantillonné par Optimal Experiment Design : verdict fiable sur tout le périmètre, sans payer chaque combinaison fournisseur × modèle.</div>
 </div>
-<div class="card p-4">
+<div class="card p-5">
 <div class="text-[13px] font-medium text-[var(--ink)]">Conformité opposable</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">Un dossier d'évidence chiffré pour les directions Risques / Conformité — DORA art. 28 et transparence AI Act. Les plateformes AI Act-native sécurisent le modèle en place, jamais la migration.</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-2 leading-normal">Un dossier d'évidence chiffré pour les directions Risques / Conformité — DORA art. 28 et transparence AI Act. Les plateformes AI Act-native sécurisent le modèle en place, jamais la migration.</div>
 </div>
-<div class="card card-hl p-4">
+<div class="card card-hl p-5">
 <div class="text-[13px] font-medium text-[var(--ink)]">Arbitrage de la souveraineté</div>
-<div class="text-[13px] text-[var(--ink)] mt-1.5 leading-snug">La seule réponse chiffrée à « quelle application migrer, vers quel modèle souverain, pour quel gain ». Les gateways disent <span class="text-[var(--ink)] font-medium">comment</span> changer, jamais <span class="text-[var(--ink)] font-medium">vers quoi</span>.</div>
+<div class="text-[13px] text-[var(--ink)] mt-2 leading-normal">La seule réponse chiffrée à « quelle application migrer, vers quel modèle souverain, pour quel gain ». Les gateways disent <span class="text-[var(--ink)] font-medium">comment</span> changer, jamais <span class="text-[var(--ink)] font-medium">vers quoi</span>.</div>
 </div>
 </div>
 
-<div class="mt-3 lead">
+<div class="mt-auto pt-5 border-t border-[var(--hair-soft)] lead">
 Risque de comblement : un acteur de l'observabilité ou un gateway ajoutant le rejeu cross-fournisseur. <span class="text-[var(--ink-2)]">Notre expertise OED et le track record d'exécution des fondateurs (AIO) restent la barrière — pas la fonctionnalité.</span>
 </div>
 
@@ -513,7 +515,7 @@ Risque de comblement : un acteur de l'observabilité ou un gateway ajoutant le r
 </div>
 <div class="card p-3">
 <div class="eyebrow">Statut des prix</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug"><span class="text-[var(--ink-2)]">Pricing hypotheses</span> — cibles de customer discovery, pas des prix validés</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug"><span class="text-[var(--ink)] font-medium">Pricing hypotheses</span> — cibles de discovery, pas des prix validés. CAC &lt;&nbsp;5&nbsp;k€ founder-led · payback &lt;&nbsp;6&nbsp;mois</div>
 </div>
 </div>
 
@@ -527,7 +529,7 @@ Risque de comblement : un acteur de l'observabilité ou un gateway ajoutant le r
 <div class="kicker">10 · Go-to-market</div>
 <h2 class="h-title">Un GTM déclenché par les événements, pas par les secteurs</h2>
 
-<div class="grid grid-cols-3 gap-3 mt-7 items-stretch">
+<div class="grid grid-cols-3 gap-3 mt-5 items-stretch">
 <div class="card p-4 flex flex-col">
 <div class="eyebrow">Trigger 1 · RFP entreprise</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">L'éditeur SaaS reçoit : <span class="text-[var(--ink)] font-medium">« Montrez votre stratégie de sortie / fallback. »</span></div>
@@ -554,37 +556,61 @@ Risque de comblement : un acteur de l'observabilité ou un gateway ajoutant le r
 </div>
 </div>
 
-<div class="grid grid-cols-3 gap-6 mt-auto pt-6 items-end">
+<div class="mt-auto pt-5">
+<div class="flex items-baseline gap-3">
+<span class="eyebrow">Pipeline cible · J+6</span>
+<span class="text-[10px] text-[var(--ink-4)]">≈ 150 éditeurs SaaS / IA B2B français (50–500 salariés) — hypothèses arbitrées par la discovery</span>
+</div>
+<div class="grid grid-cols-[1fr_16px_1fr_16px_1fr_16px_1fr] items-end mt-3">
+<div>
+<div class="text-[24px] font-semibold num text-[var(--ink)] leading-none">300</div>
+<div class="text-[11.5px] text-[var(--ink-3)] mt-1.5">contacts</div>
+</div>
+<div class="accent text-[13px] pb-4 text-center">→</div>
+<div>
+<div class="text-[24px] font-semibold num text-[var(--ink)] leading-none">30</div>
+<div class="text-[11.5px] text-[var(--ink-3)] mt-1.5">démos</div>
+</div>
+<div class="accent text-[13px] pb-4 text-center">→</div>
+<div>
+<div class="text-[24px] font-semibold num text-[var(--ink)] leading-none">10</div>
+<div class="text-[11.5px] text-[var(--ink-3)] mt-1.5">exit tests</div>
+</div>
+<div class="accent text-[13px] pb-4 text-center">→</div>
+<div>
+<div class="text-[24px] font-semibold num accent leading-none">2–3</div>
+<div class="text-[11.5px] accent mt-1.5">design partners rémunérés</div>
+</div>
+</div>
+</div>
+
+<div class="grid grid-cols-3 gap-6 pt-4 items-end">
 <div class="border-t border-[var(--hair)] pt-2.5">
 <div class="flex items-baseline gap-2">
 <span class="text-[20px] font-semibold num text-[var(--ink)]">10</span>
 <span class="eyebrow">premiers clients</span>
 </div>
-<div class="text-[11.5px] text-[var(--ink-2)] mt-1 leading-snug">Founder-led outbound sur les triggers</div>
+<div class="text-[11.5px] text-[var(--ink-2)] mt-1 leading-snug">Founder-led — 60&nbsp;% du temps fondateur sur 6 mois</div>
 </div>
 <div class="border-t border-[var(--hair)] pt-2.5">
 <div class="flex items-baseline gap-2">
-<span class="text-[28px] font-semibold num text-[var(--ink)] leading-none">100</span>
+<span class="text-[26px] font-semibold num text-[var(--ink)] leading-none">100</span>
 <span class="eyebrow">suivants</span>
 </div>
 <div class="text-[11.5px] text-[var(--ink-2)] mt-1 leading-snug">Références publiables + consultants conformité / risque</div>
 </div>
 <div class="border-t border-[var(--accent-soft)] pt-2.5">
 <div class="flex items-baseline gap-2">
-<span class="text-[38px] font-semibold num accent leading-none">500</span>
+<span class="text-[32px] font-semibold num accent leading-none">500</span>
 <span class="eyebrow eyebrow-hl">à l'échelle</span>
 </div>
-<div class="text-[11.5px] text-[var(--ink-2)] mt-1 leading-snug">Clouds et modèles souverains · intégrations GRC</div>
+<div class="text-[11.5px] text-[var(--ink-2)] mt-1 leading-snug">Co-sell clouds et modèles souverains · intégrations GRC</div>
 </div>
 </div>
 
-<div class="mt-5 flex items-center gap-2.5 text-[11.5px] flex-wrap text-[var(--ink-3)]">
-<span class="eyebrow">Boucle</span>
-<span>exit test</span><span class="accent">→</span>
-<span>RFP gagné</span><span class="accent">→</span>
-<span>assurance continue</span><span class="accent">→</span>
-<span>référence publiable</span><span class="accent">→</span>
-<span class="text-[var(--ink-2)]">compte suivant</span>
+<div class="mt-3 flex items-baseline gap-4 text-[11.5px]">
+<span class="text-[var(--ink)]">Chaque exit test gagné crée la preuve qui débloque le suivant — <span class="accent">le produit est son propre canal.</span></span>
+<span class="text-[10px] text-[var(--ink-4)] shrink-0 ml-auto">Éditeurs : cycle 3–6 mois, un acheteur · entités DORA : 9–12 mois, comité d'achats → ensuite</span>
 </div>
 
 <div class="deck-footer">10 / 13</div>
@@ -608,9 +634,9 @@ Risque de comblement : un acteur de l'observabilité ou un gateway ajoutant le r
 <div class="card card-hl p-4">
 <div class="eyebrow eyebrow-hl">Validation commerciale — en cours</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-2 space-y-1.5 leading-snug">
-<div><span class="text-[var(--ink)] font-medium">0 client payant</span> — stade early, assumé</div>
-<div><span class="text-[var(--ink)] font-medium">Problème observé en direct</span> chez des clients, sur des systèmes en production</div>
-<div><span class="text-[var(--ink)] font-medium">Design partners rémunérés</span> — le jalon immédiat</div>
+<div><span class="text-[var(--ink)] font-medium">Pré-revenus</span> — stade early</div>
+<div><span class="text-[var(--ink)] font-medium">Problème observé en direct</span> sur des systèmes IA en production — pas une intuition de marché</div>
+<div><span class="text-[var(--ink)] font-medium">Jalon immédiat et mesurable</span> — 20 entretiens (J+3) → 2–3 design partners rémunérés (J+6)</div>
 </div>
 </div>
 </div>
@@ -663,32 +689,32 @@ Nous distinguons les <span class="text-[var(--ink-2)]">faits prouvés</span> des
 <div class="kicker">12 · Équipe</div>
 <h2 class="h-title">Une équipe qui a déjà construit et opéré l'IA en production</h2>
 
-<div class="grid grid-cols-2 gap-3 mt-3">
-<div class="card p-4">
+<div class="grid grid-cols-2 gap-3 mt-5">
+<div class="card p-5">
 <div class="flex items-center gap-3">
-<img src="/images/murilo.jpg" alt="Murilo Vasconcelos" class="w-12 h-12 rounded-full object-cover grayscale border border-[var(--hair)]" />
+<img src="/images/murilo.jpg" alt="Murilo Vasconcelos" class="w-14 h-14 rounded-full object-cover grayscale border border-[var(--hair)]" />
 <div>
 <div class="text-[15px] font-medium text-[var(--ink)]">Murilo Vasconcelos</div>
-<div class="text-[11.5px] text-[var(--ink-3)] mt-1 font-mono tracking-widest uppercase">Fondateur &amp; CEO</div>
+<div class="text-[11.5px] text-[var(--ink-3)] mt-1 font-mono tracking-widest uppercase">Fondateur</div>
 </div>
 </div>
-<div class="text-[13px] text-[var(--ink-2)] mt-2 space-y-0.5 leading-snug">
-<div>Fondateur Studiare — <span class="text-[var(--ink)] font-medium">acquis par Kroton en 2015</span> · Fondateur &amp; CEO AIO (2020)</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-3 space-y-1.5 leading-snug">
+<div>Fondateur Studiare — <span class="text-[var(--ink)] font-medium">acquis par Kroton en 2015</span> · Fondateur AIO (2020)</div>
 <div>Quant : Morgan Stanley · Santander · Banco BBM</div>
 <div>Or à l'Olympiade brésilienne de maths · Argent à l'IMC — compétition mondiale universitaire</div>
 <div>École Polytechnique · DEA El Karoui</div>
 </div>
 </div>
-<div class="card p-4">
+<div class="card p-5">
 <div class="flex items-center gap-3">
-<img src="/images/thiago.jpg" alt="Thiago Sabetta" class="w-12 h-12 rounded-full object-cover grayscale border border-[var(--hair)]" />
+<img src="/images/thiago.jpg" alt="Thiago Sabetta" class="w-14 h-14 rounded-full object-cover grayscale border border-[var(--hair)]" />
 <div>
 <div class="text-[15px] font-medium text-[var(--ink)]">Thiago Sabetta</div>
-<div class="text-[11.5px] text-[var(--ink-3)] mt-1 font-mono tracking-widest uppercase">Co-fondateur &amp; CTO</div>
+<div class="text-[11.5px] text-[var(--ink-3)] mt-1 font-mono tracking-widest uppercase">Fondateur</div>
 </div>
 </div>
-<div class="text-[13px] text-[var(--ink-2)] mt-2 space-y-0.5 leading-snug">
-<div>Co-fondateur &amp; CTO AIO</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-3 space-y-1.5 leading-snug">
+<div>Co-fondateur AIO</div>
 <div>Data CFM · Data Specialist Toucan Toco · Engineering Manager Zefir</div>
 <div>Conseil IT Asset Management</div>
 <div>École Polytechnique · Chercheur CEA Saclay — physique statistique (Paris XI)</div>
@@ -696,9 +722,9 @@ Nous distinguons les <span class="text-[var(--ink-2)]">faits prouvés</span> des
 </div>
 </div>
 
-<div class="border-t border-[var(--hair)] pt-2.5 mt-3">
+<div class="border-t border-[var(--hair)] pt-3.5 mt-auto">
 <div class="eyebrow">Preuves d'exécution</div>
-<div class="grid grid-cols-3 divide-x divide-[var(--hair-soft)] mt-1.5">
+<div class="grid grid-cols-3 divide-x divide-[var(--hair-soft)] mt-2">
 <div class="text-[13px] text-[var(--ink-2)] leading-snug pr-4"><span class="text-[var(--ink)] font-medium">Studiare → Kroton (2015)</span> : un des premiers exits en Éducation au Brésil</div>
 <div class="text-[13px] text-[var(--ink-2)] leading-snug px-4"><span class="text-[var(--ink)] font-medium">AIO (2020)</span> : une entreprise d'IA pédagogique déjà construite ensemble — 70 000+ étudiants au Brésil</div>
 <div class="text-[13px] text-[var(--ink-2)] leading-snug pl-4"><span class="text-[var(--ink)] font-medium">2026</span> : briques opérationnelles construites sur des cas réels dans le cadre d'un projet Google Foundation</div>
@@ -729,20 +755,36 @@ Nous distinguons les <span class="text-[var(--ink-2)]">faits prouvés</span> des
 </div>
 
 <div class="card p-4">
-<div class="eyebrow">Jalons 6–12 mois</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug"><span class="text-[var(--ink)] font-medium">J+6</span> — 2–3 design partners rémunérés (éditeurs SaaS + secteurs régulés)<br><span class="text-[var(--ink)] font-medium">J+9</span> — SDK en production ; premier rapport « sortie prouvée » publiable<br><span class="text-[var(--ink)] font-medium">J+12</span> — Continuous Exit Assurance commercialisée ; tour pré-seed</div>
-</div>
-
-<div class="card p-4">
 <div class="eyebrow">L'écosystème du Grand Est</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">Réseau Quest for Change : 300 startups, 114&nbsp;M€ levés en 2025 · Investor Days et business angels pour le pré-seed · ancrage Grand Reims / CCI Marne : <span class="text-[var(--ink)] font-medium">banques, mutuelles et assurances champenoises</span></div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">Quest for Change : 300 startups, 114&nbsp;M€ levés en 2025 · Investor Days et business angels pour le pré-seed · <span class="text-[var(--ink)] font-medium">adhérents CCI Marne = premier pipeline</span> : banques, mutuelles, assurances champenoises</div>
 </div>
 
 </div>
 
-<div class="mt-4 lead">
-DORA exige déjà des sorties testées, l'AI Act arrive. <span class="text-[var(--ink-2)]">Nous transformons ces échéances en marché — depuis Reims.</span>
+<div class="mt-auto pt-5">
+<div class="eyebrow">Jalons 6–12 mois</div>
+<div class="relative mt-4">
+<div class="absolute left-0 right-0 top-[5px] h-px bg-gradient-to-r from-[var(--accent-soft)] via-[var(--hair)] to-transparent"></div>
+<div class="relative grid grid-cols-3 gap-8">
+<div class="pr-2">
+<div class="w-2.5 h-2.5 rounded-full bg-[var(--accent)]" style="box-shadow:0 0 0 4px rgba(196,165,112,0.18)"></div>
+<div class="font-mono text-[11.5px] accent tracking-wider mt-3">J+6</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug"><span class="text-[var(--ink)] font-medium">2–3 design partners rémunérés</span> — éditeurs SaaS et secteurs régulés</div>
 </div>
+<div class="pr-2">
+<div class="w-2.5 h-2.5 rounded-full bg-black border border-[var(--hair)]"></div>
+<div class="font-mono text-[11.5px] text-[var(--ink-2)] tracking-wider mt-3">J+9</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug"><span class="text-[var(--ink)] font-medium">SDK en production</span> — premier rapport « sortie prouvée » publiable</div>
+</div>
+<div class="pr-2">
+<div class="w-2.5 h-2.5 rounded-full bg-black border border-[var(--hair)]"></div>
+<div class="font-mono text-[11.5px] text-[var(--ink-2)] tracking-wider mt-3">J+12</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug"><span class="text-[var(--ink)] font-medium">Continuous Exit Assurance commercialisée</span> — tour pré-seed</div>
+</div>
+</div>
+</div>
+</div>
+
 <div class="deck-footer">13 / 13</div>
 </div>
 
@@ -761,25 +803,25 @@ flowchart LR
   M --> P[Verdict de migration<br/>par application]
 ```
 
-<div class="grid grid-cols-3 gap-6 mt-4">
-<div class="border-t border-[var(--hair)] pt-2">
+<div class="grid grid-cols-3 gap-6 mt-8">
+<div class="border-t border-[var(--hair)] pt-3">
 <div class="font-mono text-[11.5px] text-[var(--ink-3)]">01</div>
 <div class="text-[13px] font-medium text-[var(--ink)] mt-1">Rejeu de production</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">Vos workloads réels, anonymisés, captés à la source — la seule base qui prédit <span class="text-[var(--ink)] font-medium">votre</span> production, pas un laboratoire</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-2 leading-normal">Vos workloads réels, anonymisés, captés à la source — la seule base qui prédit <span class="text-[var(--ink)] font-medium">votre</span> production, pas un laboratoire</div>
 </div>
-<div class="border-t border-[var(--hair)] pt-2">
+<div class="border-t border-[var(--hair)] pt-3">
 <div class="font-mono text-[11.5px] text-[var(--ink-3)]">02</div>
 <div class="text-[13px] font-medium text-[var(--ink)] mt-1">Échantillonnage OED</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">Sélectionner les sessions les plus informatives — un verdict fiable sur <span class="text-[var(--ink)] font-medium">tout le périmètre</span>, sans payer chaque combinaison fournisseur × modèle</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-2 leading-normal">Sélectionner les sessions les plus informatives — un verdict fiable sur <span class="text-[var(--ink)] font-medium">tout le périmètre</span>, sans payer chaque combinaison fournisseur × modèle</div>
 </div>
-<div class="border-t border-[var(--hair)] pt-2">
+<div class="border-t border-[var(--hair)] pt-3">
 <div class="font-mono text-[11.5px] text-[var(--ink-3)]">03</div>
 <div class="text-[13px] font-medium text-[var(--ink)] mt-1">Benchmarks par tâche et modèle</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">Chaque usage — RAG, extraction, synthèse, code — a son verdict : quoi migrer, vers quoi, à quel risque. Pas un score global</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-2 leading-normal">Chaque usage — RAG, extraction, synthèse, code — a son verdict : quoi migrer, vers quoi, à quel risque. Pas un score global</div>
 </div>
 </div>
 
-<div class="mt-3 lead">
+<div class="mt-auto pt-6 border-t border-[var(--hair-soft)] lead">
 Assez économique pour être rejoué en continu : <span class="text-[var(--ink-2)]">la sortie devient un pilotage, pas un audit ponctuel.</span>
 </div>
 
