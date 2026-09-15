@@ -251,7 +251,7 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="kicker">05 · Marché</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Un marché étroit, forcé — et assumé</h2>
 
-<div class="grid grid-cols-3 gap-3 mt-4">
+<div class="grid grid-cols-3 gap-3 mt-3">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
 <div class="text-3xl font-semibold tracking-tight">≈&nbsp;2&nbsp;000</div>
 <div class="text-[13px] text-zinc-400 mt-1 leading-snug">entités financières FR sous DORA (ACPR + AMF) — notre cible : un achat forcé</div>
@@ -266,8 +266,8 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 </div>
 </div>
 
-<div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase mt-3">Marché adressable · France first</div>
-<div class="grid grid-cols-3 gap-3 mt-2">
+<div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase mt-2">Marché adressable · France first</div>
+<div class="grid grid-cols-3 gap-3 mt-1.5">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
 <div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase">TAM · Europe</div>
 <div class="text-base font-semibold text-zinc-100 mt-0.5">≈&nbsp;1,5&nbsp;Md€ → ≈&nbsp;10&nbsp;Md€</div>
@@ -285,7 +285,7 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 </div>
 </div>
 
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-3 py-2 mt-3 flex items-center gap-4 text-xs">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-3 py-2 mt-2 flex items-center gap-4 text-xs">
 <span class="text-zinc-400"><span class="text-zinc-100 font-medium">2026–27</span> DORA · finance — le wedge</span>
 <span class="text-zinc-600">→</span>
 <span class="text-zinc-400"><span class="text-zinc-100 font-medium">2027–29</span> AI Act · transparence puis haut risque</span>
