@@ -8,7 +8,7 @@ la capacité des entreprises à sortir d'un fournisseur d'IA sans dégrader
 leurs opérations. Le benchmarking sur données réelles (OED) est la
 technologie ; l'exit readiness est le produit.
 
-Structure (v2, recentrée marché/ICP/GTM) :
+Structure (v3 — recentrée marché / ICP / GTM) :
 
 1. Titral — Continuous AI Exit Readiness
 2. Problème — l'IA devient critique, la capacité de changer de fournisseur ne suit pas (58 % · 71 % · ≈22 000)
@@ -28,19 +28,34 @@ Structure (v2, recentrée marché/ICP/GTM) :
 13. Pourquoi Innovact — ancrage Reims, jalons 6-12 mois, écosystème Grand Est
 - Annexe — Sous le capot : rejeu de production, échantillonnage OED, benchmarks par tâche
 
-Design : fond noir pur (`bg-black`), typographie Inter (zinc-100 / zinc-400),
-cartes minimalistes `border border-zinc-800 bg-zinc-950/60 rounded-xl`.
+Design : fond noir avec vignette radiale (`styles/index.css`), Inter pour le
+texte et JetBrains Mono pour les libellés. Le thème repose sur un système
+restreint, défini en variables CSS :
+
+- **quatre rôles de texte** — `--ink` (titres, chiffres, mots accentués),
+  `--ink-2` (corps), `--ink-3` (libellés, légendes), `--ink-4` (sources,
+  pagination). L'emphase dans le corps passe par le poids, jamais par un
+  nouveau gris.
+- **un accent unique** — `--accent` (or `#c4a570`) pour le fil conducteur :
+  filets, jalons franchis, chiffres clés.
+- **des composants nommés** — `.card` / `.card-hl` (filet 1 px, rayon 2 px),
+  `.kicker`, `.h-title`, `.eyebrow`, `.stat` (tous les chiffres de tête à la
+  même taille), `.meter` (barres proportionnelles), `.lead`, `.deck-footer`.
+- **une échelle typographique de 8 tailles** au total sur l'ensemble du deck.
+
+`colorSchema: light` est volontaire : le deck peint lui-même sa surface
+sombre, ce qui laisse le mode présentateur et l'interface Slidev en clair.
 
 ## Commandes
 
 ```bash
-npm install        # installer les dépendations
+npm install        # installer les dépendances
 
 npm run dev        # présenter en local (http://localhost:3030)
 npm run build      # build SPA (dist/) + PDF téléchargeable (dist/slidev-exported.pdf)
 npm run export     # exporter le PDF avec les clicks
 
-node verify-overflow.mjs   # vérifier l'absence de débordement sur les 15 slides (nécessite un build)
+node verify-overflow.mjs   # vérifier l'absence de débordement sur les 14 pages (13 slides + annexe ; nécessite un build)
 ```
 
 Le frontmatter active `download: true` : le jury peut télécharger le PDF
@@ -60,6 +75,9 @@ Résumé (sources v2, toutes vérifiées à l'original) :
 - Règlement (UE) 2024/1689 (AI Act) + Omnibus 2026 — transparence août 2026, haut risque fin 2027 (tailwind)
 - LinkedIns fondateurs + aio.com.br — équipe (Studiare→Kroton 2015, CEA, CFM, AIO 70 000+ étudiants)
 - Quest for Change / Innovact — 300 startups, 114 M€ levés en 2025
+
+Les montants de la slide 04 sont libellés en euros ; les sources d'origine en
+dollars sont converties à 1 $ ≈ 0,92 €, taux indiqué sur la slide.
 
 Les chiffres spécifiques à l'entreprise (pricing, trajectoire ARR, traction)
 sont **volontairement libellés hypothèses** : à valider en customer discovery

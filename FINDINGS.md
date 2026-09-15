@@ -96,16 +96,16 @@ Sources : menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterpr
 
 ## 6. Équipe (LinkedIn + aio.com.br, vérifiés)
 
-**Murilo Vasconcelos Andrade — CEO**
-- Fondateur & CEO d'AIO (Brésil, 2020) — edtech IA : 70 000+ étudiants (aio.com.br, 2026), +60 % d'efficacité d'étude revendiquée
+**Murilo Vasconcelos Andrade — Fondateur**
+- Fondateur d'AIO (Brésil, 2020) — edtech IA : 70 000+ étudiants (aio.com.br, 2026), +60 % d'efficacité d'étude revendiquée
 - Fondateur de **Studiare** (adaptive learning), **acquise par Kroton en 2015**
 - Ex-quant : Morgan Stanley (Londres), Santander (Madrid), Banco BBM (Rio) ; CTO de plusieurs startups
 - École polytechnique (maths appliquées) · DEA El Karoui, Paris VI (mention bien) · IME (Brésil)
 - Or Olympiade brésilienne de maths · argent IMC (mondial universitaire) · ACM ICPC ×3
 - Reims depuis 3 ans
 
-**Thiago Sabetta — CTO**
-- Co-fondateur & CTO d'AIO — 70 000+ étudiants (aio.com.br, 2026)
+**Thiago Sabetta — Fondateur**
+- Co-fondateur d'AIO — 70 000+ étudiants (aio.com.br, 2026)
 - Chercheur CEA Saclay — publication *Nonequilibrium steady states in the quantum XXZ spin chain* (American Physical Society)
 - Data chez Capital Fund Management (CFM) · Toucan Toco · Engineering Manager Zefir · Consultant Elée
 - École polytechnique · USP
@@ -123,6 +123,7 @@ Sources : menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterpr
 - **11 % changent de fournisseur (Menlo)** : chiffre puissant pour le verrou comportemental — intégré slide 2.
 - Chiffres entreprise (pricing, traction) : volontairement **qualitatifs** (décision fondateur, brainstorm session) — à compléter avant soutenance.
 - **Chiffres GTM ajoutés en v3 (slides 09/10/11)** — pipeline cible (300 contacts → 30 démos → 10 exit tests → 2–3 design partners rémunérés, J+6), liste ~150 éditeurs SaaS/IA B2B français, cycles de vente (éditeurs 3–6 mois vs entités DORA 9–12 mois), CAC < 5 k€ / payback < 6 mois, « 60 % du temps fondateur sur 6 mois », « 20 entretiens (J+3) » : **hypothèses fondatrices, affichées comme telles sur les slides** — aucune donnée de traction réelle n'est revendiquée (0–2 entretiens discovery réels à ce jour). À remplacer par les chiffres réels dès que la customer discovery avance.
+- **Titres sur la slide Équipe** : décision éditoriale — les deux fondateurs sont libellés « Fondateur », sans CEO/CTO. Les mentions CEO/CRO/CTO ailleurs dans le deck (slides 03 et 09) désignent les **personas acheteurs** chez le client, pas l'équipe.
 - Le **78 %** : citer **Vision Compliance (avr. 2026)** comme source originale (RAIL/Qapitol/CSA la reprennent).
 - Ancrage de prix observabilité (~2,5 k$/mois entreprise) : extrapolé des tarifs publics Langfuse/LangSmith/Braintrust — dire « offres entreprise à partir de ~2,5 k$/mois ».
 
@@ -144,7 +145,7 @@ Recherche complémentaire exa (2026-09-15) pour la slide Marché.
 - **DORA** : 21 catégories, 22 000+ entités financières dans l'UE, en vigueur depuis le 17/01/2025 — sanctions ACPR/AMF jusqu'à 10 M€ ; ⚠️ pas de « 10 % du CA » générique dans DORA (voir correction § 3)
 - ⇒ SAM France « secteurs régulés » ≈ **200 M€** — estimation Titral : ~15 % du marché UE (la France ~2e base conformité), sur la base des ~2 000 entités financières DORA + santé + fournisseurs du public.
 
-**SOM (estimation Titral, à valider) :** 15–20 comptes régulés × 30–40 k€/an → **0,5–1 M€ ARR** à 2-3 ans. Ancrage : offres observabilité entreprise ~2,5 k$/mois (Langfuse/LangSmith/Braintrust).
+**SOM (estimation Titral, à valider) :** 20–30 comptes régulés × 15–30 k€/an → **≈ 0,5 M€ ARR** à 2-3 ans (aligné sur le pricing EXPAND de la slide 09 ; libellé « ≈ 500 k€ ARR » sur la slide 04). Ancrage : offres observabilité entreprise ~2,5 k$/mois (Langfuse/LangSmith/Braintrust).
 
 **Segments (v2 : deck recentré exit readiness — chiffres IDC conservés en réserve) :** banque = 12,5 % du marché IA européen 2026 (IDC) ; santé TCAC 39,7 % (IDC) ; assurance exposée DORA.
 
