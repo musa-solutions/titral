@@ -1,6 +1,6 @@
 # Titral — Pitch deck Innovact (Slidev)
 
-Pitch deck de 14 slides + 1 annexe en français, destiné au comité de
+Pitch deck de 13 slides + 1 annexe en français, destiné au comité de
 sélection de l'incubateur Innovact (Reims / Grand Est).
 
 **Positionnement : Continuous AI Exit Readiness** — Titral teste et prouve
@@ -21,9 +21,8 @@ Structure (v2, recentrée marché/ICP/GTM) :
 9. Business model — LAND : AI Exit Test 3-10 k€ → EXPAND : Continuous Exit Assurance 15-30 k€ ARR
 10. Go-to-market — déclenché par les événements (RFP, revue DORA/TPRM, disruption modèle/prix)
 11. Validation — preuve technologique vs validation commerciale (honnête : 0 client payant)
-12. Économie & ambition — trajectoire jusqu'à 500 clients × 20 k€ = 10 M€ ARR
-13. Équipe — repeat entrepreneurs (Studiare→Kroton 2015, AIO 70 000+ étudiants)
-14. Pourquoi Innovact — ancrage Reims, jalons 6-12 mois, écosystème Grand Est
+12. Équipe — repeat entrepreneurs (Studiare→Kroton 2015, AIO 70 000+ étudiants)
+13. Pourquoi Innovact — ancrage Reims, jalons 6-12 mois, écosystème Grand Est
 - Annexe — Sous le capot : rejeu de production, échantillonnage OED, benchmarks par tâche
 
 Design : fond noir pur (`bg-black`), typographie Inter (zinc-100 / zinc-400),

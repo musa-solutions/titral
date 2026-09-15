@@ -247,7 +247,6 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc
 </div>
 </div>
 
-<div class="mt-2 text-xs text-zinc-500 leading-snug">Rapport illustratif — noms d'evals et scores fictifs. La viabilité économique repose sur l'échantillonnage OED — sélectionner les tests les plus informatifs (détail en annexe).</div>
 <div class="deck-footer">05 / 14</div>
 </div>
 
@@ -387,9 +386,6 @@ Le risque de comblement le plus probable : l'observabilité LLM ou un gateway so
 </div>
 </div>
 
-<div class="mt-auto text-base text-zinc-100 leading-snug pt-3">
-L'exit test ouvre la porte, <span class="text-zinc-400">l'assurance continue la garde ouverte.</span>
-</div>
 <div class="deck-footer">09 / 14</div>
 </div>
 
@@ -429,9 +425,6 @@ L'exit test ouvre la porte, <span class="text-zinc-400">l'assurance continue la 
 <div class="text-zinc-500 leading-snug">Boucle : exit test → RFP gagné → assurance continue → référence publiable → compte suivant</div>
 </div>
 
-<div class="mt-auto text-sm text-zinc-100 leading-snug pt-2">
-Chaque RFP régulé, chaque revue DORA, chaque changement de prix <span class="text-zinc-400">crée un moment d'achat. Notre travail : y être avec la preuve.</span>
-</div>
 <div class="deck-footer">10 / 14</div>
 </div>
 
