@@ -263,7 +263,7 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 
 <div class="absolute flex items-center gap-2" style="left:21%;top:30%;transform:translateY(-50%)">
 <div class="w-2.5 h-2.5 rounded-full bg-zinc-400 shrink-0"></div>
-<div class="text-xs text-zinc-300">Audits conseil<br><span class="text-zinc-500">manuel · ponctuel · coûteux</span></div>
+<div class="text-xs text-zinc-300">Audits &amp; conformité<br><span class="text-zinc-500">conseil manuel · Giskard · Kosmoy</span></div>
 </div>
 
 <div class="absolute flex items-center gap-2" style="left:22%;top:72%;transform:translateY(-50%)">
@@ -273,7 +273,7 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 
 <div class="absolute flex items-center gap-2" style="left:66%;top:72%;transform:translateY(-50%)">
 <div class="w-2.5 h-2.5 rounded-full bg-zinc-400 shrink-0"></div>
-<div class="text-xs text-zinc-300">Observabilité LLM<br><span class="text-zinc-500">LangSmith · Langfuse · Helicone</span></div>
+<div class="text-xs text-zinc-300">Observabilité &amp; infra<br><span class="text-zinc-500">LangSmith · Langfuse · GuideLLM</span></div>
 </div>
 
 <div class="absolute flex flex-row-reverse items-center gap-2" style="right:3%;top:20%;transform:translateY(-50%)">
@@ -293,22 +293,22 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="text-xs text-zinc-400"><span class="text-zinc-100">Leaderboards publics</span> — classements continus mais hors-sol : aucune donnée entreprise, aucun arbitrage</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-lg px-3.5 py-2">
-<div class="text-xs text-zinc-400"><span class="text-zinc-100">Observabilité LLM</span> — rejouent vos traces pour détecter des régressions, jamais pour arbitrer un fournisseur</div>
+<div class="text-xs text-zinc-400"><span class="text-zinc-100">Observabilité &amp; infra</span> — rejouent vos traces ou votre charge pour détecter des régressions, jamais pour arbitrer un fournisseur</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-lg px-3.5 py-2">
-<div class="text-xs text-zinc-400"><span class="text-zinc-100">Audits conseil</span> — verdicts manuels sur jeux de tests représentatifs : coûteux, à refaire chaque fois</div>
+<div class="text-xs text-zinc-400"><span class="text-zinc-100">Audits &amp; conformité</span> — verdicts manuels ou automatisés sur le modèle en place : sécurisent, ne migrent jamais</div>
 </div>
 <div class="border border-zinc-700 bg-zinc-900/60 rounded-lg px-3.5 py-2">
 <div class="text-xs text-zinc-200"><span class="text-zinc-100 font-medium">Titral</span> — vos workloads rejoués contre vos alternatives : verdict de migration fiable, continu, économique (OED)</div>
 </div>
 </div>
-<div class="text-xs text-zinc-500 mt-3 leading-snug">Les <span class="text-zinc-400">gateways souverains</span> (Orq, Soverana, OpenRouter) réduisent le coût du changement d'API — sans dire vers quoi migrer. <span class="text-zinc-400">Partenaires, pas concurrents.</span></div>
+<div class="text-xs text-zinc-500 mt-3 leading-snug">Les <span class="text-zinc-400">gateways souverains</span> (Orq, Soverana, OpenRouter, LiteLLM) réduisent le coût du changement d'API — sans dire vers quoi migrer. <span class="text-zinc-400">Partenaires, pas concurrents.</span></div>
 </div>
 
 </div>
 
 <div class="mt-3 text-base text-zinc-100 leading-snug">
-Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acteur qui rejoue vos workloads réels contre des alternatives souveraines pour arbitrer la migration.
+Un paysage dense sur la mesure ponctuelle, vide sur l'arbitrage de migration. <span class="text-zinc-400">Pourquoi cette avance est difficile à rattraper — slide suivante.</span>
 </div>
 <div class="deck-footer">05 / 07</div>
 </div>
