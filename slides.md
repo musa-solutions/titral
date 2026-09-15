@@ -41,7 +41,7 @@ Reims · Septembre 2026
 </div>
 </div>
 
-<div class="deck-footer">01 / 06</div>
+<div class="deck-footer">01 / 07</div>
 </div>
 
 ---
@@ -85,8 +85,8 @@ Reims · Septembre 2026
 Changer sans preuve chiffrée, c'est le risque qualité. Ne pas changer, c'est le risque réglementaire. <span class="text-zinc-400">Les benchmarks génériques ne répondent à aucune des deux.</span>
 </div>
 
-<div class="mt-auto pt-2 text-xs text-zinc-600">Sources : Menlo Ventures, State of GenAI in the Enterprise (déc. 2025, confirmé 2026) · Vision Compliance (avr. 2026) · règlements (UE) 2022/2554 et 2024/1689, Omnibus 2026</div>
-<div class="deck-footer">02 / 06</div>
+<div class="mt-auto pt-2 text-[10px] text-zinc-600">Sources : Menlo Ventures, State of GenAI in the Enterprise (déc. 2025, confirmé 2026) · Vision Compliance (avr. 2026) · règlements (UE) 2022/2554 et 2024/1689, Omnibus 2026</div>
+<div class="deck-footer">02 / 07</div>
 </div>
 
 ---
@@ -136,7 +136,7 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 <div class="text-[13px] text-zinc-200 mt-0.5">Dépendance chiffrée · conformité par preuve</div>
 </div>
 </div>
-<div class="deck-footer">03 / 06</div>
+<div class="deck-footer">03 / 07</div>
 </div>
 
 ---
@@ -173,7 +173,7 @@ flowchart LR
 Assez économique pour être rejoué en continu : <span class="text-zinc-400">la migration devient un pilotage, pas un audit ponctuel.</span>
 </div>
 
-<div class="deck-footer">04 / 06</div>
+<div class="deck-footer">04 / 07</div>
 </div>
 
 ---
@@ -248,7 +248,64 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">05 · Analyse concurrentielle</div>
+<div class="kicker">05 · Marché</div>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">Un marché étroit, forcé — et assumé</h2>
+
+<div class="grid grid-cols-3 gap-3 mt-4">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
+<div class="text-3xl font-semibold tracking-tight">≈&nbsp;2&nbsp;000</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug">entités financières FR sous DORA (ACPR + AMF) — notre cible : un achat forcé</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
+<div class="text-3xl font-semibold tracking-tight">10,5&nbsp;Md$</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug">de conformité AI Act UE en 2035 — expansion, pas hypothèse de revenus</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
+<div class="text-3xl font-semibold tracking-tight">290&nbsp;Md$</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug">d'IA des entreprises UE en 2029 — la dépense de nos clients, pas notre marché</div>
+</div>
+</div>
+
+<div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase mt-3">Marché adressable · France first</div>
+<div class="grid grid-cols-3 gap-3 mt-2">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
+<div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase">TAM · Europe</div>
+<div class="text-base font-semibold text-zinc-100 mt-0.5">≈&nbsp;1,5&nbsp;Md€ → ≈&nbsp;10&nbsp;Md€</div>
+<div class="text-xs text-zinc-400 mt-0.5 leading-snug">assurance &amp; gouvernance IA (2026→2035, ×7) — borné par : conformité AI Act UE 609&nbsp;M$ (DMR) · gouvernance IA 492&nbsp;M$ (Gartner)</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
+<div class="text-[11px] text-zinc-500 font-medium tracking-widest uppercase">SAM · France</div>
+<div class="text-base font-semibold text-zinc-100 mt-0.5">≈&nbsp;200&nbsp;M€</div>
+<div class="text-xs text-zinc-400 mt-0.5 leading-snug">secteurs régulés : finance (DORA) + santé + fournisseurs du public — ≈&nbsp;13&nbsp;% du TAM UE (est. Titral)</div>
+</div>
+<div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-3">
+<div class="text-[11px] text-zinc-100 font-medium tracking-widest uppercase">SOM · 2-3 ans</div>
+<div class="text-base font-semibold text-zinc-100 mt-0.5">0,5–1&nbsp;M€ ARR</div>
+<div class="text-xs text-zinc-300 mt-0.5 leading-snug">15–20 comptes × 30–40&nbsp;k€/an — &lt;1&nbsp;% de pénétration du SAM · sous un audit-conseil manuel</div>
+</div>
+</div>
+
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-3 py-2 mt-3 flex items-center gap-4 text-xs">
+<span class="text-zinc-400"><span class="text-zinc-100 font-medium">2026–27</span> DORA · finance — le wedge</span>
+<span class="text-zinc-600">→</span>
+<span class="text-zinc-400"><span class="text-zinc-100 font-medium">2027–29</span> AI Act · transparence puis haut risque</span>
+<span class="text-zinc-600">→</span>
+<span class="text-zinc-400"><span class="text-zinc-100 font-medium">2030+</span> gouvernance &amp; assurance continue (×7)</span>
+</div>
+
+<div class="mt-1 text-base text-zinc-100 leading-snug">
+Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc-400">nous avons besoin de 15 comptes qui n'ont plus le choix.</span>
+</div>
+
+<div class="mt-auto pt-2 text-[10px] text-zinc-600">Sources : IDC (avr. 2026) · Dimension Market Research · Gartner · MarketsandMarkets · ACPR/AMF DORA — TAM/SAM/SOM : estimations Titral sur base publique.</div>
+<div class="deck-footer">05 / 07</div>
+</div>
+
+---
+
+<div class="h-full flex flex-col px-16 pt-10 pb-10">
+
+<div class="kicker">06 · Analyse concurrentielle</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Seuls à quantifier la résilience des workflows IA</h2>
 
 <div class="grid grid-cols-12 gap-6 mt-4">
@@ -310,14 +367,14 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="mt-3 text-base text-zinc-100 leading-snug">
 Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acteur qui rejoue vos workloads réels contre des alternatives souveraines pour arbitrer la migration.
 </div>
-<div class="deck-footer">05 / 06</div>
+<div class="deck-footer">06 / 07</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">06 · Équipe</div>
+<div class="kicker">07 · Équipe</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Notre Équipe</h2>
 
 <div class="grid grid-cols-2 gap-3 mt-5">
@@ -353,7 +410,7 @@ Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acte
 </div>
 </div>
 
-<div class="deck-footer">06 / 06</div>
+<div class="deck-footer">07 / 07</div>
 </div>
 
 <!-- Slides retirées du deck : 09 · Projections &amp; métriques clés · 10 · Statut, jalons &amp; Innovact
@@ -392,7 +449,7 @@ Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acte
 
 </div>
 
-<div class="mt-auto pt-2 text-xs text-zinc-600">Sources : IDC EMEA IT Market (mai 2026) · IDC Worldwide AI &amp; GenAI Spending Guide (avr. 2026) · IDC FutureScape EMEA 2026</div>
+<div class="mt-auto pt-2 text-[10px] text-zinc-600">Sources : IDC EMEA IT Market (mai 2026) · IDC Worldwide AI &amp; GenAI Spending Guide (avr. 2026) · IDC FutureScape EMEA 2026</div>
 <div class="deck-footer">09 / 10</div>
 </div>
 

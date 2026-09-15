@@ -101,3 +101,27 @@ Sources : menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterpr
 - Chiffres entreprise (pricing, traction) : volontairement **qualitatifs** (décision fondateur, brainstorm session) — à compléter avant soutenance.
 - Le **78 %** : citer **Vision Compliance (avr. 2026)** comme source originale (RAIL/Qapitol/CSA la reprennent).
 - Ancrage de prix observabilité (~2,5 k$/mois entreprise) : extrapolé des tarifs publics Langfuse/LangSmith/Braintrust — dire « offres entreprise à partir de ~2,5 k$/mois ».
+
+## 9. Marché (slide 05) — sources TAM / SAM / SOM
+
+Recherche complémentaire exa (2026-09-15) pour la slide Marché.
+
+**Marché de l'assurance & gouvernance IA en Europe (TAM) :**
+- **Conformité AI Act (Europe)** : 609,4 M$ en 2026 → **10 534,9 M$ en 2035, TCAC 37,3 %** (Dimension Market Research, *EU AI Act Compliance Solutions Market*, avr. 2026)
+- **Gouvernance IA (monde)** : 492 M$ en 2026 → **1 Md$+ en 2030** (Gartner, févr. 2026) ; l'IA non gérée coûterait 1 Md$ de conformité cumulée d'ici 2030
+- **Conformity assessment AI Act** : 0,8 Md$ 2026 → 16 Md$ 2036, TCAC 34,9 % (Fact.MR, juin 2026) — France +36,9 %/an, 2e base européenne
+- **Model risk management IA (Reste-Europe)** : 294 M$ 2024 → 475,7 M$ 2029 (MarketsandMarkets, août 2026)
+- ⇒ Synthèse TAM « AI assurance & gouvernance » Europe ≈ **1,5 Md€ 2026 → 10 Md€ 2035** (~35 %/an) — estimation Titral, bornée par les chiffres ci-dessus.
+
+**France — entités régulées (SAM) :**
+- **Banque** : 776 entités sous supervision ACPR fin 2022 (411 établissements de crédit + 147 sociétés de financement + 132 entreprises d'investissement + 62 établissements de paiement + 24 monnaie électronique) — ACPR, *Les chiffres du marché français de la banque et de l'assurance*
+- **Assurance** : 639 organismes ACPR en 2024 (248 sociétés d'assurance + 305 mutuelles + 32 institutions de prévoyance + 28 réassureurs) — ZoomAssurance/ACPR
+- **Gestion d'actifs** : ~640 sociétés de gestion captées par DORA (94 % des 681 SGP) — présentation ACPR/AMF Forum Fintech 2025
+- **DORA** : 21 catégories, 22 000+ entités financières dans l'UE, en vigueur depuis le 17/01/2025 — sanctions ACPR/AMF jusqu'à 10 M€, UE jusqu'à 10 % du CA
+- ⇒ SAM France « secteurs régulés » ≈ **200 M€** — estimation Titral : ~15 % du marché UE (la France ~2e base conformité), sur la base des ~2 000 entités financières DORA + santé + fournisseurs du public.
+
+**SOM (estimation Titral, à valider) :** 15–20 comptes régulés × 30–40 k€/an → **0,5–1 M€ ARR** à 2-3 ans. Ancrage : offres observabilité entreprise ~2,5 k$/mois (Langfuse/LangSmith/Braintrust).
+
+**Segments (slide 05) :** banque = 12,5 % du marché IA européen 2026 (IDC) ; santé TCAC 39,7 % (IDC) ; assurance exposée DORA (10 % CA de sanctions).
+
+⚠️ **Caveats :** TAM, SAM et SOM sont des **estimations top-down** construites par Titral sur sources publiques (bornées haut par les études citées). Elles sont libellées « estimations Titral » sur la slide et doivent être affinées avec les données réelles (pricing, pipeline) avant les tours de levée.
