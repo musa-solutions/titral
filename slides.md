@@ -498,7 +498,7 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 <div class="grid grid-cols-2 gap-3 mt-3">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="flex items-center gap-3">
-<img src="/images/murilo.jpg" alt="Murilo Vasconcelos" class="w-16 h-16 rounded-full object-cover grayscale border border-zinc-700" />
+<img src="/images/murilo.jpg" alt="Murilo Vasconcelos" class="w-12 h-12 rounded-full object-cover grayscale border border-zinc-700" />
 <div>
 <div class="text-lg font-medium text-zinc-100">Murilo Vasconcelos</div>
 <div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase">Fondateur &amp; CEO</div>
@@ -513,7 +513,7 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="flex items-center gap-3">
-<img src="/images/thiago.jpg" alt="Thiago Sabetta" class="w-16 h-16 rounded-full object-cover grayscale border border-zinc-700" />
+<img src="/images/thiago.jpg" alt="Thiago Sabetta" class="w-12 h-12 rounded-full object-cover grayscale border border-zinc-700" />
 <div>
 <div class="text-lg font-medium text-zinc-100">Thiago Sabetta</div>
 <div class="text-xs text-zinc-500 mt-1 font-mono tracking-widest uppercase">Co-fondateur &amp; CTO</div>
