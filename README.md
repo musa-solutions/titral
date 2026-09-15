@@ -1,6 +1,6 @@
 # Titral — Pitch deck Innovact (Slidev)
 
-Pitch deck de 6 slides en français, destiné au comité de sélection de
+Pitch deck de 7 slides en français, destiné au comité de sélection de
 l'incubateur Innovact (Reims / Grand Est). Quatre slides supplémentaires
 (Business model, Go-to-market, Projections, Statut/Jalons) sont commentées
 dans `slides.md` et peuvent être réactivées en retirant les blocs `<!-- -->`.
