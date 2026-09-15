@@ -6,3 +6,4 @@ shots/
 *.log
 .worktrees/
 .mstack/
+shot-*.mjs
