@@ -52,7 +52,7 @@ Sources : menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterpr
 - 22 000+ entités financières (banques, assurances, payment institutions, crypto)
 - Art. 28 : pilotage du risque tiers ICT obligatoire, avec preuve documentée (un questionnaire fournisseur ne suffit pas)
 - 19 « Critical Third-Party Providers » désignés (oct. 2025), supervision directe des ESA
-- Sanctions jusqu'à 10 % du CA mondial annuel
+- ⚠️ **Correction :** DORA ne prévoit PAS de sanction générique « 10 % du CA mondial ». Pour les fournisseurs ICT tiers critiques, l'art. 35 prévoit des astreintes jusqu'à **1 % du chiffre d'affaires journalier moyen mondial par jour** (max 6 mois). Au niveau des États membres (ACPR/AMF) : jusqu'à 10 M€. L'argument fort reste l'obligation elle-même — des stratégies de sortie « suffisamment testées » (art. 28)
 - **DORA = le levier contraignant de court terme** (l'Omnibus ayant affaibli l'urgence AI Act)
 
 ## 4. Paysage concurrentiel (validation des axes du 2×2)
