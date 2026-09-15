@@ -61,6 +61,19 @@ node verify-overflow.mjs   # vérifier l'absence de débordement sur les 14 page
 Le frontmatter active `download: true` : le jury peut télécharger le PDF
 directement depuis la présentation en ligne.
 
+## Préparation à la soutenance
+
+- `docs/questions-reponses.md` — les questions difficiles anticipées slide par
+  slide (probabilité × dangerosité, jury / investisseur), leurs réponses, et une
+  liste de ce qui reste à préparer. Format de **répétition**.
+- `docs/notes-blocks.md` — le même matériau condensé en 14 blocs de notes
+  présentateur, déjà insérés dans `slides.md` (dernier commentaire HTML de
+  chaque slide, visibles en mode présentateur). Format **live**.
+- Chaque bloc s'ouvre par une section `!! A CORRIGER` listant les défauts
+  factuels ou de cohérence de la slide : ces points sont **documentés, pas
+  encore corrigés** dans le deck — ils demandent des données que seuls les
+  fondateurs peuvent trancher.
+
 ## Sources des données chiffrées
 
 👉 **Détail complet, nuances et caveats : `FINDINGS.md`** — synthèse de recherche exa/tavily (2025-2026).
