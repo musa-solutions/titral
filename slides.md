@@ -176,60 +176,61 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc
 <div class="kicker">05 · Le produit</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Testez et prouvez votre capacité de sortie</h2>
 
-<div class="mt-2 text-sm text-zinc-200 leading-snug border-l-2 border-zinc-500 pl-4">
-Le risque qualité et le risque réglementaire, levés par la <span class="text-zinc-100 font-medium">même preuve</span> : vos données de production — et un rapport que Risk, Audit et Compliance peuvent utiliser tel quel.
+<div class="mt-2.5 border border-zinc-700 bg-zinc-900/60 rounded-lg px-3.5 py-2 flex items-center gap-4 flex-wrap">
+<span class="text-xs font-medium tracking-widest uppercase text-zinc-100">Benchmark client — pas un leaderboard public</span>
+<span class="text-[12px] text-zinc-300 leading-snug">Chaque score est un <span class="text-zinc-100 font-medium">eval custom</span>, exécuté sur un échantillon OED de vos sessions de production. Chaque application, chaque flux, obtient son propre leaderboard. <span class="text-zinc-500">Extrait : flux « RAG — support client »</span></span>
 </div>
 
-<div class="grid grid-cols-4 gap-2 mt-3">
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
-<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Fournisseur actuel</div>
-<div class="text-sm text-zinc-100 font-medium mt-0.5">OpenAI</div>
-<div class="text-[12px] text-zinc-500 mt-2 space-y-1 font-mono leading-relaxed">
-<div>Qualité — référence</div>
-<div>Coût — référence</div>
-<div>Latence — référence</div>
-<div>Effort — 0 j</div>
-<div>Résidence — US</div>
-<div class="text-zinc-400">Exit readiness — N/A</div>
-</div>
-</div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
-<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Alternative 1</div>
-<div class="text-sm text-zinc-100 font-medium mt-0.5">Mistral · OVHcloud</div>
-<div class="text-[12px] text-zinc-400 mt-2 space-y-1 font-mono leading-relaxed">
-<div>Qualité 97&nbsp;%</div>
-<div>Coût −24&nbsp;%</div>
-<div>Latence +8&nbsp;%</div>
-<div>Effort 2 j</div>
-<div>Résidence UE</div>
-<div class="text-zinc-100 font-semibold">PASS</div>
-</div>
-</div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
-<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Alternative 2</div>
-<div class="text-sm text-zinc-100 font-medium mt-0.5">Claude · AWS</div>
-<div class="text-[12px] text-zinc-400 mt-2 space-y-1 font-mono leading-relaxed">
-<div>Qualité 93&nbsp;%</div>
-<div>Coût +18&nbsp;%</div>
-<div>Latence −12&nbsp;%</div>
-<div>Effort 5 j</div>
-<div>Résidence UE</div>
-<div class="text-zinc-300">CONDITIONAL</div>
-</div>
-</div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3">
-<div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Alternative 3</div>
-<div class="text-sm text-zinc-100 font-medium mt-0.5">Gemini · région UE</div>
-<div class="text-[12px] text-zinc-400 mt-2 space-y-1 font-mono leading-relaxed">
-<div>Qualité 91&nbsp;%</div>
-<div>Coût −37&nbsp;%</div>
-<div>Latence +31&nbsp;%</div>
-<div>Effort 9 j</div>
-<div>Résidence UE</div>
-<div class="text-zinc-500">FAIL</div>
-</div>
-</div>
-</div>
+<table class="w-full mt-2.5 text-[12px] leading-tight border-collapse">
+<thead>
+<tr class="text-[10px] uppercase tracking-widest text-left text-zinc-500">
+<th rowspan="2" class="py-1 pr-2 font-medium">Rang</th>
+<th rowspan="2" class="py-1 pr-4 font-medium">Modèle</th>
+<th colspan="3" class="font-medium text-zinc-400 border-b border-zinc-800 pb-0.5">Evals custom — vos workloads</th>
+<th colspan="2" class="font-medium text-zinc-400 border-b border-zinc-800 pb-0.5">Débit &amp; latence</th>
+<th rowspan="2" class="py-1 font-medium">Prix</th>
+<th rowspan="2" class="py-1 font-medium">Client&nbsp;Index</th>
+<th rowspan="2" class="py-1 font-medium">Verdict</th>
+</tr>
+<tr class="text-[10px] uppercase tracking-widest text-left text-zinc-500">
+<th class="font-medium pt-0.5">Exactitude</th>
+<th class="font-medium pt-0.5">Conformité</th>
+<th class="font-medium pt-0.5">Régr. critiques</th>
+<th class="font-mono pt-0.5">tokens/s</th>
+<th class="font-mono pt-0.5">TTFT</th>
+</tr>
+</thead>
+<tbody class="font-mono">
+<tr class="border-t border-zinc-800/70 text-zinc-500">
+<td class="py-1 pr-2">réf.</td>
+<td class="pr-4 font-sans">GPT-4.1 · <span class="text-zinc-600">OpenAI — fournisseur actuel</span></td>
+<td>100 (réf.)</td><td>100</td><td>0</td><td>92</td><td>480 ms</td><td>100</td>
+<td class="text-zinc-400">100</td>
+<td class="text-zinc-600">—</td>
+</tr>
+<tr class="border-t border-zinc-800/70 bg-zinc-900/60">
+<td class="py-1 pr-2 text-zinc-100">1</td>
+<td class="pr-4 font-sans text-zinc-100 font-medium">Mistral Large · OVHcloud</td>
+<td class="text-zinc-200">97</td><td class="text-zinc-200">96</td><td class="text-zinc-200">1</td><td class="text-zinc-200">118</td><td class="text-zinc-200">520 ms</td><td class="text-zinc-200">76</td>
+<td class="text-zinc-100 font-semibold">97</td>
+<td class="text-emerald-400 font-sans font-semibold">PASS</td>
+</tr>
+<tr class="border-t border-zinc-800/70">
+<td class="py-1 pr-2">2</td>
+<td class="pr-4 font-sans text-zinc-100">Claude · AWS</td>
+<td>93</td><td>92</td><td>2</td><td>84</td><td>420 ms</td><td>118</td>
+<td class="text-zinc-200 font-semibold">93</td>
+<td class="text-amber-400/90 font-sans font-medium">CONDITIONAL</td>
+</tr>
+<tr class="border-t border-b border-zinc-800/70">
+<td class="py-1 pr-2">3</td>
+<td class="pr-4 font-sans text-zinc-100">Gemini · région UE</td>
+<td>91</td><td>88</td><td>4</td><td>141</td><td>630 ms</td><td>63</td>
+<td class="text-zinc-300 font-semibold">91</td>
+<td class="text-red-400/80 font-sans font-medium">FAIL</td>
+</tr>
+</tbody>
+</table>
 
 <div class="grid grid-cols-3 gap-3 mt-3">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-3.5 py-2">
@@ -246,7 +247,7 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 </div>
 </div>
 
-<div class="mt-2 text-xs text-zinc-500 leading-snug">Rapport illustratif. La viabilité économique repose sur l'échantillonnage OED — sélectionner les tests les plus informatifs (détail en annexe).</div>
+<div class="mt-2 text-xs text-zinc-500 leading-snug">Rapport illustratif — noms d'evals et scores fictifs. La viabilité économique repose sur l'échantillonnage OED — sélectionner les tests les plus informatifs (détail en annexe).</div>
 <div class="deck-footer">05 / 14</div>
 </div>
 
