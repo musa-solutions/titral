@@ -326,8 +326,8 @@ Un paysage dense sur la mesure ponctuelle, vide sur l'arbitrage de migration. <s
 <div class="text-sm text-zinc-400 mt-1.5 leading-snug">Le verdict de migration s'appuie exclusivement sur vos workloads réels et anonymisés — pas sur un jeu de tests générique ou représentatif comme les leaderboards ou les audits conseil</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
-<div class="text-sm font-medium text-zinc-100">Barrière OED</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Six ans de R&amp;D en échantillonnage bayésien : un verdict fiable sur tout le périmètre sans payer chaque combinaison fournisseur × modèle — là où le rejeu exhaustif (gateways, outils d'infra) reste hors de prix en continu</div>
+<div class="text-sm font-medium text-zinc-100">Dataset d'évaluation personnalisé</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Pour chaque client, un jeu d'évaluation sur-mesure échantillonné par Optimal Experiment Design (six ans de R&amp;D bayésienne) à partir de ses propres workloads : verdict fiable sur tout le périmètre, sans payer chaque combinaison fournisseur × modèle</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-sm font-medium text-zinc-100">Conformité opposable</div>
