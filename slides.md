@@ -490,7 +490,7 @@ Le risque de comblement le plus probable : l'observabilité LLM ou un gateway so
 <div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-4">
 <div class="text-xs text-zinc-100 font-medium tracking-widest uppercase">Validation commerciale — en cours</div>
 <div class="text-sm text-zinc-300 mt-2 space-y-1.5 leading-snug">
-<div><span class="text-zinc-100 font-medium">0 client payant</span> — stade early, assumé</div>
+<div><span class="text-zinc-100 font-medium">Pré-revenus</span> — stade early</div>
 <div><span class="text-zinc-100 font-medium">Le problème observé en direct, sur des systèmes IA en production</span> — pas une intuition de marché</div>
 <div><span class="text-zinc-100 font-medium">Customer discovery = jalon immédiat et mesurable</span> — 20 entretiens (J+3) → 2–3 design partners rémunérés (J+6)</div>
 </div>
