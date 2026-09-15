@@ -202,7 +202,7 @@ Assez économique pour être rejoué en continu : <span class="text-zinc-400">la
 <div class="grid grid-cols-2 gap-3 mt-3">
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Ancrage de prix</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Sous le coût d'un audit-conseil manuel ; indexé sur l'exposition réglementaire (jusqu'à 10&nbsp;% du CA sous DORA) et sur la facture IA. Référence du marché de l'observabilité : offres entreprise à partir de ~2,5&nbsp;k$/mois</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Sous le coût d'un audit-conseil manuel ; indexé sur l'exposition réglementaire (astreintes DORA art. 35, jusqu'à 1&nbsp;%/jour du CA mondial moyen pour les fournisseurs critiques) et sur la facture IA. Référence du marché de l'observabilité : offres entreprise à partir de ~2,5&nbsp;k$/mois</div>
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Mécanisme de vente</div>
