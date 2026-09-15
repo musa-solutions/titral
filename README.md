@@ -1,6 +1,6 @@
 # Titral — Pitch deck Innovact (Slidev)
 
-Pitch deck de 13 slides + 1 annexe en français, destiné au comité de
+Pitch deck de 14 slides + 1 annexe en français, destiné au comité de
 sélection de l'incubateur Innovact (Reims / Grand Est).
 
 **Positionnement : Continuous AI Exit Readiness** — Titral teste et prouve
