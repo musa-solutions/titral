@@ -41,7 +41,7 @@ Reims · Septembre 2026
 </div>
 </div>
 
-<div class="deck-footer">01 / 06</div>
+<div class="deck-footer">01 / 07</div>
 </div>
 
 ---
@@ -86,7 +86,7 @@ Changer sans preuve chiffrée, c'est le risque qualité. Ne pas changer, c'est l
 </div>
 
 <div class="mt-auto pt-2 text-xs text-zinc-600">Sources : Menlo Ventures, State of GenAI in the Enterprise (déc. 2025, confirmé 2026) · Vision Compliance (avr. 2026) · règlements (UE) 2022/2554 et 2024/1689, Omnibus 2026</div>
-<div class="deck-footer">02 / 06</div>
+<div class="deck-footer">02 / 07</div>
 </div>
 
 ---
@@ -136,7 +136,7 @@ Le risque qualité et le risque réglementaire, levés par la <span class="text-
 <div class="text-[13px] text-zinc-200 mt-0.5">Dépendance chiffrée · conformité par preuve</div>
 </div>
 </div>
-<div class="deck-footer">03 / 06</div>
+<div class="deck-footer">03 / 07</div>
 </div>
 
 ---
@@ -173,7 +173,7 @@ flowchart LR
 Assez économique pour être rejoué en continu : <span class="text-zinc-400">la migration devient un pilotage, pas un audit ponctuel.</span>
 </div>
 
-<div class="deck-footer">04 / 06</div>
+<div class="deck-footer">04 / 07</div>
 </div>
 
 ---
@@ -310,14 +310,47 @@ Le marché n'est pas à créer : <span class="text-zinc-400">la réglementation 
 <div class="mt-3 text-base text-zinc-100 leading-snug">
 Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acteur qui rejoue vos workloads réels contre des alternatives souveraines pour arbitrer la migration.
 </div>
-<div class="deck-footer">05 / 06</div>
+<div class="deck-footer">05 / 07</div>
 </div>
 
 ---
 
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
-<div class="kicker">06 · Équipe</div>
+<div class="kicker">06 · Avantage concurrentiel</div>
+<h2 class="text-4xl font-semibold tracking-tight mt-2">La barrière n'est pas le produit, c'est la méthode</h2>
+
+<div class="grid grid-cols-2 gap-3 mt-5">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
+<div class="text-sm font-medium text-zinc-100">Preuve par la production réelle</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Le verdict de migration s'appuie exclusivement sur vos workloads réels et anonymisés — pas sur un jeu de tests générique ou représentatif comme les leaderboards ou les audits conseil</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
+<div class="text-sm font-medium text-zinc-100">Barrière OED</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Six ans de R&amp;D en échantillonnage bayésien : un verdict fiable sur tout le périmètre sans payer chaque combinaison fournisseur × modèle — là où le rejeu exhaustif (gateways, outils d'infra) reste hors de prix en continu</div>
+</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
+<div class="text-sm font-medium text-zinc-100">Conformité opposable</div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Un dossier d'évidence chiffré pour les directions Risques/Conformité — DORA art. 28 et transparence AI Act — quand les plateformes AI Act-native sécurisent le modèle en place, jamais la migration</div>
+</div>
+<div class="border border-zinc-700 bg-zinc-900/60 rounded-xl p-4">
+<div class="text-sm font-medium text-zinc-100">Arbitrage de la souveraineté</div>
+<div class="text-sm text-zinc-200 mt-1.5 leading-snug">La seule réponse chiffrée à « quelle application migrer, vers quel modèle souverain, pour quel gain » — les gateways disent <span class="text-zinc-400">comment</span> changer, jamais <span class="text-zinc-400">vers quoi</span></div>
+</div>
+</div>
+
+<div class="mt-3 text-base text-zinc-100 leading-snug">
+Le risque de comblement le plus probable : l'observabilité LLM ou un gateway souverain ajoutant une couche de rejeu cross-fournisseur. <span class="text-zinc-400">Notre expertise OED et le track record d'exécution des fondateurs (AIO) restent la barrière — pas la fonctionnalité.</span>
+</div>
+
+<div class="deck-footer">06 / 07</div>
+</div>
+
+---
+
+<div class="h-full flex flex-col px-16 pt-10 pb-10">
+
+<div class="kicker">07 · Équipe</div>
 <h2 class="text-4xl font-semibold tracking-tight mt-2">Notre Équipe</h2>
 
 <div class="grid grid-cols-2 gap-3 mt-5">
@@ -353,7 +386,7 @@ Notre wedge : l'<span class="text-zinc-400">assurance IA</span> — le seul acte
 </div>
 </div>
 
-<div class="deck-footer">06 / 06</div>
+<div class="deck-footer">07 / 07</div>
 </div>
 
 <!-- Slides retirées du deck : 09 · Projections &amp; métriques clés · 10 · Statut, jalons &amp; Innovact
