@@ -19,8 +19,11 @@ Structure (v2, recentrée marché/ICP/GTM) :
 7. Concurrence — gateways, evals/observabilité, GRC, cloud exit : personne ne prouve la substituabilité
 8. Avantage concurrentiel — la barrière : preuve sur production réelle + méthode OED
 9. Business model — LAND : AI Exit Test 3-10 k€ → EXPAND : Continuous Exit Assurance 15-30 k€ ARR
-10. Go-to-market — déclenché par les événements (RFP, revue DORA/TPRM, disruption modèle/prix)
-11. Validation — preuve technologique vs validation commerciale (honnête : 0 client payant)
+10. Go-to-market — déclenché par les événements (RFP, revue DORA/TPRM, disruption
+   modèle/prix) · pipeline cible chiffré (300 contacts → 30 démos → 10 exit tests → 2–3
+   design partners) · co-sell clouds souverains · 60 % du temps fondateur sur 6 mois
+11. Validation — preuve technologique vs validation commerciale (honnête : 0 client
+   payant) · jalon discovery mesurable : 20 entretiens (J+3) → design partners (J+6)
 12. Équipe — repeat entrepreneurs (Studiare→Kroton 2015, AIO 70 000+ étudiants)
 13. Pourquoi Innovact — ancrage Reims, jalons 6-12 mois, écosystème Grand Est
 - Annexe — Sous le capot : rejeu de production, échantillonnage OED, benchmarks par tâche

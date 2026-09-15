@@ -23,10 +23,11 @@ mermaid:
 
 <div class="kicker">Innovact · Reims · Grand Est</div>
 
-<h1 class="text-8xl font-semibold tracking-tight mt-8">Titral</h1>
+<h1 class="text-8xl font-semibold tracking-tight mt-4">Titral</h1>
 <h2 class="text-3xl font-medium tracking-tight text-zinc-200 mt-4">Continuous AI Exit Readiness</h2>
+<p class="text-sm text-zinc-500 mt-2">Titral, du titrage : mesurer avec précision à partir d'un échantillon minimal.</p>
 
-<p class="text-2xl text-zinc-400 mt-8 max-w-4xl leading-snug">
+<p class="text-2xl text-zinc-400 mt-5 max-w-4xl leading-snug">
 Titral teste et prouve la capacité des entreprises à <span class="text-zinc-100">sortir d'un fournisseur d'IA sans dégrader leurs opérations</span>. Sur leurs workloads réels, nous identifions et testons les alternatives, mesurons qualité, coût, latence et effort de migration — et produisons un <span class="text-zinc-100">plan de sortie vérifiable</span>.
 </p>
 
@@ -108,6 +109,11 @@ Reims · Septembre 2026
 </div>
 </div>
 
+<div class="mt-3 border border-zinc-800 bg-zinc-950/60 rounded-xl px-4 py-2.5 flex items-center gap-3 text-[13px] flex-wrap">
+<span class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Où les trouver</span>
+<span class="text-zinc-300">Forum Fintech ACPR/AMF · France Digitale / NPA · plateformes RFP publiques · conférences TPRM / conformité DORA · réseaux d'adhérents CCI</span>
+</div>
+
 <div class="mt-auto text-[10px] text-zinc-600">Sources : Eurostat, statistiques structurelles 2024 · Eurostat, usage de l'IA 2025 (KS-01-26-009) · règlement (UE) 2022/2554</div>
 <div class="deck-footer">03 / 13</div>
 </div>
@@ -187,45 +193,44 @@ Nous n'avons pas besoin du marché IA de 290&nbsp;Md$ — <span class="text-zinc
 <th rowspan="2" class="py-1 pr-2 font-medium">Rang</th>
 <th rowspan="2" class="py-1 pr-4 font-medium">Modèle</th>
 <th colspan="3" class="font-medium text-zinc-400 border-b border-zinc-800 pb-0.5">Evals custom — vos workloads</th>
-<th colspan="2" class="font-medium text-zinc-400 border-b border-zinc-800 pb-0.5">Débit &amp; latence</th>
+<th colspan="1" class="font-medium text-zinc-400 border-b border-zinc-800 pb-0.5">Débit &amp; latence</th>
 <th rowspan="2" class="py-1 font-medium">Prix</th>
 <th rowspan="2" class="py-1 font-medium">Client&nbsp;Index</th>
 <th rowspan="2" class="py-1 font-medium">Verdict</th>
 </tr>
 <tr class="text-[10px] uppercase tracking-widest text-left text-zinc-500">
-<th class="font-medium pt-0.5">Exactitude</th>
-<th class="font-medium pt-0.5">Conformité</th>
+<th class="font-medium pt-0.5">Exact.</th>
+<th class="font-medium pt-0.5">Conform.</th>
 <th class="font-medium pt-0.5">Régr. critiques</th>
 <th class="font-mono pt-0.5">tokens/s</th>
-<th class="font-mono pt-0.5">TTFT</th>
 </tr>
 </thead>
 <tbody class="font-mono">
 <tr class="border-t border-zinc-800/70 text-zinc-500">
 <td class="py-1 pr-2">réf.</td>
 <td class="pr-4 font-sans">GPT-4.1 · <span class="text-zinc-600">OpenAI — fournisseur actuel</span></td>
-<td>100 (réf.)</td><td>100</td><td>0</td><td>92</td><td>480 ms</td><td>100</td>
+<td>100 (réf.)</td><td>100</td><td>0</td><td>92</td><td>100</td>
 <td class="text-zinc-400">100</td>
 <td class="text-zinc-600">—</td>
 </tr>
 <tr class="border-t border-zinc-800/70 bg-zinc-900/60">
 <td class="py-1 pr-2 text-zinc-100">1</td>
 <td class="pr-4 font-sans text-zinc-100 font-medium">Mistral Large · OVHcloud</td>
-<td class="text-zinc-200">97</td><td class="text-zinc-200">96</td><td class="text-zinc-200">1</td><td class="text-zinc-200">118</td><td class="text-zinc-200">520 ms</td><td class="text-zinc-200">76</td>
+<td class="text-zinc-200">97</td><td class="text-zinc-200">96</td><td class="text-zinc-200">1</td><td class="text-zinc-200">118</td><td class="text-zinc-200">76</td>
 <td class="text-zinc-100 font-semibold">97</td>
 <td class="text-emerald-400 font-sans font-semibold">PASS</td>
 </tr>
 <tr class="border-t border-zinc-800/70">
 <td class="py-1 pr-2">2</td>
 <td class="pr-4 font-sans text-zinc-100">Claude · AWS</td>
-<td>93</td><td>92</td><td>2</td><td>84</td><td>420 ms</td><td>118</td>
+<td>93</td><td>92</td><td>2</td><td>84</td><td>118</td>
 <td class="text-zinc-200 font-semibold">93</td>
 <td class="text-amber-400/90 font-sans font-medium">CONDITIONAL</td>
 </tr>
 <tr class="border-t border-b border-zinc-800/70">
 <td class="py-1 pr-2">3</td>
 <td class="pr-4 font-sans text-zinc-100">Gemini · région UE</td>
-<td>91</td><td>88</td><td>4</td><td>141</td><td>630 ms</td><td>63</td>
+<td>91</td><td>88</td><td>4</td><td>141</td><td>63</td>
 <td class="text-zinc-300 font-semibold">91</td>
 <td class="text-red-400/80 font-sans font-medium">FAIL</td>
 </tr>
@@ -411,7 +416,7 @@ Le risque de comblement le plus probable : l'observabilité LLM ou un gateway so
 </div>
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-3.5">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Statut des prix</div>
-<div class="text-[13px] text-zinc-400 mt-1 leading-snug"><span class="text-zinc-300">Pricing hypotheses</span> — cibles de customer discovery, pas des prix validés. Les design partners les arbitreront</div>
+<div class="text-[13px] text-zinc-400 mt-1 leading-snug"><span class="text-zinc-300">Pricing hypotheses</span> — cibles de customer discovery, pas des prix validés. Hypothèse d'acquisition : <span class="text-zinc-300">CAC &lt; 5&nbsp;k€ founder-led · payback &lt; 6 mois</span>. Les design partners arbitreront les deux</div>
 </div>
 </div>
 
@@ -420,38 +425,48 @@ Le risque de comblement le plus probable : l'observabilité LLM ou un gateway so
 
 ---
 
-<div class="h-full flex flex-col px-16 pt-10 pb-10">
+<div class="h-full flex flex-col px-16 pt-8 pb-10">
 
 <div class="kicker">10 · Go-to-market</div>
-<h2 class="text-4xl font-semibold tracking-tight mt-2">Un GTM déclenché par les événements, pas par les secteurs</h2>
+<h2 class="text-4xl font-semibold tracking-tight mt-1">Un GTM déclenché par les événements, pas par les secteurs</h2>
 
-<div class="grid grid-cols-3 gap-3 mt-4">
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
+<div class="grid grid-cols-3 gap-3 mt-2">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-2.5">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Trigger 1 · RFP entreprise</div>
-<div class="text-sm text-zinc-300 mt-1.5 leading-snug">L'éditeur SaaS reçoit : <span class="text-zinc-100">« Montrez votre stratégie de sortie / fallback. »</span> Titral génère la réponse — en chiffres, sur ses workloads</div>
+<div class="text-[13px] text-zinc-300 mt-1 leading-snug">L'éditeur SaaS reçoit : <span class="text-zinc-100">« Montrez votre stratégie de sortie / fallback. »</span> Titral génère la réponse — en chiffres, sur ses workloads</div>
 </div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-2.5">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Trigger 2 · Revue DORA / TPRM</div>
-<div class="text-sm text-zinc-300 mt-1.5 leading-snug">L'équipe Risques demande si un fournisseur IA critique est <span class="text-zinc-100">réellement substituable</span>. Titral lance l'exercice de sortie et documente le verdict</div>
+<div class="text-[13px] text-zinc-300 mt-1 leading-snug">L'équipe Risques demande si un fournisseur IA critique est <span class="text-zinc-100">réellement substituable</span>. Titral lance l'exercice de sortie et documente le verdict</div>
 </div>
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-2.5">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Trigger 3 · Disruption modèle / prix</div>
-<div class="text-sm text-zinc-300 mt-1.5 leading-snug">Un fournisseur change de modèle, de termes ou de prix. Titral montre <span class="text-zinc-100">immédiatement</span> les alternatives disponibles et leur impact</div>
+<div class="text-[13px] text-zinc-300 mt-1 leading-snug">Un fournisseur change de modèle, de termes ou de prix. Titral montre <span class="text-zinc-100">immédiatement</span> les alternatives disponibles et leur impact</div>
 </div>
 </div>
 
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-4 py-2.5 mt-3 flex items-center gap-3 text-[13px] flex-wrap">
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-4 py-1.5 mt-1.5 text-[12px] leading-snug">
+<div class="flex items-center gap-3 flex-wrap">
 <span class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Canaux</span>
 <span class="text-zinc-200 font-medium">Founder-led outbound</span><span class="text-zinc-600">→</span>
 <span class="text-zinc-400">consultants conformité / risque</span><span class="text-zinc-600">→</span>
 <span class="text-zinc-400">consultants sécurité / RFP</span><span class="text-zinc-600">→</span>
-<span class="text-zinc-400">clouds et modèles souverains</span><span class="text-zinc-600">→</span>
+<span class="text-zinc-400">clouds &amp; modèles souverains — co-sell : ils veulent la preuve que leurs modèles passent</span><span class="text-zinc-600">→</span>
 <span class="text-zinc-400">intégrations GRC</span>
 </div>
+<div class="flex items-center gap-3 flex-wrap mt-0.5">
+<span class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Pipeline cible</span>
+<span class="text-zinc-300">~150 éditeurs SaaS/IA B2B français (50–500 salariés) · <span class="text-zinc-100 font-medium">300 contacts → 30 démos → 10 exit tests → 2–3 design partners rémunérés (J+6)</span> — hypothèses, arbitrées par la customer discovery</span>
+</div>
+<div class="flex items-center gap-3 flex-wrap mt-0.5">
+<span class="text-xs text-zinc-500 font-medium tracking-widest uppercase">Pourquoi ce beachhead</span>
+<span class="text-zinc-300"><span class="text-zinc-100 font-medium">Éditeurs : cycle 3–6 mois, un acheteur (CEO/CTO)</span> — la distribution décide l'ordre ; entités DORA : 9–12 mois, comité d'achats → ensuite</span>
+</div>
+</div>
 
-<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-4 py-2.5 mt-2 flex items-center gap-4 text-[13px]">
-<div class="leading-snug text-zinc-300"><span class="text-zinc-100 font-medium">10 premiers clients</span> : founder-led outbound sur les triggers · <span class="text-zinc-100 font-medium">100 suivants</span> : références + partenaires · <span class="text-zinc-100 font-medium">500</span> : canaux</div>
-<div class="text-zinc-500 leading-snug">Boucle : exit test → RFP gagné → assurance continue → référence publiable → compte suivant</div>
+<div class="border border-zinc-800 bg-zinc-950/60 rounded-xl px-4 py-2 mt-1.5 flex items-center gap-4 text-[13px]">
+<div class="leading-snug text-zinc-300"><span class="text-zinc-100 font-medium">10 premiers clients</span> : founder-led — <span class="text-zinc-100 font-medium">60&nbsp;% du temps fondateur sur 6 mois</span> · <span class="text-zinc-100 font-medium">100 suivants</span> : références + partenaires · <span class="text-zinc-100 font-medium">500</span> : canaux</div>
+<div class="text-zinc-500 leading-snug">Chaque exit test gagné crée la preuve qui débloque le suivant — <span class="text-zinc-300">le produit est son propre canal</span></div>
 </div>
 
 <div class="deck-footer">10 / 13</div>
@@ -476,8 +491,8 @@ Le risque de comblement le plus probable : l'observabilité LLM ou un gateway so
 <div class="text-xs text-zinc-100 font-medium tracking-widest uppercase">Validation commerciale — en cours</div>
 <div class="text-sm text-zinc-300 mt-2 space-y-1.5 leading-snug">
 <div><span class="text-zinc-100 font-medium">0 client payant</span> — stade early, assumé</div>
-<div><span class="text-zinc-100 font-medium">En conversation avec des clients potentiels</span> — le problème est observé en direct chez des clients, sur des systèmes en production</div>
-<div><span class="text-zinc-100 font-medium">Customer discovery = jalon immédiat</span> — objectif : design partners rémunérés</div>
+<div><span class="text-zinc-100 font-medium">Le problème observé en direct, sur des systèmes IA en production</span> — pas une intuition de marché</div>
+<div><span class="text-zinc-100 font-medium">Customer discovery = jalon immédiat et mesurable</span> — 20 entretiens (J+3) → 2–3 design partners rémunérés (J+6)</div>
 </div>
 </div>
 </div>
@@ -567,14 +582,11 @@ Nous distinguons les <span class="text-zinc-400">faits prouvés</span> des <span
 
 <div class="border border-zinc-800 bg-zinc-950/60 rounded-xl p-4">
 <div class="text-xs text-zinc-500 font-medium tracking-widest uppercase">L'écosystème du Grand Est</div>
-<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Réseau Quest for Change : 300 startups, 114&nbsp;M€ levés en 2025 · Investor Days et business angels pour structurer le pré-seed · ancrage Grand Reims / CCI Marne : <span class="text-zinc-100 font-medium">banques, mutuelles et assurances champenoises — notre marché d'expansion local</span></div>
+<div class="text-sm text-zinc-400 mt-1.5 leading-snug">Réseau Quest for Change : 300 startups, 114&nbsp;M€ levés en 2025 · Investor Days et business angels pour structurer le pré-seed · ancrage Grand Reims / CCI Marne : <span class="text-zinc-100 font-medium">adhérents entreprises = premier pipeline d'introduction — banques, mutuelles et assurances champenoises</span></div>
 </div>
 
 </div>
 
-<div class="mt-4 text-xl text-zinc-100 leading-snug">
-DORA exige déjà des sorties testées, l'AI Act arrive. <span class="text-zinc-400">Nous transformons ces échéances en marché — depuis Reims.</span>
-</div>
 <div class="deck-footer">13 / 13</div>
 </div>
 
