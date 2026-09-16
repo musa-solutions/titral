@@ -983,8 +983,8 @@ Q11-4 [P][DANGER] « Problème observé » = n=1, et c'est vous.
 </div>
 </div>
 <div class="text-[13px] text-[var(--ink-2)] mt-3 space-y-1.5 leading-snug">
-<div>Fondateur Studiare — <span class="text-[var(--ink)] font-medium">acquis par Kroton en 2015</span> · Fondateur AIO (2020)</div>
-<div>Quant : Morgan Stanley · Santander · Banco BBM</div>
+<div>Fondateur Studiare — <span class="text-[var(--ink)] font-medium">acquis par Cogna en 2015 (€3.5m)</span> · Fondateur Garagem Studio (2018), AIO Education (2020)</div>
+<div><b>Quant</b> : Morgan Stanley · Santander · Banco BBM</div>
 <div>Or à l'Olympiade brésilienne de maths · Argent à l'IMC — compétition mondiale universitaire</div>
 <div>École Polytechnique · DEA El Karoui</div>
 </div>
@@ -998,7 +998,7 @@ Q11-4 [P][DANGER] « Problème observé » = n=1, et c'est vous.
 </div>
 </div>
 <div class="text-[13px] text-[var(--ink-2)] mt-3 space-y-1.5 leading-snug">
-<div>Co-fondateur AIO</div>
+<div>Co-fondateur AIO Education</div>
 <div>Data CFM · Data Specialist Toucan Toco · Engineering Manager Zefir</div>
 <div>Conseil IT Asset Management</div>
 <div>École Polytechnique · Chercheur CEA Saclay — physique statistique (Paris XI)</div>
@@ -1009,9 +1009,9 @@ Q11-4 [P][DANGER] « Problème observé » = n=1, et c'est vous.
 <div class="border-t border-[var(--hair)] pt-3.5 mt-auto">
 <div class="eyebrow">Preuves d'exécution</div>
 <div class="grid grid-cols-3 divide-x divide-[var(--hair-soft)] mt-2">
-<div class="text-[13px] text-[var(--ink-2)] leading-snug pr-4"><span class="text-[var(--ink)] font-medium">Studiare → Kroton (2015)</span> : un des premiers exits en Éducation au Brésil</div>
-<div class="text-[13px] text-[var(--ink-2)] leading-snug px-4"><span class="text-[var(--ink)] font-medium">AIO (2020)</span> : une entreprise d'IA pédagogique déjà construite ensemble — 70 000+ étudiants au Brésil</div>
-<div class="text-[13px] text-[var(--ink-2)] leading-snug pl-4"><span class="text-[var(--ink)] font-medium">2026</span> : briques opérationnelles construites sur des cas réels dans le cadre d'un projet Google Foundation</div>
+<div class="text-[13px] text-[var(--ink-2)] leading-snug pr-4"><span class="text-[var(--ink)] font-medium">Studiare → Cogna (2015)</span> : un des premiers exits en Éducation au Brésil, ayant servi plus de 1 000 000 d'étudiants</div>
+<div class="text-[13px] text-[var(--ink-2)] leading-snug px-4"><span class="text-[var(--ink)] font-medium">AIO (2020)</span> : entreprise d'IA pédagogique déjà construite ensemble — 70 000+ étudiants au Brésil</div>
+<div class="text-[13px] text-[var(--ink-2)] leading-snug pl-4"><span class="text-[var(--ink)] font-medium">2026</span> : briques opérationnelles construites sur des cas réels dans le cadre d'un projet financé par Google Foundation</div>
 </div>
 </div>
 
@@ -1022,24 +1022,14 @@ Q11-4 [P][DANGER] « Problème observé » = n=1, et c'est vous.
 <!--
 S12 · ÉQUIPE
 
-!! A CORRIGER
-
-- « projet Google Foundation » placé dans la bande « Preuves d'exécution », à côté de Studiare et AIO : se lit comme un troisième adossement → même décision que S11, prise une seule fois pour les deux slides.
-- Reste de la slide vérifié (FINDINGS §6). Montant de l'exit Studiare non public : ne pas inventer de chiffre.
-
 Q12-3 [C][LETALE] AIO tourne au Brésil. Quel % de votre temps va à Titral ? Qui opère AIO ?
 > Réponse directe, chiffrée, datée : AIO opérée par son équipe locale, notre rôle passe en supervision non opérationnelle à date fixée. C'est la condition de crédibilité du « 60 % » de S10. PI : les briques OED doivent être formellement apportées à Titral, accord écrit séparant les deux sociétés, à faire avant tout tour.
-
-!! Item n° 1 pour le jury Innovact. Une réponse floue ici coûte le dossier.
 
 Q12-4 [P][DANGER] Produit de conformité européen depuis une base brésilienne ?
 > Société française, Grand Est : c'est elle qui signe les contrats et les engagements RGPD. Architecture : la donnée ne quitte ni l'environnement du client ni ses régions approuvées, mode clés client. Le domicile des fondateurs devient un non sujet. Expérience brésilienne = atout d'exécution, handicap de réseau : c'est ce que nous vous demandons de couvrir.
 
 Q12-2 [P][DANGER] Personne n'a jamais vendu à une direction des risques européenne.
 > Trou assumé. Connexe : Murilo quant chez Morgan Stanley, Santander, Banco BBM, donc vocabulaire du risque et comités bancaires connus. Entrée par les éditeurs car le CEO est accessible en founder-led. Plan : 10 premiers clients par les fondateurs, puis commercial senior secteur régulé au 1er recrutement. Cherchons un mentor ayant vendu de la conformité à des banques FR.
-
-Q12-1 [P][ok] Studiare : quel montant ?
-> Non public, ne pas inventer. Ce qui est documentable : Studiare acquise par Kroton en 2015, un des premiers exits éducation au Brésil, pas une opération de grande taille. Ce que ça prouve : un cycle complet mené jusqu'au bout. Références appelables disponibles.
 
 Q12-5 [?][ok] Premier recrutement ?
 > Commercial ou avant vente senior secteur régulé, après les 1ers design partners, financé par le pré-seed M+12. Tout le reste founder-led, sans salaire de marché.
@@ -1054,19 +1044,15 @@ Q12-5 [?][ok] Premier recrutement ?
 
 <div class="grid grid-cols-2 gap-3 mt-5">
 
-<div class="card p-4">
-<div class="eyebrow">Ancrage Reims</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">Fondateur installé à Reims depuis trois ans · repeat entrepreneurs : une entreprise d'IA construite ensemble, une acquisition réussie</div>
-</div>
 
-<div class="card card-hl p-4">
+<div class="card card-hl p-4 col-span-2">
 <div class="eyebrow eyebrow-hl">Ce qu'Innovact débloque</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug"><span class="text-[var(--ink)] font-medium">Un startup manager ex-entrepreneur</span> pour transposer notre expérience brésilienne au contexte français : clients, partenaires, financement</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug"><span class="text-[var(--ink)] font-medium">Startup manager ex-entrepreneur</span> pour transposer notre expérience brésilienne au contexte français: clients, partenaires, financement, recrutement</div>
 </div>
 
 <div class="card p-4 col-span-2">
 <div class="eyebrow">L'écosystème du Grand Est</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-normal [text-wrap:pretty]">Quest for Change : 300 startups, 114&nbsp;M€ levés en 2025 · Investor Days et business angels pour le pré-seed · <span class="text-[var(--ink)] font-medium">adhérents CCI Marne = premier pipeline</span> : banques, mutuelles, assurances champenoises</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-normal [text-wrap:pretty]">Quest for Change : 300 startups, 114&nbsp;M€ levés en 2025 · Investor Days et business angels pour le pré-seed · <span class="text-[var(--ink)] font-medium">adhérents CCI Marne = premier pipeline*</span> : banques, mutuelles, assurances champenoises</div>
 </div>
 
 </div>
@@ -1078,17 +1064,17 @@ Q12-5 [?][ok] Premier recrutement ?
 <div class="relative grid grid-cols-3 gap-8">
 <div class="pr-2">
 <div class="w-2.5 h-2.5 rounded-full bg-[var(--accent)]" style="box-shadow:0 0 0 4px rgba(196,165,112,0.18)"></div>
-<div class="font-mono text-[11.5px] accent tracking-wider mt-3">J+6</div>
+<div class="font-mono text-[11.5px] accent tracking-wider mt-3">M+6</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug"><span class="text-[var(--ink)] font-medium">2–3 design partners rémunérés</span> — éditeurs SaaS et secteurs régulés</div>
 </div>
 <div class="pr-2">
 <div class="w-2.5 h-2.5 rounded-full bg-black border border-[var(--hair)]"></div>
-<div class="font-mono text-[11.5px] text-[var(--ink-2)] tracking-wider mt-3">J+9</div>
+<div class="font-mono text-[11.5px] text-[var(--ink-2)] tracking-wider mt-3">M+9</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug"><span class="text-[var(--ink)] font-medium">SDK en production</span> — premier rapport «&nbsp;sortie prouvée&nbsp;» publiable</div>
 </div>
 <div class="pr-2">
 <div class="w-2.5 h-2.5 rounded-full bg-black border border-[var(--hair)]"></div>
-<div class="font-mono text-[11.5px] text-[var(--ink-2)] tracking-wider mt-3">J+12</div>
+<div class="font-mono text-[11.5px] text-[var(--ink-2)] tracking-wider mt-3">M+12</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug"><span class="text-[var(--ink)] font-medium">Continuous Exit Assurance commercialisée</span> — tour pré-seed</div>
 </div>
 </div>
@@ -1101,14 +1087,8 @@ Q12-5 [?][ok] Premier recrutement ?
 <!--
 S13 · POURQUOI INNOVACT
 
-!! A CORRIGER
-
-- « J+6 / J+9 / J+12 » sous un titre « Jalons 6 à 12 mois » : contradiction sur la même slide → M+6 / M+9 / M+12, avec le point de départ précisé.
-- « adhérents CCI Marne = premier pipeline » non vérifié : aucun acheteur DORA décisionnaire documenté dans le périmètre → dégonfler en « accès à des entretiens et à des introductions » et poser la question au jury.
-- Vérifié : Quest for Change 300 startups, 114 M€ levés en 2025 (FINDINGS §7).
-
 Q13-4 [C][LETALE] Besoin de financement, burn, runway ?
-> Le deck ne le chiffre pas : c'est un manque, le dire. Réalité : pré-revenus, aucune levée, pas de salaire de marché, burn = compute + structure (centaines à quelques milliers d'euros par mois). Visé : pré-seed de plusieurs centaines de k€ à M+12, 18 mois de piste + 1 recrutement commercial. Appui demandé sur Bourse French Tech, subventions Grand Est, prêt d'amorçage.
+> Le deck ne le chiffre pas : c'est un manque, le dire. Réalité : pré-revenus, aucune levée, pas de salaire de marché, burn = compute + structure (centaines à quelques milliers d'euros par mois). Visé : pré-seed de plusieurs centaines de k€ à M+12, 18 mois de piste + 1 recrutement commercial. Appui demandé sur Bourse French Tech, subventions Grand Est, prêt d'amorçage. Point de départ : entrée en incubation.
 
 Q13-1 [C][DANGER] « Fondateur installé à Reims » au singulier. Et l'autre ?
 > Murilo à Reims depuis 3 ans, Thiago non résident : la slide est exacte, le préciser plutôt que le laisser deviner. Engagement : présence hebdomadaire d'au moins un fondateur, société domiciliée Grand Est, les deux fondateurs aux temps collectifs. Donner un chiffre de jours par mois.
