@@ -28,12 +28,12 @@ mermaid:
 <h1 class="text-[86px] font-semibold tracking-[-0.035em] leading-none mt-7">Titral</h1>
 <div class="flex items-center gap-4 mt-5">
 <div class="w-8 h-px bg-[var(--accent)]"></div>
-<h2 class="text-[26px] font-normal tracking-tight text-[var(--ink-2)]">Continuous AI Exit Readiness</h2>
+<h2 class="text-[26px] font-normal tracking-tight text-[var(--ink-2)]">Rendre la résilience de l’IA mesurable.</h2>
 </div>
-<p class="text-[13px] text-[var(--ink-3)] mt-3.5 pl-12">Titral, du <span class="accent">titrage</span> : mesurer avec précision à partir d'un échantillon minimal.</p>
+<p class="text-[13px] text-[var(--ink-3)] mt-3.5 pl-12">Titral, du <span class="accent">titrage</span>: mesurer précisément, sans tout tester.</p>
 
 <p class="text-[15px] text-[var(--ink-2)] mt-7 max-w-[41rem] leading-relaxed [text-wrap:pretty]">
-Nous testons et prouvons la capacité d'une entreprise à <span class="text-[var(--ink)]">sortir d'un fournisseur d'IA sans dégrader ses opérations</span>. Sur ses workloads réels : qualité, coût, latence, effort de migration — et un <span class="text-[var(--ink)]">plan de sortie vérifiable</span>.
+Nous testons, sur les workloads réels, la capacité d’une entreprise à <span class="text-[var(--ink)]">changer de modèles, de fournisseurs ou d’infrastructure sans dégrader ses opérations</span>.
 </p>
 
 </div>
