@@ -736,8 +736,11 @@ nous ne l'avons pas encore : elle sortira des 20 entretiens.
 n'est pas ressentie par la DSI mais **importée** par le client ou le régulateur : le déclencheur
 n'est pas « je veux changer de fournisseur », c'est « on me demande de prouver que je peux ». C'est
 pourquoi la slide 10 organise tout le GTM autour de trois événements et non autour de secteurs.
-Si les 20 entretiens montrent qu'aucun de ces trois événements ne produit de budget, l'hypothèse
-est fausse et nous préférerons le savoir en trois semaines qu'en trois ans.
+Et il existe une deuxième ligne budgétaire, directe celle-ci : le même test livre le classement
+couût par flux (colonne Prix de la slide 05) — un client qui ne migre pas mais renégocie (cf.
+R02-4, −15 %) paie son exit test par l'économie réalisée. Si les 20 entretiens montrent qu'aucun
+des trois événements ne produit de budget, le trigger coût est notre plan d'entrée alternatif —
+même technologie, acheteur DSI ou finances, cycle plus court (cf. pivot n°3, R13-5).
 
 **R02-3** — Aucun des trois n'est notre preuve, ce sont trois cadrages du même phénomène et nous
 l'assumons : Insee (n° 2120, données 2025) montre que l'IA est installée chez les grandes
@@ -837,15 +840,20 @@ des outils voisins : les offres entreprise d'observabilité LLM démarrent autou
 le dossier tienne.
 
 **R04-4** — D'accord, et c'est volontaire : le SOM à 500 k€ est le jalon de **crédibilité** à 2-3
-ans, pas le plafond du dossier. Le chemin vers 10 M€ passe par trois changements documentés sur la
-slide 04 : sortir de France (le TAM européen va de 1,5 à 10 Md€ d'ici 2035, ~35 %/an, DMR),
-passer du one-shot à l'assurance continue à 50–100 k€ par portefeuille entreprise (slide 09), et
-transformer le rejeu en produit distribué via les clouds et modèles souverains — le marché
-institutionnel existe déjà, l'accord France-Allemagne Mistral × SAP le montre. À 100 comptes
-entreprise × 60 k€, on est à 6 M€ d'ARR sans quitter les secteurs régulés européens.
+ans, pas le plafond du dossier. Le chemin vers 10 M€ passe par quatre leviers : les trois
+changements documentés sur la slide 04 — sortir de France (le TAM européen va de 1,5 à 10 Md€
+d'ici 2035, ~35 %/an, DMR), passer du one-shot à l'assurance continue à 50–100 k€ par portefeuille
+entreprise (slide 09), et transformer le rejeu en produit distribué via les clouds et modèles
+souverains — le marché institutionnel existe déjà, l'accord France-Allemagne Mistral × SAP le
+montre. À 100 comptes entreprise × 60 k€, on est à 6 M€ d'ARR sans quitter les secteurs régulés
+européens. Le quatrième levier élargit l'acheteur, pas le secteur : les evals construits pour la
+conformité sont un actif réutilisable — le même classement vend l'optimisation de coût IA (quel
+modèle au meilleur rapport qualité/prix par flux, ré-arbitré à chaque changement de prix ou de
+version) à un acheteur DSI ou finances, sans contrainte réglementaire et avec un cycle plus court.
+C'est aussi notre pivot n°3 préparé (R13-5) : même technologie, acheteur plus facile.
 *Si on insiste :* « Ce que nous vous demandons de financer, c'est la preuve que le premier palier
 existe. Si les 500 k€ n'arrivent pas, aucun des paliers suivants n'a d'intérêt. »
-**À préparer :** slide backup « chemin vers 10 M€ » — 3 leviers, 3 hypothèses chiffrées, dates.
+**À préparer :** slide backup « chemin vers 10 M€ » — 4 leviers, 3 hypothèses chiffrées, dates.
 
 **R04-5** — Parce que ces deux chiffres sont ce que le jury et les investisseurs vont chercher de
 toute façon, et que nous préférons les montrer avec leur étiquette honnête plutôt que de les
@@ -1116,13 +1124,17 @@ sera identifié. Nous préférons vous dire ça que de défendre un chiffre flat
 **À préparer :** un mini-modèle économique en deux scénarios (avec et sans salaire fondateur), une
 page, à sortir si la question vient.
 
-**R09-4** — Trois raisons de renouveler, dont une seule est réglementaire. La première est que le
+**R09-4** — Quatre raisons de renouveler, dont une seule est réglementaire. La première est que le
 monde bouge sous le client : les modèles sont dépréciés, les prix changent, les workloads dérivent
 — l'étude IBM IBV mesure en moyenne six disruptions IA par organisation sur deux ans. La deuxième
 est le levier de négociation : une preuve fraîche de substituabilité se réutilise à chaque
 renégociation de contrat fournisseur. La troisième est la conformité, effectivement peut-être
-annuelle. Si les entretiens montrent qu'annuel suffit, nous vendrons un abonnement annuel — cela
-change le prix, pas la nature du produit.
+annuelle. Et la quatrième change la nature du renouvellement : ce n'est pas le rachat d'un rapport
+mais l'exploitation continue d'un actif — les evals construits la première année permettent de
+ré-arbitrer chaque flux à chaque disruption, et d'upseller l'optimisation de prompt par modèle
+(cf. annexe, Q14-4). Le client renouvelle alors pour économiser, pas pour se conformer. Si les
+entretiens montrent qu'annuel suffit, nous vendrons un abonnement annuel — cela change le prix,
+pas la nature du produit.
 
 **R09-5** — Nous ne le savons pas encore avec précision, et c'est un chiffre que nous refusons
 d'inventer : l'estimation interne est de quelques jours-homme d'intégration plus un compute
@@ -1477,8 +1489,10 @@ vue par tâche plutôt que par slide.
 22. **Liste nominative de 150 comptes cibles** avec personnes contact (`R10-3`).
 23. **Mini-modèle économique en deux scénarios**, avec et sans salaire fondateur (`R09-3`) +
     indicateur « coût de livraison du n-ième exit test » (`R08-5`).
-24. **Slide backup « chemin vers 10 M€ »** (`R04-4`) et **slide backup « les 3 pivots »** avec
-    leurs conditions de déclenchement (`R13-5`).
+24. **Slide backup « chemin vers 10 M€ »** (`R04-4`) — 4 leviers, dont l'élargissement de
+    l'acheteur via les evals construits — et **slide backup « les 3 pivots »** avec leurs
+    conditions de déclenchement (`R13-5` ; le pivot « optimisation de coût IA » est le 4e levier,
+    un seul document pour les deux).
 25. **Deux références appelables** (Studiare/Kroton, AIO) avec accord préalable (`R12-1`) +
     **plan de recrutement à 18 mois** (`R12-5`) + **engagement de présence à Reims chiffré**
     (`R13-1`).
@@ -1486,7 +1500,7 @@ vue par tâche plutôt que par slide.
 
 ---
 
-## Trois phrases à ne jamais prononcer
+## Cinq phrases à ne jamais prononcer
 
 - « Nous avons déjà des clients intéressés » — vous n'en avez pas de documentés ; dites
   « pré-revenus, jalon à M+6 ».
@@ -1494,3 +1508,9 @@ vue par tâche plutôt que par slide.
   (`FINDINGS.md` §3), et un juré du secteur financier le sait.
 - « Personne ne fait ça » — dites « personne ne le fait pour arbitrer une migration, et voici le
   test qui le vérifie ».
+- « Real-time evals » — dites « continu » : l'échantillonnage OED séquentiel ne rentre pas dans un
+  budget de latence par requête, et le deck est cohérent avec « continu » partout (S01, S09,
+  annexe).
+- « 5 à 10 fois moins cher » — chiffre non dérivé et invérifiable devant un jury ; dites « un
+  ordre de grandeur de compute en moins vs shadow deployment » (note slide 09), ou bornez-le à
+  vos propres workloads comme R14-1.

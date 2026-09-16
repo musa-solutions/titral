@@ -37,7 +37,7 @@ Au cours des six dernières années, nous avons travaillé sur des problématiqu
 
 Notre principal différenciateur technologique consiste à appliquer notre expérience en OED à cette problématique, afin d’obtenir des résultats fiables tout en minimisant le nombre de tests nécessaires, et donc le coût et le temps de benchmarking. L’objectif est de rendre ces évaluations suffisamment économiques et rapides pour être réalisées en continu. 
 
-La barrière à l’entrée repose sur cette combinaison d’expertises et sur la méthodologie développée pour la déployer chez d’autres clients. Notre expérience, complétée par des recherches de marché et des entretiens, nous a permis d’affiner la solution et d’identifier plusieurs marchés et produits adjacents, ouvrant des possibilités d’évolution, d’upsell et, si nécessaire, de pivot.
+La barrière à l’entrée repose sur cette combinaison d’expertises et sur la méthodologie développée pour la déployer chez d’autres clients. Notre expérience, complétée par des recherches de marché et des entretiens, nous a permis d’affiner la solution et d’identifier plusieurs marchés et produits adjacents — notamment l’optimisation continue du coût IA (même technologie, acheteur DSI ou finances plutôt que conformité) et l’optimisation de prompts et de flux par modèle, toutes deux dérivées des évaluations construites pour la conformité — ouvrant des possibilités d’évolution, d’upsell et, si nécessaire, de pivot.
 
 ## Besoins d'accompagnement identifiés *
 
