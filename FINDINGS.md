@@ -122,7 +122,7 @@ Sources : menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterpr
 - **Menlo déc. 2025 reste LA référence concentration** : pas de mise à jour mid-2026 publiée ; les analyses 2026 (Ramp, valueaddvc, report-ai) confirment le classement. « 88 % » daté mais validé — libellé slide : « confirmé 2026 ».
 - **11 % changent de fournisseur (Menlo)** : chiffre puissant pour le verrou comportemental — intégré slide 2.
 - Chiffres entreprise (pricing, traction) : volontairement **qualitatifs** (décision fondateur, brainstorm session) — à compléter avant soutenance.
-- **Chiffres GTM ajoutés en v3 (slides 09/10/11)** — pipeline cible (300 contacts → 30 démos → 10 exit tests → 2–3 design partners rémunérés, J+6), liste ~150 éditeurs SaaS/IA B2B français, cycles de vente (éditeurs 3–6 mois vs entités DORA 9–12 mois), CAC < 5 k€ / payback < 6 mois, « 60 % du temps fondateur sur 6 mois », « 20 entretiens (J+3) » : **hypothèses fondatrices, affichées comme telles sur les slides** — aucune donnée de traction réelle n'est revendiquée (0–2 entretiens discovery réels à ce jour). À remplacer par les chiffres réels dès que la customer discovery avance.
+- **Chiffres GTM ajoutés en v3 (slides 09/10/11)** — pipeline cible (300 contacts → 30 démos → 10 pilotes de cadrage → 2–3 design partners rémunérés, M+6), liste ~150 éditeurs SaaS/IA B2B français, cycles de vente (éditeurs 3–6 mois vs entités DORA 9–12 mois), CAC < 5 k€ / payback < 6 mois, « 60 % du temps fondateur sur 6 mois », « 20 entretiens (M+3) » : **hypothèses fondatrices, affichées comme telles sur les slides** — aucune donnée de traction réelle n'est revendiquée (0–2 entretiens discovery réels à ce jour). À remplacer par les chiffres réels dès que la customer discovery avance.
 - **Titres sur la slide Équipe** : décision éditoriale — les deux fondateurs sont libellés « Fondateur », sans CEO/CTO. Les mentions CEO/CRO/CTO ailleurs dans le deck (slides 03 et 09) désignent les **personas acheteurs** chez le client, pas l'équipe.
 - Le **78 %** : citer **Vision Compliance (avr. 2026)** comme source originale (RAIL/Qapitol/CSA la reprennent).
 - Ancrage de prix observabilité (~2,5 k$/mois entreprise) : extrapolé des tarifs publics Langfuse/LangSmith/Braintrust — dire « offres entreprise à partir de ~2,5 k$/mois ».
@@ -136,7 +136,7 @@ Recherche complémentaire exa (2026-09-15) pour la slide Marché.
 - **Gouvernance IA (monde)** : 492 M$ en 2026 → **1 Md$+ en 2030** (Gartner, févr. 2026) ; l'IA non gérée coûterait 1 Md$ de conformité cumulée d'ici 2030
 - **Conformity assessment AI Act** : 0,8 Md$ 2026 → 16 Md$ 2036, TCAC 34,9 % (Fact.MR, juin 2026) — France +36,9 %/an, 2e base européenne
 - **Model risk management IA (Reste-Europe)** : 294 M$ 2024 → 475,7 M$ 2029 (MarketsandMarkets, août 2026)
-- ⇒ Synthèse TAM « AI assurance & gouvernance » Europe ≈ **1,5 Md€ 2026 → 10 Md€ 2035** (~35 %/an) — estimation Titral, bornée par les chiffres ci-dessus.
+- ⇒ Synthèse TAM « AI assurance & gouvernance » Europe ≈ **1,5 Md€ 2026 → 10 Md€ 2035** (×7 en 9 ans ≈ 23 %/an ; le 10 Md€ est la borne haute DMR seule) — estimation Titral, somme des 3 périmètres ci-dessus.
 
 **France — entités régulées (SAM) :**
 - **Banque** : 776 entités sous supervision ACPR fin 2022 (411 établissements de crédit + 147 sociétés de financement + 132 entreprises d'investissement + 62 établissements de paiement + 24 monnaie électronique) — ACPR, *Les chiffres du marché français de la banque et de l'assurance*

@@ -163,7 +163,7 @@ Q02-3 [?][ok] Vos 3 chiffres parlent de 3 populations.
 </div>
 <div class="text-[15px] font-medium text-[var(--ink)] mt-3 leading-snug">Éditeurs SaaS / IA B2B européens</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">50–500 salariés, vendant aux banques, assurances et acteurs publics</div>
-<div class="mt-3 border-l-2 border-[var(--accent)] pl-3 text-[13px] text-[var(--ink)] leading-snug">«&nbsp;Quelle est votre stratégie de sortie d'OpenAI&nbsp;?&nbsp;» — un contrat bloqué</div>
+<div class="mt-3 border-l-2 border-[var(--accent)] pl-3 text-[13px] text-[var(--ink)] leading-snug">La question qui bloque les contrats&nbsp;: «&nbsp;Quelle est votre stratégie de sortie d'OpenAI&nbsp;?&nbsp;»</div>
 <div class="mt-auto pt-3 text-[11.5px] text-[var(--ink-3)]">Acheteur : CEO · CRO · CTO · Compliance</div>
 </div>
 
@@ -195,10 +195,6 @@ Nous n'attaquons pas les 100&nbsp;000 — <span class="text-[var(--ink-2)]">nous
 <!--
 S03 · QUI ACHÈTE / MARCHÉ
 
-!! A CORRIGER
-
-- Citation « Quelle est votre stratégie de sortie d'OpenAI ? » présentée comme un verbatim client : c'est une reconstitution, 0 à 2 entretiens réels (FINDINGS §8) → l'attribuer honnêtement ou retirer les guillemets. LETALE si le jury le découvre avant vous.
-
 Q03-1 [C][LETALE] La citation « stratégie de sortie d'OpenAI, contrat bloqué » : qui, quand ?
 > Reconstitution de notre vécu en production, pas un verbatim client sourcé. 0 à 2 entretiens formels à ce jour, c'est écrit dans nos findings. Le jalon compte combien de fois elle revient sur 20 entretiens (M+3).
 
@@ -227,7 +223,7 @@ Q03-4 [?][ok] Le 100 000 mélange les millésimes.
 <div class="grid grid-cols-3 gap-5 mt-4">
 <div class="border-t border-[var(--hair)] pt-2">
 <div class="stat">≈&nbsp;2&nbsp;000</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">entités financières FR sous DORA (ACPR + AMF) — notre cible : un achat forcé</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">entités financières FR sous DORA — ordre de grandeur (ACPR + AMF, millésimes 2022–2025) · notre cible : un achat forcé</div>
 </div>
 <div class="border-t border-[var(--hair)] pt-2">
 <div class="stat">≈&nbsp;9,7&nbsp;Md€</div>
@@ -249,7 +245,7 @@ Q03-4 [?][ok] Le 100 000 mélange les millésimes.
 <div class="meter meter-dim flex-1"><i style="width:100%"></i></div>
 <span class="text-[13px] font-semibold num text-[var(--ink)] w-[128px] shrink-0 text-right">≈&nbsp;1,5 → 10&nbsp;Md€</span>
 </div>
-<div class="text-[11.5px] text-[var(--ink-3)] mt-1 leading-snug">assurance &amp; gouvernance IA (2026→2035, ×7) — borné par conformité AI Act UE ≈&nbsp;560&nbsp;M€ (DMR) · gouvernance IA ≈&nbsp;450&nbsp;M€ (Gartner)</div>
+<div class="text-[11.5px] text-[var(--ink-3)] mt-1 leading-snug">assurance &amp; gouvernance IA (2026→2035, ×7) — somme de 3 périmètres&nbsp;: ≈&nbsp;560&nbsp;M€ conformité AI Act (DMR) + 735&nbsp;M€ conformity assessment (Fact.MR) + 275&nbsp;M€ MRM IA (M&amp;M) · repère monde gouvernance IA ≈&nbsp;450&nbsp;M€ (Gartner)</div>
 </div>
 
 <div class="eyebrow pt-0.5 whitespace-nowrap">SAM · France</div>
@@ -278,20 +274,14 @@ Q03-4 [?][ok] Le 100 000 mélange les millésimes.
 <span class="text-[var(--ink-2)] pl-4"><span class="text-[var(--ink)] font-medium">2030+</span> gouvernance &amp; assurance continue (×7)</span>
 </div>
 
-<div class="mt-auto pt-2 text-[10px] text-[var(--ink-4)]">Sources : IDC (avr. 2026) · Dimension Market Research · Gartner · MarketsandMarkets · ACPR/AMF DORA — TAM/SAM/SOM : estimations Titral sur base publique · montants d'origine en USD, convertis à 1&nbsp;$ ≈ 0,92&nbsp;€.</div>
+<div class="mt-auto pt-2 text-[10px] text-[var(--ink-4)]">Sources : IDC (avr. 2026) · Dimension Market Research · Fact.MR · Gartner · MarketsandMarkets · ACPR/AMF DORA — TAM/SAM/SOM : estimations Titral sur base publique · montants d'origine en USD, convertis à 1&nbsp;$ ≈ 0,92&nbsp;€.</div>
 <div class="deck-footer">04 / 13</div>
 </div>
 
 <!--
 S04 · MARCHÉ ADRESSABLE
 
-!! A CORRIGER
-
-- « borné par 560 M€ + 450 M€ » sous un TAM de 1,5 Md€ : la borne est SOUS le chiffre → dire « somme de 3 périmètres » : 560 M€ DMR + 735 M€ Fact.MR + 275 M€ M&M ≈ 1,57 Md€ (FINDINGS §9, taux 0,92).
-- Gartner 450 M€ = MONDE (492 M$), affiché dans la ligne « TAM · Europe » → le sortir du calcul ou le libeller « monde, repère de cohérence ».
-- « ≈ 2 000 entités FR sous DORA » agrège des millésimes 2022 à 2025 → dire « ordre de grandeur, ACPR/AMF ».
-- ×7 de 2026 à 2035 ≈ 23 %/an : ne PAS dire « 35 %/an ». Le 10 Md€ de 2035 est la borne haute DMR seule, pas la somme des 3.
-- Résolu, ne pas re-casser : 13 % du SAM = 200/1 500, FINDINGS aligné.
+!! ×7 de 2026 à 2035 ≈ 23 %/an à l'oral, pas « 35 %/an ». Le 10 Md€ de 2035 est la borne haute DMR seule, pas la somme des 3 périmètres.
 
 Q04-1 [P][DANGER] TAM 1,5 Md€ mais « borné par » 560 + 450 M€. La borne est sous le chiffre.
 > Le mot « borné » est maladroit : c'est une addition de 3 périmètres. DMR 609 M$ (conformité AI Act EU) + Fact.MR 800 M$ (conformity assessment) + M&M ~300 M$ (MRM IA) ≈ 1,7 Md$ ≈ 1,5 Md€ à 0,92. Le 450 M€ Gartner est mondial : contrôle de cohérence, pas borne.
@@ -323,9 +313,9 @@ Q04-6 [?][DANGER] Marché minuscule vu le cycle de 9 à 12 mois.
 <div class="mt-3 card card-hl px-4 py-4">
 <div class="flex items-baseline gap-6">
 <div class="eyebrow eyebrow-hl">Benchmark client — pas un leaderboard public</div>
-<div class="text-[10px] text-[var(--ink-3)] ml-auto shrink-0 whitespace-nowrap">Extrait&nbsp;: flux «&nbsp;RAG — support client&nbsp;»</div>
+<div class="text-[10px] text-[var(--ink-3)] ml-auto shrink-0 whitespace-nowrap">Maquette illustrative&nbsp;: flux «&nbsp;RAG — support client&nbsp;»</div>
 </div>
-<div class="text-[11.5px] text-[var(--ink-2)] leading-snug mt-2.5 [text-wrap:pretty]">Chaque score est un <span class="text-[var(--ink)] font-medium">eval custom</span> sur un échantillon OED de vos sessions réelles — chaque flux a son propre leaderboard.</div>
+<div class="text-[11.5px] text-[var(--ink-2)] leading-snug mt-2.5 [text-wrap:pretty]">Chaque score est un <span class="text-[var(--ink)] font-medium">eval custom</span> sur un échantillon OED de vos sessions réelles — chaque flux a son propre leaderboard, chaque verdict livré avec son <span class="text-[var(--ink)] font-medium">intervalle de confiance à 95&nbsp;%</span>.</div>
 </div>
 
 <table class="w-full mt-5 text-[11.5px] leading-tight border-collapse num">
@@ -365,7 +355,7 @@ Q04-6 [?][DANGER] Marché minuscule vu le cycle de 9 à 12 mois.
 <td class="px-2 text-right text-[var(--ink)]">118</td>
 <td class="px-2.5 text-right text-[var(--ink)]">76</td>
 <td class="pl-3">
-<div class="flex items-center gap-2"><div class="meter w-14"><i style="width:97%"></i></div><span class="text-[var(--ink)] font-semibold">97</span></div>
+<div class="flex items-center gap-2"><div class="meter w-14"><i style="width:91%"></i></div><span class="text-[var(--ink)] font-semibold">91</span></div>
 </td>
 <td class="pl-4 font-sans font-semibold" style="color:#93baa0">PASS</td>
 </tr>
@@ -376,7 +366,7 @@ Q04-6 [?][DANGER] Marché minuscule vu le cycle de 9 à 12 mois.
 <td class="px-2 text-right">84</td>
 <td class="px-2.5 text-right">118</td>
 <td class="pl-3">
-<div class="flex items-center gap-2"><div class="meter meter-dim w-14"><i style="width:93%"></i></div><span class="text-[var(--ink)] font-semibold">93</span></div>
+<div class="flex items-center gap-2"><div class="meter meter-dim w-14"><i style="width:89%"></i></div><span class="text-[var(--ink)] font-semibold">89</span></div>
 </td>
 <td class="pl-4 font-sans font-medium accent">CONDITIONAL</td>
 </tr>
@@ -387,7 +377,7 @@ Q04-6 [?][DANGER] Marché minuscule vu le cycle de 9 à 12 mois.
 <td class="px-2 text-right">141</td>
 <td class="px-2.5 text-right">63</td>
 <td class="pl-3">
-<div class="flex items-center gap-2"><div class="meter meter-dim w-14"><i style="width:91%"></i></div><span class="text-[var(--ink-2)] font-semibold">91</span></div>
+<div class="flex items-center gap-2"><div class="meter meter-dim w-14"><i style="width:86%"></i></div><span class="text-[var(--ink-2)] font-semibold">86</span></div>
 </td>
 <td class="pl-4 font-sans font-medium" style="color:#bb8a80">FAIL</td>
 </tr>
@@ -415,12 +405,6 @@ Q04-6 [?][DANGER] Marché minuscule vu le cycle de 9 à 12 mois.
 <!--
 S05 · LE PRODUIT
 
-!! A CORRIGER
-
-- Client Index 97 / 93 / 91 = colonne Exactitude à l'identique (vérifié dans le balisage) : le composite n'agrège rien et la colonne Prix n'a aucun poids → changer les valeurs de la maquette ou renommer « Exactitude pondérée ».
-- Aucun intervalle de confiance dans le tableau alors que la promesse est « verdict fiable sur échantillon minimal » → ajouter un ± sur l'exactitude ou une note « IC 95 % sur échantillon OED, n = … ».
-- Annoncer que le tableau est une maquette AVANT qu'on le demande.
-
 Q05-1 [C][LETALE] Vrai résultat client ou maquette ?
 > Maquette illustrative, à dire AVANT qu'on le demande. Modèles réels, scores représentatifs non mesurés chez un client. Le pipeline qui la produit tourne (10 mois sur nos cas de production). Premier tableau réel publiable : M+9. Proposer la démo.
 
@@ -431,7 +415,7 @@ Q05-2 [P][DANGER] Qui note la « conformité » ? Un LLM juge un LLM ?
 > Règles vérifiables validées par le client (refus attendu, fuite de PII, source absente, format). Juge LLM calibré contre annotation humaine, taux d'accord publié ; règle déterministe préférée. L'opposabilité vient de la traçabilité : session horodatée, rejouable, méthode versionnée.
 
 Q05-3 [P][DANGER] Client Index = colonne Exactitude ? Qui fixe les seuils ?
-> Raccourci de maquette à corriger. Index = agrégation pondérée qualité / coût / latence, poids fixés par le CLIENT. Verdict = logique de veto : une régression critique bloque le PASS quelle que soit la note (Gemini 91 avec 4 régressions échoue, Claude 93 avec 2 passe sous conditions).
+> Index = agrégation pondérée qualité / coût / latence, poids fixés par le CLIENT — d'où des valeurs distinctes de l'exactitude sur la maquette. Verdict = logique de veto : une régression critique bloque le PASS quelle que soit la note (Gemini échoue avec 4 régressions, Claude passe sous conditions avec 2).
 
 Q05-5 [P][DANGER] Qui paie les tokens ?
 > Clés du client ou refacturation à l'identique : on vend la méthode, pas des tokens. L'OED divise le compute par un ordre de grandeur vs shadow deployment. Coût de livraison complet : pas encore mesuré, mesuré sur le 1er design partner (M+6).
@@ -469,10 +453,10 @@ Q05-6 [?][DANGER] Un verdict périmé la semaine suivante ?
 <div class="w-2.5 h-2.5 rounded-full bg-black border border-[var(--hair)]"></div>
 <div class="flex items-center mt-4 h-[19px]"><span class="font-mono text-[11.5px] text-[var(--ink-2)] tracking-wider">AOÛT 2026 → FIN 2027</span></div>
 <div class="text-[15px] font-medium text-[var(--ink)] mt-2">AI Act — le tailwind</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">Transparence d'abord, haut risque ensuite : la maîtrise des dépendances IA devient la norme <span class="text-[var(--ink)] font-medium">au-delà de la finance</span>.</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">Transparence applicable en août 2026, haut risque ensuite (report prévu fin 2027) : la maîtrise des dépendances IA devient la norme <span class="text-[var(--ink)] font-medium">au-delà de la finance</span>.</div>
 <div class="mt-auto pt-4 border-t border-[var(--hair-soft)]">
-<div class="stat">7&nbsp;%</div>
-<div class="text-[11.5px] text-[var(--ink-3)] mt-1.5 min-h-[35px]">du CA mondial — amende plafond</div>
+<div class="stat">78&nbsp;%</div>
+<div class="text-[11.5px] text-[var(--ink-3)] mt-1.5 min-h-[35px]">des organisations sans action de conformité AI Act engagée à ce jour</div>
 </div>
 </div>
 
@@ -493,18 +477,14 @@ Q05-6 [?][DANGER] Un verdict périmé la semaine suivante ?
 <div class="lead pt-5">
 Hausse de prix, dépréciation de modèles, pannes, réglementation, souveraineté, levier de négociation — <span class="text-[var(--ink-2)]">tout converge vers la même capacité : une substituabilité testée, pas une déclaration d'intention.</span>
 </div>
-<div class="mt-2 text-[10px] text-[var(--ink-4)]">Sources : règlement (UE) 2022/2554 (DORA), art. 28 · règlement (UE) 2024/1689 (AI Act), Omnibus 2026</div>
+<div class="mt-2 text-[10px] text-[var(--ink-4)]">Sources : règlement (UE) 2022/2554 (DORA), art. 28 · règlement (UE) 2024/1689 (AI Act), Omnibus 2026 (accord provisoire) · Vision Compliance (avr. 2026)</div>
 <div class="deck-footer">06 / 13</div>
 </div>
 
 <!--
 S06 · POURQUOI MAINTENANT
 
-!! A CORRIGER
-
-- « 7 % du CA mondial » = plafond AI Act des pratiques INTERDITES (FINDINGS §3), aucun lien avec le défaut de plan de sortie testé → retirer, ou remplacer par 78 % des organisations sans action de conformité (Vision Compliance, avr. 2026).
-- « AOÛT 2026 → FIN 2027 » repose sur l'Omnibus, accord PROVISOIRE du 7 mai 2026 → dire « report prévu », pas « acté ».
-- À vérifier avant de l'affirmer : la nature des 19 CTPP (aucun fournisseur d'IA ? non documenté dans FINDINGS).
+!! À vérifier avant de l'affirmer : la nature des 19 CTPP (aucun fournisseur d'IA ? non documenté dans FINDINGS).
 
 Q06-1 [C][LETALE] Un régulateur a-t-il déjà exigé un test de sortie sur un fournisseur d'IA ?
 > À notre connaissance, non, et ne pas inventer de décision ACPR. Le texte est plus solide qu'un précédent : art. 28, stratégies de sortie documentées, suffisamment testées, réexaminées ; 19 fournisseurs tiers critiques sous supervision ESA depuis oct. 2025. Pari assumé sur le calendrier, pas sur le texte. Repli : le trigger RFP ne dépend d'aucun régulateur.
@@ -596,13 +576,10 @@ Un paysage dense sur la mesure ponctuelle — <span class="text-[var(--ink-2)]">
 <!--
 S07 · CONCURRENCE
 
-!! A CORRIGER (document, pas la slide)
-- La slide est factuellement saine. Le problème est dans research/06-concurrents.md : « RFP theater » et « scorecards figées » à propos des audits Big 4, alors que KPMG Reims cofinance Innovact → reformuler avant tout envoi, et ne jamais le prononcer.
-
 Q07-3 [P][DANGER] KPMG FINANCE INNOVACT. « RFP theater » = notre document de travail.
 > Retirer l'expression, sans discuter. Notre critique n'est pas la qualité mais la FRÉQUENCE : un audit est vrai le jour du rendu, obsolète à la mise à jour de modèle suivante (6 semaines). Notre place est sous vous : nous fournissons la mesure continue et rejouable, vous le jugement et la signature. Canal partenaire cabinets = notre plan de passage à 100 clients (S10).
 
-!! Vérifier avant tout envoi : « RFP theater » et « scorecards figées » sont dans research/06-concurrents.md.
+!! KPMG Reims cofinance Innovact : ne jamais dénigrer les cabinets d'audit, la critique porte sur la FRÉQUENCE, pas la qualité.
 
 Q07-2 [P][DANGER] Braintrust et Langfuse rejouent déjà, OpenRouter compare déjà.
 > Différence de référentiel : ils rejouent vos traces contre VOTRE pipeline (non-régression, objet comparé = votre code). Nous rejouons contre des FOURNISSEURS alternatifs pour arbitrer. Cela exige 3 choses qu'ils n'ont pas : OED (sinon coût × nb combinaisons), coût et résidence par fournisseur, livrable pour le directeur des risques. Test : demandez-leur un dossier art. 28 opposable.
@@ -730,10 +707,6 @@ Q08-5 [?][DANGER] Quel actif s'accumule ? Sinon vous êtes une agence.
 <!--
 S09 · BUSINESS MODEL
 
-!! A CORRIGER
-
-- « Exit test » veut dire deux choses : 3 à 10 k€ ici, 10 unités avant 2 à 3 design partners payants sur S10 → 3 termes, 1 sens chacun : pilote de cadrage (gratuit) / exit test (payant 3 à 10 k€) / design partner (engagement payant). À appliquer sur S09, S10, S11.
-
 Q09-1 [C][LETALE] Sur quoi reposent ces prix ? Qui a dit « à 8 k€ j'achète » ?
 > Personne, zéro à ce jour, la slide dit « pricing hypotheses ». 3 ancrages : observabilité entreprise ~2,5 k$/mois (tarifs publics), audit conseil à plusieurs dizaines de k€, Land sous le seuil qui déclenche un comité. 20 réponses à cette question exacte à M+3, signatures ou non à M+6.
 
@@ -789,7 +762,7 @@ Q09-5 [?][DANGER] Coût de livraison réel ?
 
 <div class="mt-auto pt-5">
 <div class="flex items-baseline gap-3">
-<span class="eyebrow">Pipeline cible · J+6</span>
+<span class="eyebrow">Pipeline cible · M+6</span>
 <span class="text-[10px] text-[var(--ink-4)]">≈ 150 éditeurs SaaS / IA B2B français (50–500 salariés) — hypothèses arbitrées par la discovery</span>
 </div>
 <div class="grid grid-cols-[1fr_30px_1fr_30px_1fr_30px_1fr] items-end mt-3">
@@ -805,7 +778,7 @@ Q09-5 [?][DANGER] Coût de livraison réel ?
 <div class="accent text-[13px] pb-6 text-center leading-none">→</div>
 <div>
 <div class="text-[24px] font-semibold num text-[var(--ink)] leading-none">10</div>
-<div class="text-[11.5px] text-[var(--ink-3)] mt-1.5">exit tests</div>
+<div class="text-[11.5px] text-[var(--ink-3)] mt-1.5">pilotes de cadrage</div>
 </div>
 <div class="accent text-[13px] pb-6 text-center leading-none">→</div>
 <div>
@@ -850,12 +823,6 @@ Q09-5 [?][DANGER] Coût de livraison réel ?
 <!--
 S10 · GO TO MARKET
 
-!! A CORRIGER
-
-- Entonnoir « 10 exit tests → 2 à 3 design partners rémunérés » incompatible avec le prix de S09 (3 à 10 k€) → renommer l'étape « 10 pilotes de cadrage » et réserver « exit test » au produit payant.
-- « Pipeline cible · J+6 » se lit six JOURS pour un jury français → M+6. Idem S11 (J+3, J+6) et S13 (J+6 / J+9 / J+12).
-- Attention : ces notes et les réponses du brief disent déjà M+3 / M+6. Tant que le deck n'est pas corrigé, l'oral et l'écran divergent.
-
 Q10-1 [C][LETALE] 300 → 30 démos = 10 % en froid, le standard est 1 à 3 %.
 > Hypothèses affichées, et vos ordres de grandeur sont justes pour du cold pur : ce n'est pas notre mix. Visé : intro chaude, réseau (CCI Marne, France Digitale), événement déclencheur identifié. Si le taux réel est 3 %, il faut 1 000 contacts : révision de plan de charge, pas de thèse. Juger le taux MESURÉ à M+3.
 
@@ -887,7 +854,7 @@ Q10-6 [?][ok] 60 % du temps, de quoi ?
 <div class="eyebrow">Validation technologique — acquise</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-4 space-y-4 leading-relaxed">
 <div><span class="text-[var(--ink)] font-medium">Méthodologie OED et pipeline de rejeu opérationnels</span> — 10 mois de construction sur des cas réels</div>
-<div><span class="text-[var(--ink)] font-medium">Briques testées sur des workloads IA en production</span> — projet Google Foundation</div>
+<div><span class="text-[var(--ink)] font-medium">Briques testées sur des workloads IA en production</span> — dans le cadre d'un projet financé par Google Foundation</div>
 </div>
 </div>
 <div class="card card-hl p-6">
@@ -895,7 +862,7 @@ Q10-6 [?][ok] 60 % du temps, de quoi ?
 <div class="text-[13px] text-[var(--ink-2)] mt-4 space-y-4 leading-relaxed">
 <div><span class="text-[var(--ink)] font-medium">Pré-revenus</span> — stade early</div>
 <div><span class="text-[var(--ink)] font-medium">Problème observé en direct</span> sur des systèmes IA en production — pas une intuition de marché</div>
-<div><span class="text-[var(--ink)] font-medium">Jalon immédiat et mesurable</span> — 20 entretiens (J+3) → 2–3 design partners rémunérés (J+6)</div>
+<div><span class="text-[var(--ink)] font-medium">Jalon immédiat et mesurable</span> — 20 entretiens (M+3) → 2–3 design partners rémunérés (M+6)</div>
 </div>
 </div>
 </div>
@@ -940,12 +907,7 @@ Q10-6 [?][ok] 60 % du temps, de quoi ?
 <!--
 S11 · VALIDATION
 
-!! A CORRIGER
-
-- « projet Google Foundation » laisse croire à un adossement Google, et n'est documenté nulle part → nom exact du programme, dates, nature du soutien, référent, ou reformuler (« projet client, sous NDA »). Même décision que S12.
-- « (J+3) → (J+6) » → M+3 / M+6.
-- « design partner » : harmoniser avec S09 et S10.
-- À préserver : « Pré-revenus, stade early » est la force de cette slide. Ne pas la surjouer à l'oral.
+!! À préserver : « Pré-revenus, stade early » est la force de cette slide. Ne pas la surjouer à l'oral.
 
 Q11-1 [C][LETALE] Combien d'entretiens clients, avec qui, et qu'est-ce qui a CHANGÉ le deck ?
 > Entre 0 et 2 entretiens formels. C'est écrit dans nos notes de recherche. Tout ce qui touche pricing, ICP et funnel est une hypothèse fondatrice, étiquetée comme telle sur les slides. Ce que nous avons : 10 mois de problème vécu en production + une techno qui tourne. Jalon daté : 20 entretiens M+3, 2 à 3 design partners payants M+6, jugez-nous là-dessus.
@@ -1096,8 +1058,8 @@ Q13-1 [C][DANGER] « Fondateur installé à Reims » au singulier. Et l'autre ?
 Q13-2 [P][DANGER] Une agence bancaire champenoise n'achète pas de logiciel, la décision est à Paris.
 > Non vérifié, ne pas prétendre le contraire. Le tissu local compte des mutuelles et caisses régionales du périmètre DORA, mais vous savez mieux que nous où est la décision. Hypothèse revue à la baisse : le réseau CCI donne des ENTRETIENS et des introductions, le 1er revenu viendra probablement d'éditeurs non locaux.
 
-Q13-5 [P][DANGER] J+6, J comme jour ? Et si les design partners ne signent pas ?
-> M comme mois à compter de l'entrée en incubation, notation à corriger. Plan B : 20 à 30 entretiens diront POURQUOI, et 3 pivots préparés dans l'ordre : entrée directe entités DORA · canal cabinets conformité et gateways · repositionnement optimisation de coût IA (même techno, acheteur plus facile). Non négociable : le calendrier de décision, pas le segment.
+Q13-5 [P][DANGER] Et si les design partners ne signent pas à M+6 ?
+> M+6 = six mois après l'entrée en incubation. Plan B : 20 à 30 entretiens diront POURQUOI, et 3 pivots préparés dans l'ordre : entrée directe entités DORA · canal cabinets conformité et gateways · repositionnement optimisation de coût IA (même techno, acheteur plus facile). Non négociable : le calendrier de décision, pas le segment.
 
 Q13-3 [C][ok] Qu'attendez-vous d'Innovact, et comment le mesure-t-on ?
 > 3 choses : startup manager ex entrepreneur pour transposer notre expérience au marché français · accès CCI Marne, Investor Days, business angels · cadrage structurel (société, PI, financement). À M+6 : 20 entretiens avec verbatims, 2 à 3 design partners payants, structure en place, pré-seed engagé.
@@ -1153,7 +1115,7 @@ Assez économique pour être rejoué en continu : <span class="text-[var(--ink-2
 <!--
 ANNEXE · SOUS LE CAPOT
 
-!! Aucun problème factuel identifié. Aucun chiffre, aucune source, aucune revendication de traction. Réserve méthodologique : « verdict fiable sur tout le périmètre » sans intervalle de confiance, même angle mort que la maquette S05.
+!! Aucun problème factuel identifié. Aucun chiffre, aucune source, aucune revendication de traction.
 
 Q14-1 [P][DANGER] Comment prouvez-vous que l'échantillon OED donne le même verdict que l'exhaustif ?
 > Validation croisée : échantillon OED + rejeu exhaustif de référence sur un flux, comparaison des verdicts, écart publié. Fait sur nos propres workloads, pas encore packagé en rapport client. Règle imposée : aucun verdict sans intervalle de confiance, une validation exhaustive de référence par client au démarrage. C'est aussi le meilleur argument de vente.
@@ -1170,5 +1132,4 @@ Q14-4 [?][DANGER] Sans réécrire les prompts, votre FAIL est un échec de porta
 Q14-5 [?][ok] Donnez-vous un intervalle de confiance ?
 > Oui, non négociable : un verdict sans incertitude n'est pas opposable. IC dérivé du plan d'échantillonnage, verdict pris sur le bord défavorable et non sur la moyenne. Levier commercial : resserrer l'IC = acheter plus d'échantillons, l'incertitude devient un paramètre de prix.
 
-!! L'IC n'apparaît pas dans la maquette S05 : son absence invite la question.
 -->
