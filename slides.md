@@ -52,9 +52,6 @@ Reims · Septembre 2026
 </div>
 
 <!--
-S01 · TITRAL — CONTINUOUS AI EXIT READINESS
-
-!! Aucun problème factuel identifié sur cette slide.
 
 Q01-1 [C][ok] Concrètement le client reçoit quoi ?
 > 3 livrables : classement des alternatives sur ses flux · plan de sortie par appli · dossier de preuves art. 28. On dit vers quoi migrer, pas comment.
@@ -119,9 +116,6 @@ Q01-4 [?][DANGER] Et si un fournisseur interdit le benchmarking ?
 </div>
 
 <!--
-S02 · PROBLÈME
-
-!! Aucun problème factuel identifié. Chiffres et sources conformes à FINDINGS, aucun montant d'amende DORA affiché. Faiblesse argumentative seulement (biais du sondage IBM, populations différentes).
 
 Q02-1 [P][DANGER] 71 % vient d'IBM, qui vend du souverain. Preuve non vendeur ?
 > Vrai biais. Le chiffre dur : Menlo déc. 2025, 11 % seulement ont changé de fournisseur (66 % upgradent en interne, 23 % rien). Et DORA art. 28 est en vigueur depuis le 17/01/2025, ce n'est pas déclaratif.
@@ -154,7 +148,7 @@ Q02-3 [?][ok] Vos 3 chiffres parlent de 3 populations.
 <div class="stat mt-3">≈&nbsp;100&nbsp;000</div>
 <div class="meter meter-dim mt-2.5"><i style="width:100%"></i></div>
 <div class="text-[13px] text-[var(--ink-2)] mt-2.5 leading-snug">entreprises moyennes ou grandes en Europe utilisent déjà l'IA</div>
-<div class="text-[11.5px] text-[var(--ink-4)] mt-auto pt-2 leading-snug">ordre de grandeur : 251&nbsp;k × 30,4&nbsp;% + 55&nbsp;k × 55&nbsp;% (Eurostat 2024-2025)</div>
+<div class="text-[11.5px] text-[var(--ink-4)] mt-auto pt-2 leading-snug">estimation : 251&nbsp;k × 30,4&nbsp;% + 55&nbsp;k × 55&nbsp;% (Eurostat 2024-2025)</div>
 </div>
 
 <div class="flex flex-col card card-hl p-4">
@@ -163,7 +157,7 @@ Q02-3 [?][ok] Vos 3 chiffres parlent de 3 populations.
 </div>
 <div class="text-[15px] font-medium text-[var(--ink)] mt-3 leading-snug">Éditeurs SaaS / IA B2B européens</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">50–500 salariés, vendant aux banques, assurances et acteurs publics</div>
-<div class="mt-3 border-l-2 border-[var(--accent)] pl-3 text-[13px] text-[var(--ink)] leading-snug">La question qui bloque les contrats&nbsp;: «&nbsp;Quelle est votre stratégie de sortie d'OpenAI&nbsp;?&nbsp;»</div>
+<div class="mt-3 border-l-2 border-[var(--accent)] pl-3 text-[13px] text-[var(--ink)] leading-snug">La question que leurs clients bancaires doivent poser avant de signer&nbsp;: quelle est votre stratégie de sortie d'OpenAI/Claude&nbsp;?</div>
 <div class="mt-auto pt-3 text-[11.5px] text-[var(--ink-3)]">Acheteur : CEO · CRO · CTO · Compliance</div>
 </div>
 
@@ -173,18 +167,14 @@ Q02-3 [?][ok] Vos 3 chiffres parlent de 3 populations.
 </div>
 <div class="stat mt-3">≈&nbsp;22&nbsp;000</div>
 <div class="mt-2.5 h-[3px] flex items-center"><div class="h-px w-full bg-[var(--hair)]"></div></div>
-<div class="text-[13px] text-[var(--ink-2)] mt-2.5 leading-snug">entités financières européennes sous DORA (cf. slide 02)</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-2.5 leading-snug">entités financières européennes sous DORA</div>
 <div class="text-[11.5px] text-[var(--ink-4)] mt-auto pt-2 leading-snug">puis toute entreprise pour laquelle l'IA devient une infrastructure critique</div>
 </div>
 
 </div>
 
-<div class="mt-4 lead">
-Nous n'attaquons pas les 100&nbsp;000 — <span class="text-[var(--ink-2)]">nous attaquons ceux à qui l'on demande déjà la preuve.</span>
-</div>
-
 <div class="mt-3 flex items-baseline gap-4 border-t border-[var(--hair-soft)] pt-2.5">
-<span class="eyebrow shrink-0">Où les trouver</span>
+<span class="eyebrow shrink-0">Source:</span>
 <span class="text-[11.5px] text-[var(--ink-3)] leading-snug">Forum Fintech ACPR/AMF · France Digitale · plateformes RFP publiques · conférences TPRM / DORA · réseaux CCI</span>
 </div>
 
@@ -193,8 +183,6 @@ Nous n'attaquons pas les 100&nbsp;000 — <span class="text-[var(--ink-2)]">nous
 </div>
 
 <!--
-S03 · QUI ACHÈTE / MARCHÉ
-
 Q03-1 [C][LETALE] La citation « stratégie de sortie d'OpenAI, contrat bloqué » : qui, quand ?
 > Reconstitution de notre vécu en production, pas un verbatim client sourcé. 0 à 2 entretiens formels à ce jour, c'est écrit dans nos findings. Le jalon compte combien de fois elle revient sur 20 entretiens (M+3).
 
@@ -223,15 +211,15 @@ Q03-4 [?][ok] Le 100 000 mélange les millésimes.
 <div class="grid grid-cols-3 gap-5 mt-4">
 <div class="border-t border-[var(--hair)] pt-2">
 <div class="stat">≈&nbsp;2&nbsp;000</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">entités financières FR sous DORA — ordre de grandeur (ACPR + AMF, millésimes 2022–2025) · notre cible : un achat forcé</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">cible initiale: entités financières FR sous DORA </div>
 </div>
 <div class="border-t border-[var(--hair)] pt-2">
 <div class="stat">≈&nbsp;9,7&nbsp;Md€</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">de conformité AI Act UE en 2035 — expansion, pas hypothèse de revenus</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">de conformité AI Act UE en 2035 </div>
 </div>
 <div class="border-t border-[var(--hair)] pt-2">
 <div class="stat">≈&nbsp;265&nbsp;Md€</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">d'IA des entreprises UE en 2029 — la dépense de nos clients, pas notre marché</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1 leading-snug">d'IA des entreprises UE en 2029 </div>
 </div>
 </div>
 
@@ -251,19 +239,19 @@ Q03-4 [?][ok] Le 100 000 mélange les millésimes.
 <div class="eyebrow pt-0.5 whitespace-nowrap">SAM · France</div>
 <div>
 <div class="flex items-center gap-3">
-<div class="meter meter-dim flex-1"><i style="width:13%"></i></div>
+<div class="meter meter-dim flex-1"><i style="width:25%"></i></div>
 <span class="text-[13px] font-semibold num text-[var(--ink)] w-[128px] shrink-0 text-right">≈&nbsp;200&nbsp;M€</span>
 </div>
 <div class="text-[11.5px] text-[var(--ink-3)] mt-1 leading-snug">secteurs régulés : finance (DORA) + santé + fournisseurs du public — ≈&nbsp;13&nbsp;% du TAM UE (est. Titral)</div>
 </div>
 
-<div class="eyebrow eyebrow-hl pt-0.5 whitespace-nowrap">SOM · 2–3 ans</div>
+<div class="eyebrow eyebrow-hl pt-0.5 whitespace-nowrap">SOM · 1–2 ans</div>
 <div>
 <div class="flex items-center gap-3">
-<div class="meter flex-1"><i style="width:4px;min-width:4px"></i></div>
-<span class="text-[13px] font-semibold num accent w-[128px] shrink-0 text-right">≈&nbsp;500&nbsp;k€ ARR</span>
+<div class="meter flex-1"><i style="width:40px;min-width:4px"></i></div>
+<span class="text-[13px] font-semibold num accent w-[128px] shrink-0 text-right">≈&nbsp;1,5&nbsp;M€ ARR</span>
 </div>
-<div class="text-[11.5px] text-[var(--ink-2)] mt-1 leading-snug">20–30 comptes × 15–30&nbsp;k€/an — <span class="text-[var(--ink)]">&lt;&nbsp;1&nbsp;% de pénétration du SAM</span>, sous le prix d'un audit-conseil manuel</div>
+<div class="text-[11.5px] text-[var(--ink-2)] mt-1 leading-snug">20–30 comptes × 30–80&nbsp;k€/an — <span class="text-[var(--ink)]">&lt;&nbsp;1&nbsp;% de pénétration du SAM</span>, sous le prix d'un audit-conseil manuel</div>
 </div>
 
 </div>
@@ -279,7 +267,6 @@ Q03-4 [?][ok] Le 100 000 mélange les millésimes.
 </div>
 
 <!--
-S04 · MARCHÉ ADRESSABLE
 
 !! ×7 de 2026 à 2035 ≈ 23 %/an à l'oral, pas « 35 %/an ». Le 10 Md€ de 2035 est la borne haute DMR seule, pas la somme des 3 périmètres.
 
@@ -482,10 +469,6 @@ Hausse de prix, dépréciation de modèles, pannes, réglementation, souverainet
 </div>
 
 <!--
-S06 · POURQUOI MAINTENANT
-
-!! À vérifier avant de l'affirmer : la nature des 19 CTPP (aucun fournisseur d'IA ? non documenté dans FINDINGS).
-
 Q06-1 [C][LETALE] Un régulateur a-t-il déjà exigé un test de sortie sur un fournisseur d'IA ?
 > À notre connaissance, non, et ne pas inventer de décision ACPR. Le texte est plus solide qu'un précédent : art. 28, stratégies de sortie documentées, suffisamment testées, réexaminées ; 19 fournisseurs tiers critiques sous supervision ESA depuis oct. 2025. Pari assumé sur le calendrier, pas sur le texte. Repli : le trigger RFP ne dépend d'aucun régulateur.
 
