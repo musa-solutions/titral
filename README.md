@@ -23,9 +23,9 @@ Structure (v3 — recentrée marché / ICP / GTM) :
    modèle/prix) · pipeline cible chiffré (300 contacts → 30 démos → 10 exit tests → 2–3
    design partners) · co-sell clouds souverains · 60 % du temps fondateur sur 6 mois
 11. Validation — preuve technologique vs validation commerciale (honnête : pré-revenus)
-   · jalon discovery mesurable : 20 entretiens (J+3) → design partners (J+6)
-12. Équipe — repeat entrepreneurs (Studiare→Kroton 2015, AIO 70 000+ étudiants)
-13. Pourquoi Innovact — ancrage Reims, jalons 6-12 mois, écosystème Grand Est
+   · jalon discovery mesurable : 20 entretiens (M+3) → design partners (M+6)
+12. Équipe — repeat entrepreneurs (Studiare→Cogna 2015, AIO 70 000+ étudiants)
+13. Pourquoi Innovact — ce qu'Innovact débloque, écosystème Grand Est, jalons 6–12 mois
 - Annexe — Sous le capot : rejeu de production, échantillonnage OED, benchmarks par tâche
 
 Design : fond noir avec vignette radiale (`styles/index.css`), Inter pour le
