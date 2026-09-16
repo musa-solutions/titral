@@ -86,14 +86,12 @@ Q02-3 [?][ok] Vos 3 chiffres parlent de 3 populations.
 <!--
 S03 · QUI ACHÈTE / MARCHÉ
 
-!! A CORRIGER
+!! RÉSOLU — la carte Beachhead ne présente plus de verbatim : « La question que leurs clients bancaires doivent poser avant de signer : quelle est votre stratégie de sortie d'OpenAI ? » — sans guillemets de citation, sans « bloque les contrats » (0 contrat bloqué nommé, cf. Q03-3), ancrée DORA art. 28(2).
 
-- Citation « Quelle est votre stratégie de sortie d'OpenAI ? » présentée comme un verbatim client : c'est une reconstitution, 0 à 2 entretiens réels (FINDINGS §8) → l'attribuer honnêtement ou retirer les guillemets. LETALE si le jury le découvre avant vous.
+Q03-1 [C][→ GÉRABLE] La question « stratégie de sortie d'OpenAI » : qui l'a posée, quand ?
+> Plus de verbatim à défendre : la question est présentée comme une exigence réglementaire, pas une citation terrain. Si le jury insiste sur l'origine : notre vécu en production, 0 à 2 entretiens formels à ce jour (FINDINGS §8) ; le jalon compte combien de fois elle revient sur 20 entretiens (M+3).
 
-Q03-1 [C][LETALE] La citation « stratégie de sortie d'OpenAI, contrat bloqué » : qui, quand ?
-> Reconstitution de notre vécu en production, pas un verbatim client sourcé. 0 à 2 entretiens formels à ce jour, c'est écrit dans nos findings. Le jalon compte combien de fois elle revient sur 20 entretiens (M+3).
-
-!! Ne pas broder. La franchise est la seule sortie de cette question.
+!! Ne pas broder sur des occurrences terrain non sourcées.
 
 Q03-2 [P][DANGER] Les éditeurs SaaS ne sont pas soumis à DORA.
 > Choix assumé : pas l'obligation, l'urgence. Un contrat non signé se chiffre tout de suite, une amende hypothétique non. Le « oui on a un plan B » gratuit tombe dès que l'acheteur exige la preuve, ce que l'art. 28 lui impose d'obtenir.
@@ -198,6 +196,9 @@ Q06-3 [P][DANGER] Le 7 % ne concerne pas le défaut de plan de sortie. Et DORA n
 
 Q06-2 [P][DANGER] L'Omnibus repousse le haut risque à fin 2027 : votre why now tombe.
 > Deck déjà recadré : DORA impose, le reste amplifie. Applicable en 2026 : DORA depuis janv. 2025 + transparence art. 50 au 02/08/2026. Annexe III repoussée au 02/12/2027 (accord provisoire du 07/05/2026). L'AI Act est notre tailwind 2027-2029.
+
+Q06-6 [P][DANGER] L'AI Act n'impose aucune substituabilité de fournisseurs : pourquoi l'invoquer ?
+> Exact — aucun article n'exige de plan de sortie. Le lien est la documentation des dépendances. Calendrier complet (FINDINGS §3, Omnibus accord provisoire du 07/05/2026) : art. 50 transparence au 02/08/2026 · Annexe III haut risque au 02/12/2027 · Annexe I IA embarquée → 2028 · GPAI en place → août 2027. Readiness : 78 % sans action de conformité, 83 % sans inventaire de systèmes IA, 74 % sans responsable désigné, 61 % sans documentation technique (Vision Compliance, avr. 2026). L'AI Act impose l'inventaire et la traçabilité des systèmes IA : il crée la demande de preuve 2027-2029, DORA signe le contrat 2026. Ne JAMAIS dire « le 2 août 2026 = haut risque ».
 
 Q06-4 [?][ok] Aucun fournisseur d'IA parmi les 19 CTPP.
 > Vrai : cloud et paiement. Indicateur de trajectoire, pas de marché : le mécanisme existe, l'IA est le candidat suivant.

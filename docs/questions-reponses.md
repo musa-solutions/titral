@@ -121,20 +121,19 @@ populations différentes), pas factuelle — voir Q02-1 et Q02-3.
 
 ## Slide 03 — Un marché déjà installé, avec une pression réglementaire croissante
 
-> ⚠️ **À corriger avant la soutenance — slide 03**
+> ✅ **Résolu — slide 03**
 >
-> **1. La citation présentée comme un verbatim client** — `LETALE`, cf. `Q03-1`
-> · *Ce que dit la slide* : dans la carte « Beachhead », un bloc entre guillemets avec un filet
-> d'accent — « Quelle est votre stratégie de sortie d'OpenAI ? » — un contrat bloqué — sans
-> attribution. Le traitement typographique la fait lire comme un verbatim terrain.
-> · *Pourquoi c'est indéfendable* : c'est une reconstitution du vécu des fondateurs. À ce jour
-> **0 à 2 entretiens de discovery formels** (`FINDINGS` §8, qui précise qu'aucune donnée de
-> traction n'est revendiquée). Un juré qui demande « qui l'a dite ? » obtient un aveu au pire
-> moment du pitch.
-> · *Correction* : deux options. **(a)** Attribuer honnêtement : « ce que nous avons entendu sur
-> nos propres workloads — à confirmer en discovery ». **(b)** Retirer les guillemets et en faire
-> une hypothèse assumée : « Le déclencheur que nous testons : la question de sortie posée en
-> RFP. » Dans les deux cas, **dire l'origine à l'oral avant qu'on la demande**.
+> **1. La citation présentée comme un verbatim client** — corrigé, cf. `Q03-1`
+> · *Ce que dit la slide maintenant* : la carte « Beachhead » formule « La question que leurs
+> clients bancaires doivent poser avant de signer : quelle est votre stratégie de sortie
+> d'OpenAI ? » — sans guillemets de citation, sans « bloque les contrats ».
+> · *Pourquoi c'est défendable* : la question est ancrée dans DORA art. 28(2) (stratégies de
+> sortie exigées dans les contrats des entités financières), donc présentée comme une
+> exigence réglementaire et non un verbatim terrain. Le « bloque les contrats » — indéfendable
+> avec **0 contrat bloqué nommé** (cf. `Q03-3`) — a été retiré.
+> · *À l'oral* : si le jury insiste sur l'origine terrain — vécu en production des fondateurs,
+> **0 à 2 entretiens de discovery formels** (`FINDINGS` §8) ; le jalon compte les occurrences
+> sur 20 entretiens (M+3). Ne pas broder.
 
 - **Q03-1** — `Certaine · Létale` `[Les deux]`
   « La citation "Quelle est votre stratégie de sortie d'OpenAI ? — un contrat bloqué" : qui l'a
@@ -340,6 +339,10 @@ populations différentes), pas factuelle — voir Q02-1 et Q02-3.
 - **Q06-5** — `Possible · Gérable` `[Les deux]`
   « Un LLM appelé par une application bancaire est-il juridiquement un service ICT "supportant une
   fonction critique ou importante" au sens de DORA ? Qui l'a tranché ? »
+
+- **Q06-6** — `Probable · Dangereuse` `[Investisseur]`
+  « L'AI Act, même à calendrier complet, n'impose rien sur la substitution de fournisseurs
+  d'IA. Votre slide l'invoque comme tailwind : sur quelles obligations concrètes reposez-vous ? »
 
 ## Slide 07 — Une brique encore manquante : prouver la substituabilité
 
