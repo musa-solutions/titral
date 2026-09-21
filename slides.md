@@ -533,7 +533,7 @@ Q06-5 [?][ok] Un LLM est-il un service ICT « critique » au sens DORA ?
 <div class="col-span-5 flex flex-col h-full">
 <div class="border-t border-[var(--hair-soft)]">
 <div class="border-b border-[var(--hair-soft)] py-5">
-<div class="text-[11.5px] text-[var(--ink-2)] leading-snug"><span class="text-[var(--ink)] font-medium">Leaderboards publics</span> — continus mais hors-sol : aucune donnée entreprise</div>
+<div class="text-[11.5px] text-[var(--ink-2)] leading-snug"><span class="text-[var(--ink)] font-medium">Leaderboards publics</span> — hors-sol, et sans verdict&nbsp;: l'écart des 2 meilleurs modèles est tombé à <span class="text-[var(--ink)]">0,7&nbsp;%</span> (2023→2025)</div>
 </div>
 <div class="border-b border-[var(--hair-soft)] py-5">
 <div class="text-[11.5px] text-[var(--ink-2)] leading-snug"><span class="text-[var(--ink)] font-medium">Evals · observabilité</span> — surveillent vos traces, jamais pour arbitrer une sortie</div>
@@ -551,6 +551,7 @@ Q06-5 [?][ok] Un LLM est-il un service ICT « critique » au sens DORA ?
 </div>
 
 
+<div class="mt-2 text-[10px] text-[var(--ink-4)]">Écart entre les 2 meilleurs modèles fondants : 4,9&nbsp;% (2023) → 0,7&nbsp;% (début 2025) — CRV, <i>AI Applications</i>. Sources complémentaires : règlement (UE) 2022/2554 (DORA), art. 28 · Menlo Ventures (déc. 2025)</div>
 <div class="deck-footer">07 / 13</div>
 </div>
 
