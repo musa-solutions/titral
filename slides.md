@@ -550,9 +550,7 @@ Q06-5 [?][ok] Un LLM est-il un service ICT « critique » au sens DORA ?
 
 </div>
 
-<div class="lead pt-4">
-Un paysage dense sur la mesure ponctuelle — <span class="text-[var(--ink-2)]">vide sur l'arbitrage de migration.</span>
-</div>
+
 <div class="deck-footer">07 / 13</div>
 </div>
 
@@ -604,16 +602,13 @@ Q07-5 [?][ok] Le vrai concurrent : Excel et l'inaction.
 </div>
 
 <div class="mt-auto pt-5 border-t border-[var(--hair-soft)] lead">
-Risque de comblement : un acteur de l'observabilité ou un gateway ajoutant le rejeu cross-fournisseur. <span class="text-[var(--ink-2)]">Notre expertise OED et le track record d'exécution des fondateurs (AIO) restent la barrière — pas la fonctionnalité.</span>
+Risque de comblement : un acteur de l'observabilité ou un gateway ajoutant le rejeu cross-fournisseur. <span class="text-[var(--ink-2)]">Notre expertise OED et le track record d'exécution des fondateurs restent la barrière — pas la fonctionnalité.</span>
 </div>
 
 <div class="deck-footer">08 / 13</div>
 </div>
 
 <!--
-S08 · AVANTAGE CONCURRENTIEL
-
-!! Aucun problème factuel identifié. Aucun chiffre sur la slide, et elle affiche elle-même le risque de comblement. Faiblesse stratégique : le track record présenté comme barrière à l'entrée (Q08-4).
 
 Q08-1 [C][LETALE] Une méthode ne se dépose pas. Qu'est-ce qui est opposable ?
 > Rien juridiquement aujourd'hui : pas de brevet, pas de dataset, pas d'effet de réseau. Avance d'exécution : 10 mois de construction sur cas réels, 6 ans d'OED, pipeline qui tourne. Le moat à construire = référentiel de tâches et profils de performance par usage. Dire que la barrière est à construire plutôt que vendre un moat inexistant.
@@ -654,7 +649,7 @@ Q08-5 [?][DANGER] Quel actif s'accumule ? Sinon vous êtes une agence.
 <div class="eyebrow eyebrow-hl">Expand</div>
 <div class="text-[15px] font-medium text-[var(--ink)] mt-1">Continuous Exit Assurance</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">Rejeu des tests dès que le modèle, le fournisseur, le prix, le workload ou la règle de conformité change</div>
-<div class="text-[13px] text-[var(--ink)] mt-2.5 leading-snug">Hypothèses : 15–30&nbsp;k€ ARR mid-market · 50–100&nbsp;k€+ ARR portefeuille entreprise</div>
+<div class="text-[13px] text-[var(--ink)] mt-2.5 leading-snug">Hypothèses : 30–80&nbsp;k€ ARR mid-market · 50–100&nbsp;k€+ ARR portefeuille entreprise</div>
 </div>
 </div>
 
@@ -714,7 +709,7 @@ Q09-5 [?][DANGER] Coût de livraison réel ?
 <div class="h-full flex flex-col px-16 pt-10 pb-10">
 
 <div class="kicker">10 · Go-to-market</div>
-<h2 class="h-title">Un GTM déclenché par les événements, pas par les secteurs</h2>
+<h2 class="h-title">GTM déclenché par les événements, pas par les secteurs</h2>
 
 <div class="grid grid-cols-3 gap-3 mt-5 items-stretch">
 <div class="card p-4 flex flex-col">
@@ -888,9 +883,6 @@ Q10-6 [?][ok] 60 % du temps, de quoi ?
 </div>
 
 <!--
-S11 · VALIDATION
-
-!! À préserver : « Pré-revenus, stade early » est la force de cette slide. Ne pas la surjouer à l'oral.
 
 Q11-1 [C][LETALE] Combien d'entretiens clients, avec qui, et qu'est-ce qui a CHANGÉ le deck ?
 > Entre 0 et 2 entretiens formels. C'est écrit dans nos notes de recherche. Tout ce qui touche pricing, ICP et funnel est une hypothèse fondatrice, étiquetée comme telle sur les slides. Ce que nous avons : 10 mois de problème vécu en production + une techno qui tourne. Jalon daté : 20 entretiens M+3, 2 à 3 design partners payants M+6, jugez-nous là-dessus.
