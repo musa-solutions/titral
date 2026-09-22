@@ -460,9 +460,9 @@ Q05-6 [?][DANGER] Un verdict périmé la semaine suivante ?
 </div>
 
 <div class="lead pt-5">
-Hausse de prix, dépréciation de modèles, pannes, réglementation, souveraineté, levier de négociation — <span class="text-[var(--ink-2)]">tout converge vers la même capacité : une substituabilité testée, pas une déclaration d'intention.</span>
+La cadence impose la fréquence&nbsp;: <span class="text-[var(--ink-2)]">un nouveau modèle leader tous les 5,5&nbsp;jours — chaque photographie est périmée avant d'être livrée.</span> Hausse de prix, dépréciation de modèles, pannes, réglementation, souveraineté, levier de négociation — <span class="text-[var(--ink-2)]">tout converge vers la même capacité : une substituabilité testée en continu, pas une déclaration d'intention.</span>
 </div>
-<div class="mt-2 text-[10px] text-[var(--ink-4)]">Sources : règlement (UE) 2022/2554 (DORA), art. 28 · règlement (UE) 2024/1689 (AI Act), Omnibus 2026 (accord provisoire) · Vision Compliance (avr. 2026)</div>
+<div class="mt-2 text-[10px] text-[var(--ink-4)]">Sources : règlement (UE) 2022/2554 (DORA), art. 28 · règlement (UE) 2024/1689 (AI Act), Omnibus 2026 (accord provisoire) · Vision Compliance (avr. 2026) · tempori.co, <i>The Absorption Gap</i> (août 2026)</div>
 <div class="deck-footer">06 / 13</div>
 </div>
 
@@ -485,6 +485,9 @@ Q06-4 [?][ok] Aucun fournisseur d'IA parmi les 19 CTPP.
 
 Q06-5 [?][ok] Un LLM est-il un service ICT « critique » au sens DORA ?
 > C'est le client qui qualifie. Souscription ou service client réglementé : oui. Contenu marketing : non, et là on vend l'économie de coût et le levier de négociation.
+
+Q06-7 [?][DANGER] D'où vient « un nouveau modèle leader tous les 5,5 jours » ?
+> Tempori.co, The Absorption Gap (août 2026) : 18 labs, 65 releases de modèles leaders sur 12 mois ≈ 1 / 5,5 jours. Source presse — l'argument structurel (la cadence s'accélère, un audit ponctuel périme) tient sans le chiffre ; Gartner : +15–25 % de coût IA sur 3 ans pour les changements non planifiés.
 -->
 
 ---
@@ -651,6 +654,7 @@ Q08-5 [?][DANGER] Quel actif s'accumule ? Sinon vous êtes une agence.
 <div class="text-[15px] font-medium text-[var(--ink)] mt-1">Continuous Exit Assurance</div>
 <div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">Rejeu des tests dès que le modèle, le fournisseur, le prix, le workload ou la règle de conformité change</div>
 <div class="text-[13px] text-[var(--ink)] mt-2.5 leading-snug">Hypothèses : 30–80&nbsp;k€ ARR mid-market · 50–100&nbsp;k€+ ARR portefeuille entreprise</div>
+<div class="text-[11.5px] text-[var(--ink-3)] mt-1.5 leading-snug">Repère : une seule passe d'évaluation indépendante coûte 40–320&nbsp;k$ (recherche) — moins cher qu'une passe, pour toutes les passes de l'année</div>
 </div>
 </div>
 
@@ -687,7 +691,7 @@ Q08-5 [?][DANGER] Quel actif s'accumule ? Sinon vous êtes une agence.
 S09 · BUSINESS MODEL
 
 Q09-1 [C][LETALE] Sur quoi reposent ces prix ? Qui a dit « à 8 k€ j'achète » ?
-> Personne, zéro à ce jour, la slide dit « pricing hypotheses ». 3 ancrages : observabilité entreprise ~2,5 k$/mois (tarifs publics), audit conseil à plusieurs dizaines de k€, Land sous le seuil qui déclenche un comité. 20 réponses à cette question exacte à M+3, signatures ou non à M+6.
+> Personne, zéro à ce jour, la slide dit « pricing hypotheses ». 4 ancrages : observabilité entreprise ~2,5 k$/mois (tarifs publics), audit conseil à plusieurs dizaines de k€, une passe d'évaluation indépendante 40–320 k$ (tempori.co, août 2026), Land sous le seuil qui déclenche un comité. 20 réponses à cette question exacte à M+3, signatures ou non à M+6.
 
 Q09-2 [P][DANGER] 3 à 10 k€ pour un cycle de 3 à 6 mois : CAC > 1re commande.
 > Deux issues acceptées d'avance. Cycle ~3 mois avec 1 décideur : Land 5-10 k€ puis Expand 15-30 k€ tient. Cycle plus long : on MONTE le prix d'entrée et on vend directement l'assurance continue, moins de clients plus gros. Ce que la discovery teste : à quel prix le cycle reste court.
@@ -731,7 +735,7 @@ Q09-5 [?][DANGER] Coût de livraison réel ?
 </div>
 <div class="card p-4 flex flex-col">
 <div class="eyebrow">Trigger 3 · Disruption modèle</div>
-<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">Un fournisseur change de modèle, de termes ou de <span class="text-[var(--ink)] font-medium">prix</span>.</div>
+<div class="text-[13px] text-[var(--ink-2)] mt-1.5 leading-snug">Un fournisseur déprécie un modèle, change ses termes ou son <span class="text-[var(--ink)] font-medium">prix</span> — chaque notice de dépréciation est un compte à rebours sur votre production.</div>
 <div class="mt-auto pt-3 flex items-baseline gap-2">
 <span class="accent text-[13px]">→</span>
 <span class="text-[11.5px] text-[var(--ink-3)]">Titral montre les alternatives et leur impact</span>
